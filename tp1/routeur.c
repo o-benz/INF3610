@@ -55,7 +55,7 @@ float  max_delay_video_float;
 float  max_delay_audio_float;
 float  max_delay_autre_float;
 
-// À utiliser pour suivre le remplissage et le vidage des fifos
+// ï¿½ utiliser pour suivre le remplissage et le vidage des fifos
 // Mettre en commentaire et utiliser la fonction vide suivante si vous ne voulez pas de trace
 #if FULL_TRACE == 1
 #define safeprintf(fmt, ...)															\
@@ -131,7 +131,7 @@ int create_events() {
 	OSMutexCreate(&mutTaskComputing, "mutTaskComputing", &err);
 	OSSemCreate(&SemTaskComputing, "SemTaskComputing", 1, &err);
 
-	// Creation des files externes - va servir à la manipulation 2
+	// Creation des files externes - va servir ï¿½ la manipulation 2
 	OSQCreate(&source_errQ, "source_errQ", 1024, &err);
 	OSQCreate(&crc_errQ, "crc_errQ", 1024, &err);
 
@@ -194,7 +194,7 @@ void Update_TS(Packet* packet) {
 /*
  *********************************************************************************************************
  *											  TaskGeneratePacket
- *  - Génère des paquets et les envoie dans la InputQ.
+ *  - Gï¿½nï¿½re des paquets et les envoie dans la InputQ.
  *
  *
  *********************************************************************************************************
@@ -266,7 +266,7 @@ void TaskGenerate(void *data) {
 			else
 				safeprintf("\TaskGenenerate: nb de paquets dans fifo de TaskQueueing - apres production: %d \n", TaskQueueingTCB.MsgQ.NbrEntries);
 
-			if ((nbPacketCrees % packGenQty) == 0) //On genère au maximum 255 paquets par phase de géneration
+			if ((nbPacketCrees % packGenQty) == 0) //On genï¿½re au maximum 255 paquets par phase de gï¿½neration
 				{
 					safeprintf("\n***** TaskGenerate: FIN DE LA RAFALE No %d \n\n", nb_rafales);
 					isGenPhase = false;
@@ -336,7 +336,7 @@ unsigned int  computeCRC(uint16_t* w, int nleft) {
 	OS_ERR err;
 	uint16_t answer = 0;
 
-	// Code à compléter pour le calcul du nombre de ticks dans la manipulation 1
+	// Code ï¿½ complï¿½ter pour le calcul du nombre de ticks dans la manipulation 1
 
 
 
@@ -358,7 +358,7 @@ unsigned int  computeCRC(uint16_t* w, int nleft) {
 
 	answer = ~sum;
 
-	// Code à compléter pour le calcul du nombre de ticks dans la manipulation 1
+	// Code ï¿½ complï¿½ter pour le calcul du nombre de ticks dans la manipulation 1
 
 	return answer;
 }
@@ -449,7 +449,7 @@ void TaskQueueing(void *pdata) {
 /*
  *********************************************************************************************************
  *											  TaskComputing
- *  -Vérifie si les paquets sont conformes i.e. qu on emule un CRC et on verifie l espace addresse
+ *  -Vï¿½rifie si les paquets sont conformes i.e. qu on emule un CRC et on verifie l espace addresse
  *  -Dispatche les paquets dans des files (HIGH,MEDIUM,LOW)
  *
  *********************************************************************************************************
@@ -490,19 +490,20 @@ void TaskComputing(void *pdata) {
 
 		}
 
-		else {    // we can start processing and forwarding
-
-			// we may emulate a certain time for the processing and also emulate priority inheritance
-
-			/*
-			   code à ajouter ici pour émuler un temps de traitement:
-			   structure de switch sur packet->type
-			   et donnez une valeur aleatoire dans l'intervalle ]0 et 1] tick
-			   pour chaque type de paquet
-			 */
-
-
-
+		else {
+			switch(packet->type) {
+				case PACKET_VIDEO:
+					WAITFORTICKS = 1 + (rand() % 1000) / 1000.0;
+					break;
+				case PACKET_AUDIO:
+					WAITFORTICKS = 1 + (rand() % 1000) / 1000.0;
+					break;
+				case PACKET_AUTRE:
+					WAITFORTICKS = 1 + (rand() % 1000) / 1000.0;
+					break;
+				default:
+					WAITFORTICKS = 1;
+			}
 
 			/* Test sur la destination du paquet */
 			if(packet->dst >= INT1_LOW && packet->dst <= INT1_HIGH ){
@@ -575,7 +576,7 @@ void TaskComputing(void *pdata) {
 /*
  *********************************************************************************************************
  *											  TaskPrint
- *  -Affiche les infos des paquets arrivés à destination et libere la mémoire allouée
+ *  -Affiche les infos des paquets arrivï¿½s ï¿½ destination et libere la mï¿½moire allouï¿½e
  *********************************************************************************************************
  */
 void TaskOutputPort(void *data) {
@@ -602,7 +603,7 @@ void TaskOutputPort(void *data) {
 		OSMutexPost(&mutPrint, OS_OPT_POST_NONE, &perr);
 #endif
 
-		/*Libération de la mémoire*/
+		/*Libï¿½ration de la mï¿½moire*/
 		OSMemPut(&BLockMem, (void *)packet, &err);
 		OSSemPost(&Sem_MemBlock,  OS_OPT_POST_1, &err);
 	}
@@ -612,8 +613,8 @@ void TaskOutputPort(void *data) {
 /*
  *********************************************************************************************************
  *                                              TaskStats
- *  -Est déclenchée lorsque le gpio_isr() libère le sémaphore
- *  -Lorsque déclenchée, imprime les statistiques du routeur à cet instant
+ *  -Est dï¿½clenchï¿½e lorsque le gpio_isr() libï¿½re le sï¿½maphore
+ *  -Lorsque dï¿½clenchï¿½e, imprime les statistiques du routeur ï¿½ cet instant
  *********************************************************************************************************
  */
  void TaskStats(void* pdata) {
@@ -656,7 +657,7 @@ void TaskOutputPort(void *data) {
 		xil_printf("18- Message free : %d \n", OSMsgPool.NbrFree);
 		xil_printf("19- Message used : %d \n", OSMsgPool.NbrUsed);
 		xil_printf("20- Message used max : %d \n", OSMsgPool.NbrUsedMax);
-		xil_printf("21- Nombre de ticks depuis le début de l'execution %d \n", OSTimeGet(&err));
+		xil_printf("21- Nombre de ticks depuis le dï¿½but de l'execution %d \n", OSTimeGet(&err));
 
 		OSMutexPost(&mutPrint, OS_OPT_POST_NONE, &err);
 
@@ -678,12 +679,12 @@ void TaskOutputPort(void *data) {
 		xil_printf("\r\n");
 
 #endif
-		// On vide la fifo des paquets rejetés et on imprime si l option est demandee
+		// On vide la fifo des paquets rejetï¿½s et on imprime si l option est demandee
 #if FULL_TRACE == 1
 
 		while(1) {
 
-			packet = OSTaskQPend(0, OS_OPT_PEND_NON_BLOCKING, &msg_size, &ts, &err);  // On prend soin de ne pas resté bloqué
+			packet = OSTaskQPend(0, OS_OPT_PEND_NON_BLOCKING, &msg_size, &ts, &err);  // On prend soin de ne pas restï¿½ bloquï¿½
             if (err == OS_ERR_PEND_WOULD_BLOCK) {
                 break;
             }
@@ -727,7 +728,7 @@ void TaskOutputPort(void *data) {
 		// On stoppe tout le programme quand on a atteint la limite de paquets
 		if (nbPacketCrees > limite_de_paquets)  OSSemPost(&Sem,  OS_OPT_POST_1 + OS_OPT_POST_NO_SCHED, &err);
 
-		// On imprime ls statistiques à toutes les 30 secondes
+		// On imprime ls statistiques ï¿½ toutes les 30 secondes
 		OSTimeDlyHMSM(0, 0, 30, 0, OS_OPT_TIME_HMSM_STRICT, &err);
 
 	}
@@ -739,7 +740,7 @@ void err_msg(char* entete, uint8_t err)
 	if(err != 0)
 	{
 		xil_printf(entete);
-		xil_printf(": Une erreur est retournée : code %d \n",err);
+		xil_printf(": Une erreur est retournï¿½e : code %d \n",err);
 	}
 }
 
@@ -826,7 +827,7 @@ void StartupTask (void *p_arg)
 	xil_printf("\nfreq du timestamp: %d\n", freq_hz);
 
 
-	// On crée les tâches
+	// On crï¿½e les tï¿½ches
 
 	for(i = 0; i < NB_FIFO; i++)
 	{
