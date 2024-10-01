@@ -473,6 +473,11 @@ void TaskComputing(void *pdata) {
 
 		safeprintf("\nTaskComputing %s: nb de paquets apres consommation du fifo: %d \n", info.name, TaskComputingTCB[info.id].MsgQ.NbrEntries);
 
+		// 1. Verrouiller le mutex pour HighQ (PACKET_VIDEO) et LowQ (PACKET_AUTRE)
+		        if (info.id == PACKET_VIDEO || info.id == PACKET_AUTRE) {
+		            OSMutexPend(&mutTaskComputing, 0, OS_OPT_PEND_BLOCKING, &ts, &err);
+		        }
+
 		//Verification de l'espace d'addressage
 		if ((packet->src > REJECT_LOW1 && packet->src < REJECT_HIGH1) ||
 			(packet->src > REJECT_LOW2 && packet->src < REJECT_HIGH2) ||
@@ -502,16 +507,16 @@ void TaskComputing(void *pdata) {
 			 */
 				switch (packet->type) {
 						case PACKET_VIDEO:
-							WAITFORTICKS = (rand() % 2) * 8;  // Attente spécifique pour paquets vidéo
+							WAITFORTICKS = (rand() % 2);
 							break;
 						case PACKET_AUDIO:
-							WAITFORTICKS = (rand() % 2);  // Attente spécifique pour paquets audio
+							WAITFORTICKS = (rand() % 2);
 							break;
 						case PACKET_AUTRE:
-							WAITFORTICKS = (rand() % 2);  // Attente spécifique pour paquets de données
+							WAITFORTICKS = (rand() % 2);
 							break;
 						default:
-							WAITFORTICKS = 0;  // Pas d'attente pour autres types
+							WAITFORTICKS = 0;
 							break;
 					}
 
@@ -584,6 +589,10 @@ void TaskComputing(void *pdata) {
 				++nbPacketTraites;
 			}
 
+		}
+		 // 2. Libérer le mutex après le traitement pour HighQ (PACKET_VIDEO) et LowQ (PACKET_AUTRE)
+		if (info.id == PACKET_VIDEO || info.id == PACKET_AUTRE) {
+			OSMutexPost(&mutTaskComputing, OS_OPT_POST_NONE, &err);
 		}
 
 	}
