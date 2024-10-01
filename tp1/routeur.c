@@ -55,7 +55,7 @@ float  max_delay_video_float;
 float  max_delay_audio_float;
 float  max_delay_autre_float;
 
-// √Ä utiliser pour suivre le remplissage et le vidage des fifos
+// ¿ utiliser pour suivre le remplissage et le vidage des fifos
 // Mettre en commentaire et utiliser la fonction vide suivante si vous ne voulez pas de trace
 #if FULL_TRACE == 1
 #define safeprintf(fmt, ...)															\
@@ -131,7 +131,7 @@ int create_events() {
 	OSMutexCreate(&mutTaskComputing, "mutTaskComputing", &err);
 	OSSemCreate(&SemTaskComputing, "SemTaskComputing", 1, &err);
 
-	// Creation des files externes - va servir √† la manipulation 2
+	// Creation des files externes - va servir ‡ la manipulation 2
 	OSQCreate(&source_errQ, "source_errQ", 1024, &err);
 	OSQCreate(&crc_errQ, "crc_errQ", 1024, &err);
 
@@ -194,7 +194,7 @@ void Update_TS(Packet* packet) {
 /*
  *********************************************************************************************************
  *											  TaskGeneratePacket
- *  - G√©n√®re des paquets et les envoie dans la InputQ.
+ *  - GÈnËre des paquets et les envoie dans la InputQ.
  *
  *
  *********************************************************************************************************
@@ -266,7 +266,7 @@ void TaskGenerate(void *data) {
 			else
 				safeprintf("\TaskGenenerate: nb de paquets dans fifo de TaskQueueing - apres production: %d \n", TaskQueueingTCB.MsgQ.NbrEntries);
 
-			if ((nbPacketCrees % packGenQty) == 0) //On gen√®re au maximum 255 paquets par phase de g√©neration
+			if ((nbPacketCrees % packGenQty) == 0) //On genËre au maximum 255 paquets par phase de gÈneration
 				{
 					safeprintf("\n***** TaskGenerate: FIN DE LA RAFALE No %d \n\n", nb_rafales);
 					isGenPhase = false;
@@ -336,7 +336,7 @@ unsigned int  computeCRC(uint16_t* w, int nleft) {
 	OS_ERR err;
 	uint16_t answer = 0;
 
-	// Code √† compl√©ter pour le calcul du nombre de ticks dans la manipulation 1
+	// Code ‡ complÈter pour le calcul du nombre de ticks dans la manipulation 1
 
 
 
@@ -358,7 +358,7 @@ unsigned int  computeCRC(uint16_t* w, int nleft) {
 
 	answer = ~sum;
 
-	// Code √† compl√©ter pour le calcul du nombre de ticks dans la manipulation 1
+	// Code ‡ complÈter pour le calcul du nombre de ticks dans la manipulation 1
 
 	return answer;
 }
@@ -449,7 +449,7 @@ void TaskQueueing(void *pdata) {
 /*
  *********************************************************************************************************
  *											  TaskComputing
- *  -V√©rifie si les paquets sont conformes i.e. qu on emule un CRC et on verifie l espace addresse
+ *  -VÈrifie si les paquets sont conformes i.e. qu on emule un CRC et on verifie l espace addresse
  *  -Dispatche les paquets dans des files (HIGH,MEDIUM,LOW)
  *
  *********************************************************************************************************
@@ -474,7 +474,7 @@ void TaskComputing(void *pdata) {
 		safeprintf("\nTaskComputing %s: nb de paquets apres consommation du fifo: %d \n", info.name, TaskComputingTCB[info.id].MsgQ.NbrEntries);
 
 		// 1. Verrouiller le mutex pour HighQ (PACKET_VIDEO) et LowQ (PACKET_AUTRE)
-		        if (info.id == PACKET_VIDEO || info.id == PACKET_AUTRE) {
+		if (info.id == PACKET_VIDEO || info.id == PACKET_AUTRE) {
 		            OSMutexPend(&mutTaskComputing, 0, OS_OPT_PEND_BLOCKING, &ts, &err);
 		        }
 
@@ -500,6 +500,7 @@ void TaskComputing(void *pdata) {
 			// we may emulate a certain time for the processing and also emulate priority inheritance
 
 			/*
+			   code ‡ ajouter ici pour Èmuler un temps de traitement:
 			   structure de switch sur packet->type
 			   et donnez une valeur aleatoire dans l'intervalle [0 et 2] tick
 			   pour chaque type de paquet
@@ -522,8 +523,6 @@ void TaskComputing(void *pdata) {
 
 					CPU_TS64 actualticks = OSTimeGet(&err);
 					while (WAITFORTICKS + actualticks > OSTimeGet(&err));
-
-
 
 
 
@@ -590,10 +589,10 @@ void TaskComputing(void *pdata) {
 			}
 
 		}
-		 // 2. Lib√©rer le mutex apr√®s le traitement pour HighQ (PACKET_VIDEO) et LowQ (PACKET_AUTRE)
+		// LibÈrer le mutex aprËs l'attente pour HighQ et LowQ
 		if (info.id == PACKET_VIDEO || info.id == PACKET_AUTRE) {
-			OSMutexPost(&mutTaskComputing, OS_OPT_POST_NONE, &err);
-		}
+		            OSMutexPost(&mutTaskComputing, OS_OPT_POST_NONE, &err);
+		        }
 
 	}
 }
@@ -602,7 +601,7 @@ void TaskComputing(void *pdata) {
 /*
  *********************************************************************************************************
  *											  TaskPrint
- *  -Affiche les infos des paquets arriv√©s √† destination et libere la m√©moire allou√©e
+ *  -Affiche les infos des paquets arrivÈs ‡ destination et libere la mÈmoire allouÈe
  *********************************************************************************************************
  */
 void TaskOutputPort(void *data) {
@@ -629,7 +628,7 @@ void TaskOutputPort(void *data) {
 		OSMutexPost(&mutPrint, OS_OPT_POST_NONE, &perr);
 #endif
 
-		/*Lib√©ration de la m√©moire*/
+		/*LibÈration de la mÈmoire*/
 		OSMemPut(&BLockMem, (void *)packet, &err);
 		OSSemPost(&Sem_MemBlock,  OS_OPT_POST_1, &err);
 	}
@@ -639,8 +638,8 @@ void TaskOutputPort(void *data) {
 /*
  *********************************************************************************************************
  *                                              TaskStats
- *  -Est d√©clench√©e lorsque le gpio_isr() lib√®re le s√©maphore
- *  -Lorsque d√©clench√©e, imprime les statistiques du routeur √† cet instant
+ *  -Est dÈclenchÈe lorsque le gpio_isr() libËre le sÈmaphore
+ *  -Lorsque dÈclenchÈe, imprime les statistiques du routeur ‡ cet instant
  *********************************************************************************************************
  */
  void TaskStats(void* pdata) {
@@ -683,7 +682,7 @@ void TaskOutputPort(void *data) {
 		xil_printf("18- Message free : %d \n", OSMsgPool.NbrFree);
 		xil_printf("19- Message used : %d \n", OSMsgPool.NbrUsed);
 		xil_printf("20- Message used max : %d \n", OSMsgPool.NbrUsedMax);
-		xil_printf("21- Nombre de ticks depuis le d√©but de l'execution %d \n", OSTimeGet(&err));
+		xil_printf("21- Nombre de ticks depuis le dÈbut de l'execution %d \n", OSTimeGet(&err));
 
 		OSMutexPost(&mutPrint, OS_OPT_POST_NONE, &err);
 
@@ -705,12 +704,12 @@ void TaskOutputPort(void *data) {
 		xil_printf("\r\n");
 
 #endif
-		// On vide la fifo des paquets rejet√©s et on imprime si l option est demandee
+		// On vide la fifo des paquets rejetÈs et on imprime si l option est demandee
 #if FULL_TRACE == 1
 
 		while(1) {
 
-			packet = OSTaskQPend(0, OS_OPT_PEND_NON_BLOCKING, &msg_size, &ts, &err);  // On prend soin de ne pas rest√© bloqu√©
+			packet = OSTaskQPend(0, OS_OPT_PEND_NON_BLOCKING, &msg_size, &ts, &err);  // On prend soin de ne pas restÈ bloquÈ
             if (err == OS_ERR_PEND_WOULD_BLOCK) {
                 break;
             }
@@ -754,7 +753,7 @@ void TaskOutputPort(void *data) {
 		// On stoppe tout le programme quand on a atteint la limite de paquets
 		if (nbPacketCrees > limite_de_paquets)  OSSemPost(&Sem,  OS_OPT_POST_1 + OS_OPT_POST_NO_SCHED, &err);
 
-		// On imprime ls statistiques √† toutes les 30 secondes
+		// On imprime ls statistiques ‡ toutes les 30 secondes
 		OSTimeDlyHMSM(0, 0, 30, 0, OS_OPT_TIME_HMSM_STRICT, &err);
 
 	}
@@ -766,7 +765,7 @@ void err_msg(char* entete, uint8_t err)
 	if(err != 0)
 	{
 		xil_printf(entete);
-		xil_printf(": Une erreur est retourn√©e : code %d \n",err);
+		xil_printf(": Une erreur est retournÈe : code %d \n",err);
 	}
 }
 
@@ -853,7 +852,7 @@ void StartupTask (void *p_arg)
 	xil_printf("\nfreq du timestamp: %d\n", freq_hz);
 
 
-	// On cr√©e les t√¢ches
+	// On crÈe les t‚ches
 
 	for(i = 0; i < NB_FIFO; i++)
 	{
@@ -916,3 +915,4 @@ void StartupTask (void *p_arg)
     OSTaskSuspend((OS_TCB *)0,&err);
 
 }
+

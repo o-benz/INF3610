@@ -33,7 +33,7 @@
 
 #define			 WAITFORComputing				1
 
-#define 		 FULL_TRACE 					1
+#define 		 FULL_TRACE 					0
 #define 		 PERFORMANCE_TRACE				1
 
 // Routing info.
@@ -166,8 +166,8 @@ int nbPacketMauvaisCRCTotal =0;
 int nbPacketMauvaisePriorite =0;
 int nbPacketMauvaisePrioriteTotal = 0;
 
-int delai_pour_vider_les_fifos_sec = 1;
-int delai_pour_vider_les_fifos_msec = 0;
+int delai_pour_vider_les_fifos_sec = 0;
+int delai_pour_vider_les_fifos_msec = 5;
 int print_paquets_rejetes = 0;
 int limite_de_paquets= 100000;
 
