@@ -187,6 +187,68 @@ void Update_TS(Packet* packet) {
 */
 
 
+void gpio_isr0(void *p_int_arg, CPU_INT32U source_cpu) {
+	CPU_TS ts;
+	OS_ERR err;
+	OS_FLAGS flags;
+
+	int button_data = 0;
+	button_data = DiscreteRead();
+
+	DiscreteWrite(button_data);
+
+	xil_printf("---------------gpio_isr0---------------\n");
+
+	if (button_data == BP0) {
+		ConfigureSystem(NORMAL_MODE);
+		OSFlagPost(&RouterStatus, TASKS_ROUTER, OS_OPT_POST_FLAG_SET, &err);
+	} else if (button_data == BP1) {
+		ConfigureSystem(SUSPENDED_MODE);
+		OSFlagPost(&RouterStatus, TASKS_ROUTER, OS_OPT_POST_FLAG_CLR, &err);
+	} else if (button_data == BP2) {
+		OSFlagPost(&RouterStatus, TASK_SHUTDOWN, OS_OPT_POST_FLAG_SET, &err);
+	}
+
+	XGPIO_IR_MASK(0);
+}
+
+void fit_timer_isr0(void *p_int_arg, CPU_INT32U source_cpu) {
+    OS_ERR perr;
+    CPU_TS ts;
+    OS_FLAGS flags;
+    xil_printf("------------------ FIT TIMER 0 -------------------\n");
+
+    if (!isSystemPaused()) {
+        OSFlagPost(&RouterStatus, TASK_STOP_RDY, OS_OPT_POST_FLAG_SET, &perr);
+    }
+}
+
+void gpio_isr1(void *p_int_arg, CPU_INT32U source_cpu) {
+    CPU_TS ts;
+    OS_ERR err;
+    int switch_data = 0;
+
+    switch_data = ReadSwitch();
+    DiscreteWrite(switch_data);
+
+    if (isSystemInNormalMode()) {
+        Prev_Status_TaskComputing = Status_TaskComputing;
+        
+        if (switch_data == SWITCH0) {
+            Status_TaskComputing = CS_Mutex;
+        } else if (switch_data == SWITCH1) {
+            Status_TaskComputing = CS_Semaphore;
+        } else if (switch_data == No_SWITCH || (switch_data == (SWITCH1 | SWITCH2))) {
+            Status_TaskComputing = No_CS;
+        }
+        
+        OSFlagPost(&RouterStatus, TASK_CLEAR_FIFO, OS_OPT_POST_FLAG_SET, &err);
+    }
+    XGPIO_IR_MASK(0);
+}
+
+
+
 ///////////////////////////////////////////////////////////////////////////////////////
 //									TASKS
 ///////////////////////////////////////////////////////////////////////////////////////
@@ -285,6 +347,24 @@ void TaskGenerate(void *data) {
 	}
 }
 
+void TaskClearFifo(void *data) {
+    CPU_TS ts;
+    OS_ERR err;
+
+    while (true) {
+        OSFlagPend(&RouterStatus, TASK_CLEAR_FIFO_RDY, 0, OS_OPT_PEND_BLOCKING, &ts, &err);
+
+        if (Status_TaskComputing != Prev_Status_TaskComputing) {
+            ClearFifos();
+            NbrEntriesMax[0] = 0;
+            max_delay_video = 0;
+            max_delay_audio = 0;
+            max_delay_autre = 0;
+
+            OSFlagPost(&RouterStatus, TASK_STATS_PRINT, OS_OPT_POST_FLAG_SET, &err);
+        }
+    }
+}
 
 /*
  *********************************************************************************************************
@@ -305,18 +385,23 @@ void TaskReset(void* data) {
 		OSTaskSuspend((OS_TCB *)0,&err);
 
 		}
-	}
+}
 
-void TaskStop(void* data){
-	CPU_TS ts;
-	OS_ERR err;
-	OS_FLAGS  flags;
-		OSSemPend(&Sem,0, OS_OPT_PEND_BLOCKING, &ts, &err);
-		// Suspend all tasks except statistics one
-		xil_printf("--------------------- Task stop suspend all tasks -------------\n");
-		flags = OSFlagPost(&RouterStatus, TASKS_ROUTER, OS_OPT_POST_FLAG_CLR, &err);
-		xil_printf("--------------------- Flags: %x ---------------------------------------\n", RouterStatus.Flags);
-		OSTaskSuspend((OS_TCB *)0,&err);
+void TaskStop(void *data) {
+    CPU_TS ts;
+    OS_ERR err;
+    
+    while (true) {
+        OSFlagPend(&RouterStatus, TASK_STOP_RDY, 0, OS_OPT_PEND_BLOCKING, &ts, &err);
+
+        OSFlagPost(&RouterStatus, TASK_STATS_PRINT, OS_OPT_POST_FLAG_SET, &err);
+
+        if (nbPacketCRCRejete <= LIMIT) {
+            safeprintf("-------- Task stop suspend all tasks -------\n");
+            SetSystemState(SUSPENDED);
+            OSFlagPost(&RouterStatus, TASKS_ROUTER, OS_OPT_POST_FLAG_CLR, &err);
+        }
+    }
 }
 
 /*
@@ -653,6 +738,7 @@ void TaskOutputPort(void *data) {
 	while (1) {
 
 		OSFlagPend(&RouterStatus, TASK_STATS_RDY, 0, OS_OPT_PEND_FLAG_SET_ALL + OS_OPT_PEND_BLOCKING, &ts, &err);
+		OSFlagPend(&RouterStatus, TASK_STATS_PRINT, 0, OS_OPT_PEND_FLAG_SET_ALL + OS_OPT_PEND_BLOCKING, &ts, &err);  // New OSFlagPend added
 
 		OSMutexPend(&mutPrint, 0, OS_OPT_PEND_BLOCKING, &ts, &err);
 
@@ -752,10 +838,10 @@ void TaskOutputPort(void *data) {
 
 
 		// On stoppe tout le programme quand on a atteint la limite de paquets
-		if (nbPacketCrees > limite_de_paquets)  OSSemPost(&Sem,  OS_OPT_POST_1 + OS_OPT_POST_NO_SCHED, &err);
+		// if (nbPacketCrees > limite_de_paquets)  OSSemPost(&Sem,  OS_OPT_POST_1 + OS_OPT_POST_NO_SCHED, &err);
 
 		// On imprime ls statistiques à toutes les 30 secondes
-		OSTimeDlyHMSM(0, 0, 30, 0, OS_OPT_TIME_HMSM_STRICT, &err);
+		// OSTimeDlyHMSM(0, 0, 30, 0, OS_OPT_TIME_HMSM_STRICT, &err);
 
 	}
 }
@@ -913,6 +999,16 @@ void StartupTask (void *p_arg)
 
     OSTaskCreate(&TaskStopTCB, "TaskStop", TaskStop, (void*)0, TaskStopPRIO, &TaskStopSTK[0u], TASK_STK_SIZE / 2, TASK_STK_SIZE, 1, 0, (void*)0, (OS_OPT_TASK_STK_CHK | OS_OPT_TASK_STK_CLR), &err);
 
-    OSTaskSuspend((OS_TCB *)0,&err);
-
+    UCOS_Print("Router initialized - Ready to launch - Hit push button\r\n");
+    
+	OSFlagPend(&RouterStatus, TASK_SHUTDOWN, 0, OS_OPT_PEND_BLOCKING, &ts, &err);
+	
+	UCOS_Print("Prepare to shutdown System - \r\n");
+	
+	while (1) {
+		TurnLEDButton(0b1111);
+		OSTimeDlyHMSM(0, 0, 1, 0, OS_OPT_TIME_HMSM_STRICT, &err);
+		TurnLEDButton(0b0000);
+		OSTimeDlyHMSM(0, 0, 1, 0, OS_OPT_TIME_HMSM_STRICT, &err);
+	}
 }
