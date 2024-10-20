@@ -15,33 +15,7 @@
 
 
 #include "routeur.h"
-
-#include  <cpu.h>
-#include  <lib_mem.h>
-
-#include <os.h>
-#include <stdlib.h>
-#include <inttypes.h>
-#include <stdbool.h>
-
-#include <app_cfg.h>
-#include <cpu.h>
-#include <ucos_bsp.h>
-#include <ucos_int.h>
-#include <xparameters.h>
-#include <KAL/kal.h>
-
-#include <xil_printf.h>
-
-#include  <stdio.h>
-#include  <ucos_bsp.h>
-
-#include <Source/os.h>
-#include <os_cfg_app.h>
-
-#include <xgpio.h>
-#include <xintc.h>
-#include <xil_exception.h>
+#include "interrupts.h"
 
 
 #define LLONG_MAX  9223372036854775807
@@ -54,6 +28,30 @@ CPU_TS64  max_delay_autre = 0L;
 float  max_delay_video_float;
 float  max_delay_audio_float;
 float  max_delay_autre_float;
+
+int nbPacketCrees = 0;
+int nbPacketTraites = 0;
+int nbPacketRejetes = 0;
+int nbPacketRejetesTotal = 0;
+int nbPacketFIFOpleine = 0;
+int nbPacketFIFOpleineTotal = 0;
+int nbPacketMauvaiseSource = 0;
+int nbPacketMauvaiseSourceTotal = 0;
+int nbPacketMauvaisCRC =0;
+int nbPacketMauvaisCRCTotal =0;
+int nbPacketMauvaisePriorite =0;
+int nbPacketMauvaisePrioriteTotal = 0;
+
+int delai_pour_vider_les_fifos_sec = 1;
+int delai_pour_vider_les_fifos_msec = 0;
+int print_paquets_rejetes = 0;
+int limite_de_paquets= 500000;
+
+
+int routerIsOn = 0;
+int routerIsOnPause = 0;
+int Status_TaskComputing = 0;
+int Prev_Status_TaskComputing = 0;
 
 // À utiliser pour suivre le remplissage et le vidage des fifos
 // Mettre en commentaire et utiliser la fonction vide suivante si vous ne voulez pas de trace
@@ -216,7 +214,7 @@ void fit_timer_isr0(void *p_int_arg, CPU_INT32U source_cpu) {
     OS_ERR perr;
     CPU_TS ts;
     OS_FLAGS flags;
-    xil_printf("------------------ FIT TIMER 0 -------------------\n");
+    xil_printf("---------------fit_timer_isr0---------------\n");
 
     if (!isSystemPaused()) {
         OSFlagPost(&RouterStatus, TASK_STOP_RDY, OS_OPT_POST_FLAG_SET, &perr);
@@ -227,6 +225,8 @@ void gpio_isr1(void *p_int_arg, CPU_INT32U source_cpu) {
     CPU_TS ts;
     OS_ERR err;
     int switch_data = 0;
+
+	xil_printf("---------------gpio_isr1---------------\n");
 
     switch_data = ReadSwitch();
     DiscreteWrite(switch_data);
@@ -943,6 +943,10 @@ void StartupTask (void *p_arg)
 
 
     UCOS_Print("Programme initialise - \r\n");
+	initialize_gpio0();
+	initialize_gpio1();
+	initialize_axi_intc();
+	connect_axi();
 
     UCOS_Printf("Frequence courante du tick d horloge - %d\r\n", tick_rate);
 

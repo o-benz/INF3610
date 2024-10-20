@@ -8,10 +8,33 @@
 #ifndef SRC_ROUTEUR_H_EXT_
 #define SRC_ROUTEUR_H_EXT_
 
+
+#include  <cpu.h>
+#include  <lib_mem.h>
+
 #include <os.h>
 #include <stdlib.h>
 #include <inttypes.h>
 #include <stdbool.h>
+
+#include <app_cfg.h>
+#include <cpu.h>
+#include <ucos_bsp.h>
+#include <ucos_int.h>
+#include <xparameters.h>
+#include <KAL/kal.h>
+
+#include <xil_printf.h>
+
+#include  <stdio.h>
+#include  <ucos_bsp.h>
+
+#include <Source/os.h>
+#include <os_cfg_app.h>
+
+#include <xgpio.h>
+#include <xintc.h>
+#include <xil_exception.h>
 
 #define ARRAY_SIZE(x) (sizeof(x)/sizeof(x[0]))
 
@@ -30,6 +53,14 @@
 #define          TaskStopPRIO     				13
 
 
+#define TASK_RESET_RDY 0x20
+#define TASK_SHUTDOWN 0x40
+#define TASK_STOP_RDY ex80
+#define TASK_STATS_PRINT 0x100
+#define TASK_CLEAR_FIFO_RDY 0x200
+#define CS_Mutex SWITCH0
+#define CS_Semaphore SWITCH1
+#define No_CS 0
 
 #define			 WAITFORComputing				1
 
@@ -151,25 +182,6 @@ OS_MUTEX 		mutTaskComputing;
 OS_MEM   		BLockMem;
 CPU_INT32U 		*Tab_Block[10000][sizeof(Packet)];     /* 10000 packets of 16 words of 32 bits */
 
-
-/*DECLARATION DES COMPTEURS POUR STATISTIQUES*/
-int nbPacketCrees = 0;
-int nbPacketTraites = 0;
-int nbPacketRejetes = 0;
-int nbPacketRejetesTotal = 0;
-int nbPacketFIFOpleine = 0;
-int nbPacketFIFOpleineTotal = 0;
-int nbPacketMauvaiseSource = 0;
-int nbPacketMauvaiseSourceTotal = 0;
-int nbPacketMauvaisCRC =0;
-int nbPacketMauvaisCRCTotal =0;
-int nbPacketMauvaisePriorite =0;
-int nbPacketMauvaisePrioriteTotal = 0;
-
-int delai_pour_vider_les_fifos_sec = 1;
-int delai_pour_vider_les_fifos_msec = 0;
-int print_paquets_rejetes = 0;
-int limite_de_paquets= 100000;
 
 /* ************************************************
  *              TASK PROTOTYPES
