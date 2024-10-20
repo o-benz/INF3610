@@ -747,6 +747,17 @@ void TaskOutputPort(void *data) {
 		xil_printf("Delai pour vider les fifos msec: %d\n", delai_pour_vider_les_fifos_msec);
 		xil_printf("Frequence du systeme: %d\n", OS_CFG_TICK_RATE_HZ);
 		
+		
+		if (Status_TaskComputing == CS_Mutex) {
+			xil_printf("Mode mutex");
+		}
+		else if (Status_TaskComputing == CS_Semaphore) {
+			xil_printf("Mode semaphore");
+		}
+		else
+			xil_printf("Pas de section critique");
+		xil_printf("\r\n");
+
 		xil_printf("1 - Nb de packets total crees : %d\n", nbPacketCrees);
 		xil_printf("2 - Nb de packets total traites : %d\n", nbPacketTraites);
 		
