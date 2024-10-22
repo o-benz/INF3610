@@ -396,7 +396,7 @@ void TaskStop(void *data) {
 
         OSFlagPost(&RouterStatus, TASK_STATS_PRINT, OS_OPT_POST_FLAG_SET, &err);
 
-        if (nbPacketCRCRejete <= LIMIT) {
+        if (nbPacketMauvaisCRC <= limite_de_paquets) {
             safeprintf("-------- Task stop suspend all tasks -------\n");
             SetSystemState(SUSPENDED);
             OSFlagPost(&RouterStatus, TASKS_ROUTER, OS_OPT_POST_FLAG_CLR, &err);
