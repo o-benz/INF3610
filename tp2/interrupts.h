@@ -7,6 +7,11 @@
 #define INTERRUPTS_H
 
 #include "routeur.h"
+// manipulation 4
+
+#include "xil_exception.h"
+#include "xscugic.h"
+#include "xintc.h"
 
 
 // Devices ID
@@ -61,15 +66,22 @@ void fit_timer_isr0(void *p_int_arg, CPU_INT32U source_cpu);
 void gpio_isr0(void *p_int_arg, CPU_INT32U source_cpu);
 void gpio_isr1(void *p_int_arg, CPU_INT32U source_cpu);
 
+// ISR Partagée
+void shared_isr(void *p_int_arg, CPU_INT32U source_cpu);
+
 void initialize_gpio0();
 void initialize_gpio1();
 
 int initialize_axi_intc();
+int connect_shared_irq();
+void disconnect_shared_irq();
 
+/*
 int connect_fit_timer_irq0();
 
 int connect_gpio_irq0();
 int connect_gpio_irq1();
+*/
 
 void connect_axi();
 
@@ -78,5 +90,6 @@ void cleanup();
 void disconnect_intc_irq();
 
 void disconnect_fit_timer_irq0();
+
 
 #endif /* INTERRUPTS_H */

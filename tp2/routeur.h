@@ -8,7 +8,6 @@
 #ifndef SRC_ROUTEUR_H_EXT_
 #define SRC_ROUTEUR_H_EXT_
 
-
 #include  <cpu.h>
 #include  <lib_mem.h>
 
@@ -51,20 +50,13 @@
 #define          TaskOutputPortPRIO     		20
 #define          TaskResetPRIO     				14
 #define          TaskStopPRIO     				13
+#define 		 TaskClearFifoPRIO 				16
 
 
-#define TASK_RESET_RDY 0x20
-#define TASK_SHUTDOWN 0x40
-#define TASK_STOP_RDY ex80
-#define TASK_STATS_PRINT 0x100
-#define TASK_CLEAR_FIFO_RDY 0x200
-#define CS_Mutex SWITCH0
-#define CS_Semaphore SWITCH1
-#define No_CS 0
 
 #define			 WAITFORComputing				1
 
-#define 		 FULL_TRACE 					1
+#define 		 FULL_TRACE 					0
 #define 		 PERFORMANCE_TRACE				1
 
 // Routing info.
@@ -95,13 +87,21 @@
 #define TASK_COMPUTING_RDY  	0x04
 #define TASK_OUTPUTPORT_RDY  	0x08
 #define TASK_STATS_RDY  		0x10
-#define FlagTaskComputing 		0x8000
 
 #define PACKET_VIDEO  			0
 #define PACKET_AUDIO  			1
 #define PACKET_AUTRE  			2
 #define NB_PACKET_TYPE 			3
+// Evenements (masques) lies aux ISRs
+#define TASK_RESET_RDY  			0x20	 // RDV entre gpio_isr0 et TaskReset pour démarrer le système (le bit du masque est mis à 1)
+#define TASK_SHUTDOWN				0x40     // RDV entre gpio_isr0 et StartUp  pour suspendre définitivement le système (le bit du masque est remis à 0)
+#define TASK_STOP_RDY  				0x80	 // RDV entre fittimer0 ou fittimer1 et TaskStop pour suspendre temporairement le système (le bit du masque est remis à 0)
+#define TASK_STATS_PRINT			0x100    // RDV entre TaskStop et TaskStats pour afficher les statistiques
+#define TASK_CLEAR_FIFO_RDY         0x200   // RDV entre gpio_isr1 et TaskClearFifo
 
+#define CS_Mutex                    SWITCH0
+#define CS_Semaphore                SWITCH1
+#define No_CS						0
 // Mask
 #define TASKS_ROUTER			0x801F     // Permet de demarrer ou stopper toutes les taches au meme moment
 
@@ -144,7 +144,8 @@ static CPU_STK TaskStatsSTK[TASK_STK_SIZE];
 static CPU_STK TaskResetSTK[TASK_STK_SIZE];
 static CPU_STK TaskStopSTK[TASK_STK_SIZE];
 static CPU_STK StartupTaskStk[TASK_STK_SIZE];
-
+static OS_TCB TaskClearFifoTCB;
+static CPU_STK TaskClearFifoSTK[TASK_STK_SIZE];
 
 
 static OS_TCB TaskGenerateTCB;
@@ -169,7 +170,7 @@ OS_Q crc_errQ;
  *                  Semaphores
  **************************************************/
 
-// Pas de sÃ©maphore pour la partie 1 
+// Pas de sÃ©maphore pour la partie 1
 
 /* ************************************************
  *                  Mutexes
@@ -183,6 +184,8 @@ OS_MEM   		BLockMem;
 CPU_INT32U 		*Tab_Block[10000][sizeof(Packet)];     /* 10000 packets of 16 words of 32 bits */
 
 
+
+
 /* ************************************************
  *              TASK PROTOTYPES
  **************************************************/
@@ -192,6 +195,7 @@ void TaskComputing(void *data);
 void TaskForwarding(void *data);
 void TaskOutputPort(void *data);
 void TaskStats(void* data);
+void TaskClearFifo(void *data);
 void StartupTask(void *data);
 
 void dispatch_packet (Packet* packet);

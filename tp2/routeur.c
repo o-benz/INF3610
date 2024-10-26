@@ -17,7 +17,6 @@
 #include "routeur.h"
 #include "interrupts.h"
 
-
 #define LLONG_MAX  9223372036854775807
 CPU_TS_TMR_FREQ  freq_hz;
 
@@ -29,6 +28,7 @@ float  max_delay_video_float;
 float  max_delay_audio_float;
 float  max_delay_autre_float;
 
+/*DECLARATION DES COMPTEURS POUR STATISTIQUES*/
 int nbPacketCrees = 0;
 int nbPacketTraites = 0;
 int nbPacketRejetes = 0;
@@ -42,18 +42,20 @@ int nbPacketMauvaisCRCTotal =0;
 int nbPacketMauvaisePriorite =0;
 int nbPacketMauvaisePrioriteTotal = 0;
 
-int delai_pour_vider_les_fifos_sec = 1;
-int delai_pour_vider_les_fifos_msec = 0;
+int delai_pour_vider_les_fifos_sec = 0;
+int delai_pour_vider_les_fifos_msec = 5;
 int print_paquets_rejetes = 0;
-int limite_de_paquets= 500000;
-
+int limite_de_paquets= 100000;
 
 int routerIsOn = 0;
 int routerIsOnPause = 0;
 int Status_TaskComputing = 0;
 int Prev_Status_TaskComputing = 0;
+int systemIsShutDown = 0;
 
-// Ã€ utiliser pour suivre le remplissage et le vidage des fifos
+volatile bool clear_fifo_flag = false;
+
+// À utiliser pour suivre le remplissage et le vidage des fifos
 // Mettre en commentaire et utiliser la fonction vide suivante si vous ne voulez pas de trace
 #if FULL_TRACE == 1
 #define safeprintf(fmt, ...)															\
@@ -129,7 +131,7 @@ int create_events() {
 	OSMutexCreate(&mutTaskComputing, "mutTaskComputing", &err);
 	OSSemCreate(&SemTaskComputing, "SemTaskComputing", 1, &err);
 
-	// Creation des files externes - va servir Ã  la manipulation 2
+	// Creation des files externes - va servir à la manipulation 2
 	OSQCreate(&source_errQ, "source_errQ", 1024, &err);
 	OSQCreate(&crc_errQ, "crc_errQ", 1024, &err);
 
@@ -185,78 +187,79 @@ void Update_TS(Packet* packet) {
 */
 
 
-void gpio_isr0(void *p_int_arg, CPU_INT32U source_cpu) {
-	CPU_TS ts;
-	OS_ERR err;
-	OS_FLAGS flags;
-
-	int button_data = 0;
-	button_data = DiscreteRead();
-
-	DiscreteWrite(button_data);
-
-	xil_printf("---------------gpio_isr0---------------\n");
-
-	if (button_data == BP0) {
-		ConfigureSystem(NORMAL_MODE);
-		OSFlagPost(&RouterStatus, TASKS_ROUTER, OS_OPT_POST_FLAG_SET, &err);
-	} else if (button_data == BP1) {
-		ConfigureSystem(SUSPENDED_MODE);
-		OSFlagPost(&RouterStatus, TASKS_ROUTER, OS_OPT_POST_FLAG_CLR, &err);
-	} else if (button_data == BP2) {
-		OSFlagPost(&RouterStatus, TASK_SHUTDOWN, OS_OPT_POST_FLAG_SET, &err);
-	}
-
-	XGPIO_IR_MASK(0);
-}
-
-void fit_timer_isr0(void *p_int_arg, CPU_INT32U source_cpu) {
-    OS_ERR perr;
-    CPU_TS ts;
-    OS_FLAGS flags;
-    xil_printf("---------------fit_timer_isr0---------------\n");
-
-    if (!isSystemPaused()) {
-        OSFlagPost(&RouterStatus, TASK_STOP_RDY, OS_OPT_POST_FLAG_SET, &perr);
-    }
-}
-
-void gpio_isr1(void *p_int_arg, CPU_INT32U source_cpu) {
-    CPU_TS ts;
-    OS_ERR err;
-    int switch_data = 0;
-
-	xil_printf("---------------gpio_isr1---------------\n");
-
-    switch_data = ReadSwitch();
-    DiscreteWrite(switch_data);
-
-    if (isSystemInNormalMode()) {
-        Prev_Status_TaskComputing = Status_TaskComputing;
-        
-        if (switch_data == SWITCH0) {
-            Status_TaskComputing = CS_Mutex;
-        } else if (switch_data == SWITCH1) {
-            Status_TaskComputing = CS_Semaphore;
-        } else if (switch_data == No_SWITCH || (switch_data == (SWITCH1 | SWITCH2))) {
-            Status_TaskComputing = No_CS;
-        }
-        
-        OSFlagPost(&RouterStatus, TASK_CLEAR_FIFO, OS_OPT_POST_FLAG_SET, &err);
-    }
-    XGPIO_IR_MASK(0);
-}
-
-
-
 ///////////////////////////////////////////////////////////////////////////////////////
 //									TASKS
 ///////////////////////////////////////////////////////////////////////////////////////
+void gpio_isr0(void *p_int_arg, CPU_INT32U source_cpu) {
+	 CPU_TS ts;
+	 OS_FLAGS flags;
+	OS_ERR err;
+	int button_data = 0;
+	button_data = XGpio_DiscreteRead(&gpButton, 1);
 
+	if ((button_data & BP0) && (systemIsShutDown == 0)) {  // Si BP0 est pressé et que le système n'est pas arrêté
+		// Démarrer le système
+		TurnLEDButton(button_data);
+		routerIsOn = 1;
+		routerIsOnPause = 0;
+		flags= OSFlagPost(&RouterStatus, TASKS_ROUTER, OS_OPT_POST_FLAG_SET + OS_OPT_POST_NO_SCHED, &err);
+	} else if ((button_data & BP1) && (systemIsShutDown == 0)) {  // Si BP1 est pressé
+		// Suspendre le système
+		TurnLEDButton(button_data);
+		routerIsOnPause = 1;
+		OSFlagPost(&RouterStatus, TASKS_ROUTER, OS_OPT_POST_FLAG_CLR + OS_OPT_POST_NO_SCHED, &err);
+	} else if (button_data & BP2) {  // Si BP2 est pressé
+		// Arrêt complet du système
+		TurnLEDButton(button_data);
+		routerIsOn = 0;
+		systemIsShutDown = 1;  // Indiquer que le système est arrêté de manière permanente
+		OSFlagPost(&RouterStatus, TASK_SHUTDOWN, OS_OPT_POST_FLAG_SET + OS_OPT_POST_NO_SCHED, &err);
+	}
+
+	XGpio_InterruptClear(&gpButton, XGPIO_IR_MASK);
+}
+
+void gpio_isr1(void *p_int_arg, CPU_INT32U source_cpu) {
+	CPU_TS ts;
+	OS_ERR err;
+	int switch_data = 0;
+
+	xil_printf("---------------gpio_isr1---------------\n");
+
+	switch_data = XGpio_DiscreteRead(&gpSwitch,1);
+	XGpio_DiscreteWrite(&gpSwitch,2,switch_data);
+
+	if (routerIsOn==1 && routerIsOnPause== 0) {
+	        Prev_Status_TaskComputing = Status_TaskComputing;
+
+	        if (switch_data == SWITCH0) {
+	            Status_TaskComputing = CS_Mutex;
+	        } else if (switch_data == SWITCH1) {
+	            Status_TaskComputing = CS_Semaphore;
+	        } else if (switch_data == NoSWITCH || (switch_data == SWITCH0and1)) {
+	            Status_TaskComputing = No_CS;
+	        }
+
+	        OSFlagPost(&RouterStatus, TASK_CLEAR_FIFO_RDY, OS_OPT_POST_FLAG_SET + OS_OPT_POST_NO_SCHED, &err);
+	    }
+	    XGpio_InterruptClear(&gpSwitch, XGPIO_IR_MASK);
+}
+
+void fit_timer_isr0(void *p_int_arg, CPU_INT32U source_cpu) {
+	OS_ERR perr;
+	CPU_TS ts;
+	OS_FLAGS flags;
+    xil_printf("---------------fit_timer_isr0---------------\n");
+    if (routerIsOn == 1 && routerIsOnPause == 0) {
+
+		OSFlagPost(&RouterStatus, TASK_STOP_RDY, OS_OPT_POST_FLAG_SET + OS_OPT_POST_NO_SCHED, &perr);
+	}
+
+}
 /*
  *********************************************************************************************************
  *											  TaskGeneratePacket
- *  - GÃ©nÃ¨re des paquets et les envoie dans la InputQ.
+ *  - Génère des paquets et les envoie dans la InputQ.
  *
  *
  *********************************************************************************************************
@@ -328,7 +331,7 @@ void TaskGenerate(void *data) {
 			else
 				safeprintf("\TaskGenenerate: nb de paquets dans fifo de TaskQueueing - apres production: %d \n", TaskQueueingTCB.MsgQ.NbrEntries);
 
-			if ((nbPacketCrees % packGenQty) == 0) //On genÃ¨re au maximum 255 paquets par phase de gÃ©neration
+			if ((nbPacketCrees % packGenQty) == 0) //On genère au maximum 255 paquets par phase de géneration
 				{
 					safeprintf("\n***** TaskGenerate: FIN DE LA RAFALE No %d \n\n", nb_rafales);
 					isGenPhase = false;
@@ -343,6 +346,7 @@ void TaskGenerate(void *data) {
 		safeprintf("\n***** TaskeGenerate: RAFALE No %d DE %d PAQUETS DURANT LES %d PROCHAINES MILLISECONDES\n\n", ++nb_rafales, packGenQty, packGenQty);
 		safeprintf("\n***** TaskGenerate: DEMARRAGE \n\n");
 
+
 		}
 	}
 }
@@ -352,56 +356,63 @@ void TaskClearFifo(void *data) {
     OS_ERR err;
 
     while (true) {
-        OSFlagPend(&RouterStatus, TASK_CLEAR_FIFO_RDY, 0, OS_OPT_PEND_BLOCKING, &ts, &err);
+        OSFlagPend(&RouterStatus, TASK_CLEAR_FIFO_RDY, 0, OS_OPT_PEND_FLAG_SET_ALL + OS_OPT_PEND_BLOCKING, &ts, &err);
 
         if (Status_TaskComputing != Prev_Status_TaskComputing) {
-            ClearFifos();
-            NbrEntriesMax[0] = 0;
+            clear_fifo_flag = true;
+
+            // Attendre que les tâches aient vidé leurs files
+            OSTimeDlyHMSM(0, 0, 0, 100, OS_OPT_TIME_HMSM_STRICT, &err);
+
+            // Réinitialiser les compteurs et variables
+            ResetFifoCounters();
             max_delay_video = 0;
             max_delay_audio = 0;
             max_delay_autre = 0;
-
             OSFlagPost(&RouterStatus, TASK_STATS_PRINT, OS_OPT_POST_FLAG_SET, &err);
+
+            clear_fifo_flag = false;
         }
     }
 }
 
-/*
- *********************************************************************************************************
- *											  TaskReset
- *
- *********************************************************************************************************
- */
-void TaskReset(void* data) {
+void ResetFifoCounters() {
+    OS_ERR err;
+
+    TaskQueueingTCB.MsgQ.NbrEntriesMax = 0;
+
+    for (int i = 0; i < NB_FIFO; i++) {
+        TaskComputingTCB[i].MsgQ.NbrEntriesMax = 0;
+    }
+
+    for (int i = 0; i < NB_OUTPUT_PORTS; i++) {
+        TaskOutputPortTCB[i].MsgQ.NbrEntriesMax = 0;
+    }
+}
+
+
+void TaskStop(void* data){
 	CPU_TS ts;
 	OS_ERR err;
-	int i;
 	OS_FLAGS  flags;
 	while (true) {
-//		OSTimeDlyHMSM(0, 0, 30, 0, OS_OPT_TIME_HMSM_STRICT, &err);
-		xil_printf("--------------------- Task Reset --------------------\n");
-		flags = OSFlagPost(&RouterStatus, TASKS_ROUTER, OS_OPT_POST_FLAG_SET, &err);
-		xil_printf("--------------------- Flags: %x --------------------------\n", RouterStatus.Flags);
-		OSTaskSuspend((OS_TCB *)0,&err);
+		OSFlagPend(&RouterStatus, TASK_STOP_RDY, 0, OS_OPT_PEND_FLAG_SET_ALL + OS_OPT_PEND_BLOCKING, &ts, &err);
+		if (!routerIsOn) {
+				continue;
+				}
+		flags = OSFlagPost(&RouterStatus, TASK_STATS_PRINT, OS_OPT_POST_FLAG_SET, &err);
+		if (nbPacketMauvaisCRC >= 2000) {
+			// 1) Afficher le message
+			safeprintf("-------- Task stop suspend all tasks -------\n");
 
+			// 2) Mettre à jour l'état du système pour une suspension temporaire
+			routerIsOn=0;
+			routerIsOnPause = 1;
+
+			// 3) Suspendre temporairement les tâches principales avec TASKS_ROUTER
+			flags = OSFlagPost(&RouterStatus, TASKS_ROUTER, OS_OPT_POST_FLAG_CLR, &err);
 		}
-}
-
-void TaskStop(void *data) {
-    CPU_TS ts;
-    OS_ERR err;
-    
-    while (true) {
-        OSFlagPend(&RouterStatus, TASK_STOP_RDY, 0, OS_OPT_PEND_BLOCKING, &ts, &err);
-
-        OSFlagPost(&RouterStatus, TASK_STATS_PRINT, OS_OPT_POST_FLAG_SET, &err);
-
-        if (nbPacketMauvaisCRC <= limite_de_paquets) {
-            safeprintf("-------- Task stop suspend all tasks -------\n");
-            SetSystemState(SUSPENDED);
-            OSFlagPost(&RouterStatus, TASKS_ROUTER, OS_OPT_POST_FLAG_CLR, &err);
-        }
-    }
+	}
 }
 
 /*
@@ -421,7 +432,7 @@ unsigned int  computeCRC(uint16_t* w, int nleft) {
 	OS_ERR err;
 	uint16_t answer = 0;
 
-	// Code Ã  complÃ©ter pour le calcul du nombre de ticks dans la manipulation 1
+	// Code à compléter pour le calcul du nombre de ticks dans la manipulation 1
 
 
 
@@ -443,7 +454,7 @@ unsigned int  computeCRC(uint16_t* w, int nleft) {
 
 	answer = ~sum;
 
-	// Code Ã  complÃ©ter pour le calcul du nombre de ticks dans la manipulation 1
+	// Code à compléter pour le calcul du nombre de ticks dans la manipulation 1
 
 	return answer;
 }
@@ -452,7 +463,7 @@ unsigned int  computeCRC(uint16_t* w, int nleft) {
 
 /*
  *********************************************************************************************************
- *											  TaskQueeing
+ *											  TaskQueueing
  *
  *********************************************************************************************************
  */
@@ -466,6 +477,21 @@ void TaskQueueing(void *pdata) {
 
 		OSFlagPend(&RouterStatus, TASK_QUEUING_RDY, 0, OS_OPT_PEND_FLAG_SET_ALL + OS_OPT_PEND_BLOCKING, &ts, &err);
 
+        // Vérifier si nous devons vider le FIFO
+        if (clear_fifo_flag) {
+            // Vider la file de messages
+            while (1) {
+                packet = OSTaskQPend(0, OS_OPT_PEND_NON_BLOCKING, &msg_size, &ts, &err);
+                if (err == OS_ERR_PEND_WOULD_BLOCK) {
+                    break;
+                } else {
+                    // Libérer le paquet
+                    OSMemPut(&BLockMem, (void *)packet, &err);
+                    OSSemPost(&Sem_MemBlock, OS_OPT_POST_1, &err);
+                }
+            }
+            continue; // Passer au prochain cycle sans traiter de paquets
+        }
 
 		packet = OSTaskQPend(0, OS_OPT_PEND_BLOCKING, &msg_size, &ts, &err);
 
@@ -482,6 +508,7 @@ void TaskQueueing(void *pdata) {
 			OSSemPost(&Sem_MemBlock,  OS_OPT_POST_1 + OS_OPT_POST_NO_SCHED, &err);
 #endif
 			++nbPacketMauvaisCRC;
+
 		}
 
 		else {
@@ -534,7 +561,7 @@ void TaskQueueing(void *pdata) {
 /*
  *********************************************************************************************************
  *											  TaskComputing
- *  -VÃ©rifie si les paquets sont conformes i.e. qu on emule un CRC et on verifie l espace addresse
+ *  -Vérifie si les paquets sont conformes i.e. qu on emule un CRC et on verifie l espace addresse
  *  -Dispatche les paquets dans des files (HIGH,MEDIUM,LOW)
  *
  *********************************************************************************************************
@@ -551,6 +578,21 @@ void TaskComputing(void *pdata) {
 	float nombre;
 	while(true){
 
+        // Vérifier si nous devons vider le FIFO
+        if (clear_fifo_flag) {
+            // Vider la file de messages
+            while (1) {
+                packet = OSTaskQPend(0, OS_OPT_PEND_NON_BLOCKING, &msg_size, &ts, &err);
+                if (err == OS_ERR_PEND_WOULD_BLOCK) {
+                    break;
+                } else {
+                    // Libérer le paquet
+                    OSMemPut(&BLockMem, (void *)packet, &err);
+                    OSSemPost(&Sem_MemBlock, OS_OPT_POST_1, &err);
+                }
+            }
+            continue; // Passer au prochain cycle sans traiter de paquets
+        }
 
 		OSFlagPend(&RouterStatus, TASK_COMPUTING_RDY, 0, OS_OPT_PEND_FLAG_SET_ALL + OS_OPT_PEND_BLOCKING, &ts, &err);
 
@@ -558,10 +600,14 @@ void TaskComputing(void *pdata) {
 
 		safeprintf("\nTaskComputing %s: nb de paquets apres consommation du fifo: %d \n", info.name, TaskComputingTCB[info.id].MsgQ.NbrEntries);
 
-		// 1. Verrouiller le mutex pour HighQ (PACKET_VIDEO) et LowQ (PACKET_AUTRE)
-		        if (info.id == PACKET_VIDEO || info.id == PACKET_AUTRE) {
-		            OSMutexPend(&mutTaskComputing, 0, OS_OPT_PEND_BLOCKING, &ts, &err);
-		        }
+		// 1. Verrouiller le mutex ou sémaphore si nécessaire
+		if ((info.id == PACKET_VIDEO || info.id == PACKET_AUTRE) && (Status_TaskComputing != No_CS)) {
+		    if (Status_TaskComputing == CS_Mutex) {
+		        OSMutexPend(&mutTaskComputing, 0, OS_OPT_PEND_BLOCKING, &ts, &err);
+		    } else if (Status_TaskComputing == CS_Semaphore) {
+		        OSSemPend(&SemTaskComputing, 0, OS_OPT_PEND_BLOCKING, &ts, &err);
+		    }
+		}
 
 		//Verification de l'espace d'addressage
 		if ((packet->src > REJECT_LOW1 && packet->src < REJECT_HIGH1) ||
@@ -582,33 +628,24 @@ void TaskComputing(void *pdata) {
 
 		else {    // we can start processing and forwarding
 
-			// we may emulate a certain time for the processing and also emulate priority inheritance
+			// Emuler un temps de traitement
+			switch (packet->type) {
+					case PACKET_VIDEO:
+						WAITFORTICKS = (rand() % 2);
+						break;
+					case PACKET_AUDIO:
+						WAITFORTICKS = (rand() % 2);
+						break;
+					case PACKET_AUTRE:
+						WAITFORTICKS = (rand() % 2);
+						break;
+					default:
+						WAITFORTICKS = 0;
+						break;
+				}
 
-			/*
-			   structure de switch sur packet->type
-			   et donnez une valeur aleatoire dans l'intervalle [0 et 2] tick
-			   pour chaque type de paquet
-
-			 */
-				switch (packet->type) {
-						case PACKET_VIDEO:
-							WAITFORTICKS = (rand() % 2);
-							break;
-						case PACKET_AUDIO:
-							WAITFORTICKS = (rand() % 2);
-							break;
-						case PACKET_AUTRE:
-							WAITFORTICKS = (rand() % 2);
-							break;
-						default:
-							WAITFORTICKS = 0;
-							break;
-					}
-
-					CPU_TS64 actualticks = OSTimeGet(&err);
-					while (WAITFORTICKS + actualticks > OSTimeGet(&err));
-
-
+				CPU_TS64 actualticks = OSTimeGet(&err);
+				while (WAITFORTICKS + actualticks > OSTimeGet(&err));
 
 
 
@@ -675,9 +712,13 @@ void TaskComputing(void *pdata) {
 			}
 
 		}
-		 // 2. LibÃ©rer le mutex aprÃ¨s le traitement pour HighQ (PACKET_VIDEO) et LowQ (PACKET_AUTRE)
-		if (info.id == PACKET_VIDEO || info.id == PACKET_AUTRE) {
-			OSMutexPost(&mutTaskComputing, OS_OPT_POST_NONE, &err);
+		// Libérer le mutex ou sémaphore après le traitement
+		if ((info.id == PACKET_VIDEO || info.id == PACKET_AUTRE) && (Status_TaskComputing != No_CS)) {
+		    if (Status_TaskComputing == CS_Mutex) {
+		        OSMutexPost(&mutTaskComputing, OS_OPT_POST_NONE, &err);
+		    } else if (Status_TaskComputing == CS_Semaphore) {
+		        OSSemPost(&SemTaskComputing, OS_OPT_POST_1, &err);
+		    }
 		}
 
 	}
@@ -687,7 +728,7 @@ void TaskComputing(void *pdata) {
 /*
  *********************************************************************************************************
  *											  TaskPrint
- *  -Affiche les infos des paquets arrivÃ©s Ã  destination et libere la mÃ©moire allouÃ©e
+ *  -Affiche les infos des paquets arrivés à destination et libere la mémoire allouée
  *********************************************************************************************************
  */
 void TaskOutputPort(void *data) {
@@ -714,7 +755,7 @@ void TaskOutputPort(void *data) {
 		OSMutexPost(&mutPrint, OS_OPT_POST_NONE, &perr);
 #endif
 
-		/*LibÃ©ration de la mÃ©moire*/
+		/*Libération de la mémoire*/
 		OSMemPut(&BLockMem, (void *)packet, &err);
 		OSSemPost(&Sem_MemBlock,  OS_OPT_POST_1, &err);
 	}
@@ -724,8 +765,8 @@ void TaskOutputPort(void *data) {
 /*
  *********************************************************************************************************
  *                                              TaskStats
- *  -Est dÃ©clenchÃ©e lorsque le gpio_isr() libÃ¨re le sÃ©maphore
- *  -Lorsque dÃ©clenchÃ©e, imprime les statistiques du routeur Ã  cet instant
+ *  -Est déclenchée lorsque le gpio_isr() libère le sémaphore
+ *  -Lorsque déclenchée, imprime les statistiques du routeur à cet instant
  *********************************************************************************************************
  */
  void TaskStats(void* pdata) {
@@ -738,15 +779,13 @@ void TaskOutputPort(void *data) {
 	while (1) {
 
 		OSFlagPend(&RouterStatus, TASK_STATS_RDY, 0, OS_OPT_PEND_FLAG_SET_ALL + OS_OPT_PEND_BLOCKING, &ts, &err);
-		OSFlagPend(&RouterStatus, TASK_STATS_PRINT, 0, OS_OPT_PEND_FLAG_SET_ALL + OS_OPT_PEND_BLOCKING, &ts, &err);  // New OSFlagPend added
-
+		OSFlagPend(&RouterStatus, TASK_STATS_PRINT, 0, OS_OPT_PEND_FLAG_SET_ALL + OS_OPT_PEND_FLAG_CONSUME + OS_OPT_PEND_BLOCKING, &ts, &err);
 		OSMutexPend(&mutPrint, 0, OS_OPT_PEND_BLOCKING, &ts, &err);
 
 		xil_printf("\n------------------ Affichage des statistiques ------------------\n\n");
 		xil_printf("Delai pour vider les fifos sec: %d\n", delai_pour_vider_les_fifos_sec);
 		xil_printf("Delai pour vider les fifos msec: %d\n", delai_pour_vider_les_fifos_msec);
 		xil_printf("Frequence du systeme: %d\n", OS_CFG_TICK_RATE_HZ);
-		
 		
 		if (Status_TaskComputing == CS_Mutex) {
 			xil_printf("Mode mutex");
@@ -780,7 +819,7 @@ void TaskOutputPort(void *data) {
 		xil_printf("18- Message free : %d \n", OSMsgPool.NbrFree);
 		xil_printf("19- Message used : %d \n", OSMsgPool.NbrUsed);
 		xil_printf("20- Message used max : %d \n", OSMsgPool.NbrUsedMax);
-		xil_printf("21- Nombre de ticks depuis le dÃ©but de l'execution %d \n", OSTimeGet(&err));
+		xil_printf("21- Nombre de ticks depuis le début de l'execution %d \n", OSTimeGet(&err));
 
 		OSMutexPost(&mutPrint, OS_OPT_POST_NONE, &err);
 
@@ -802,12 +841,12 @@ void TaskOutputPort(void *data) {
 		xil_printf("\r\n");
 
 #endif
-		// On vide la fifo des paquets rejetÃ©s et on imprime si l option est demandee
+		// On vide la fifo des paquets rejetés et on imprime si l option est demandee
 #if FULL_TRACE == 1
 
 		while(1) {
 
-			packet = OSTaskQPend(0, OS_OPT_PEND_NON_BLOCKING, &msg_size, &ts, &err);  // On prend soin de ne pas restÃ© bloquÃ©
+			packet = OSTaskQPend(0, OS_OPT_PEND_NON_BLOCKING, &msg_size, &ts, &err);  // On prend soin de ne pas resté bloqué
             if (err == OS_ERR_PEND_WOULD_BLOCK) {
                 break;
             }
@@ -849,10 +888,10 @@ void TaskOutputPort(void *data) {
 
 
 		// On stoppe tout le programme quand on a atteint la limite de paquets
-		// if (nbPacketCrees > limite_de_paquets)  OSSemPost(&Sem,  OS_OPT_POST_1 + OS_OPT_POST_NO_SCHED, &err);
+		//if (nbPacketCrees > limite_de_paquets)  OSSemPost(&Sem,  OS_OPT_POST_1 + OS_OPT_POST_NO_SCHED, &err);
 
-		// On imprime ls statistiques Ã  toutes les 30 secondes
-		// OSTimeDlyHMSM(0, 0, 30, 0, OS_OPT_TIME_HMSM_STRICT, &err);
+		// On imprime ls statistiques à toutes les 30 secondes
+		//OSTimeDlyHMSM(0, 0, 30, 0, OS_OPT_TIME_HMSM_STRICT, &err);
 
 	}
 }
@@ -863,7 +902,7 @@ void err_msg(char* entete, uint8_t err)
 	if(err != 0)
 	{
 		xil_printf(entete);
-		xil_printf(": Une erreur est retournÃ©e : code %d \n",err);
+		xil_printf(": Une erreur est retournée : code %d \n",err);
 	}
 }
 
@@ -885,6 +924,10 @@ void StartupTask (void *p_arg)
 	#endif
 
 	    UCOS_IntInit();
+	    initialize_gpio0();
+	    initialize_gpio1();
+		initialize_axi_intc();
+		connect_axi();
 
 
 	#if (APP_OSIII_ENABLED == DEF_ENABLED)
@@ -943,10 +986,6 @@ void StartupTask (void *p_arg)
 
 
     UCOS_Print("Programme initialise - \r\n");
-	initialize_gpio0();
-	initialize_gpio1();
-	initialize_axi_intc();
-	connect_axi();
 
     UCOS_Printf("Frequence courante du tick d horloge - %d\r\n", tick_rate);
 
@@ -954,7 +993,7 @@ void StartupTask (void *p_arg)
 	xil_printf("\nfreq du timestamp: %d\n", freq_hz);
 
 
-	// On crÃ©e les tÃ¢ches
+	// On crée les tâches
 
 	for(i = 0; i < NB_FIFO; i++)
 	{
@@ -1010,20 +1049,23 @@ void StartupTask (void *p_arg)
 
 	OSTaskCreate(&TaskStatsTCB, "TaskStats", TaskStats, (void*)0, TaskStatsPRIO, &TaskStatsSTK[0u], TASK_STK_SIZE / 2, TASK_STK_SIZE, 1024, 0, (void*)0, (OS_OPT_TASK_STK_CHK | OS_OPT_TASK_STK_CLR), &err);
 
-	OSTaskCreate(&TaskResetTCB, "TaskReset", TaskReset, (void*)0, TaskResetPRIO, &TaskResetSTK[0u], TASK_STK_SIZE / 2, TASK_STK_SIZE, 1, 0, (void*)0, (OS_OPT_TASK_STK_CHK | OS_OPT_TASK_STK_CLR), &err);
+	OSTaskCreate(&TaskStopTCB, "TaskStop", TaskStop, (void*)0, TaskStopPRIO, &TaskStopSTK[0u], TASK_STK_SIZE / 2, TASK_STK_SIZE, 1, 0, (void*)0, (OS_OPT_TASK_STK_CHK | OS_OPT_TASK_STK_CLR), &err);
 
-    OSTaskCreate(&TaskStopTCB, "TaskStop", TaskStop, (void*)0, TaskStopPRIO, &TaskStopSTK[0u], TASK_STK_SIZE / 2, TASK_STK_SIZE, 1, 0, (void*)0, (OS_OPT_TASK_STK_CHK | OS_OPT_TASK_STK_CLR), &err);
+    OSTaskCreate(&TaskClearFifoTCB, "TaskClearFifo", TaskClearFifo, (void*)0, TaskClearFifoPRIO, &TaskClearFifoSTK[0u], TASK_STK_SIZE / 2, TASK_STK_SIZE, 1, 0, (void*)0, (OS_OPT_TASK_STK_CHK | OS_OPT_TASK_STK_CLR), &err);
+
+    OSFlagPost(&RouterStatus, TASK_STATS_RDY, OS_OPT_POST_FLAG_SET, &err);
 
     UCOS_Print("Router initialized - Ready to launch - Hit push button\r\n");
-    
-	OSFlagPend(&RouterStatus, TASK_SHUTDOWN, 0, OS_OPT_PEND_BLOCKING, &ts, &err);
-	
+
+	// Bloque ici jusqu'à ce que le système soit prêt à s'arrêter avec le flag TASK_SHUTDOWN
+    CPU_TS ts;
+    OSFlagPend(&RouterStatus, TASK_SHUTDOWN, 0, OS_OPT_PEND_FLAG_SET_ALL + OS_OPT_PEND_BLOCKING, &ts, &err);
 	UCOS_Print("Prepare to shutdown System - \r\n");
-	
 	while (1) {
 		TurnLEDButton(0b1111);
 		OSTimeDlyHMSM(0, 0, 1, 0, OS_OPT_TIME_HMSM_STRICT, &err);
 		TurnLEDButton(0b0000);
 		OSTimeDlyHMSM(0, 0, 1, 0, OS_OPT_TIME_HMSM_STRICT, &err);
 	}
+
 }
