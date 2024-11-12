@@ -1,7 +1,7 @@
 /*
  *********************************************************************************************************
  *											  Interrupts
-
+ 
  *											  
  *********************************************************************************************************
  */
@@ -21,7 +21,6 @@ void initialize_gpio0()
 
 }
 
-
 void initialize_gpio1()
 {
 	if (XST_DEVICE_NOT_FOUND == XGpio_Initialize(&gpSwitch, GPIO_SWITCH_DEVICE_ID))
@@ -36,7 +35,7 @@ void initialize_gpio1()
 int initialize_axi_intc() {
 	int status;
 
-	status = XIntc_Initialize(&axi_intc, XPAR_AXI_INTC_0_DEVICE_ID);
+	status = XIntc_Initialize(&axi_intc, INTC_DEVICE_ID	);
 	if (status != XST_SUCCESS)
 		return XST_FAILURE;
 
@@ -117,59 +116,4 @@ void disconnect_fit_timer_irq0() {
 	XIntc_Disable(&axi_intc, FIT_IRQ0_ID);
 }
 
-/*
- void shared_isr(void *p_int_arg, CPU_INT32U source_cpu) {
-	uint32_t int_status = XIntc_InterruptGetStatus(&axi_intc);
-	XIntc_InterruptClear(&axi_intc, int_status);
-
-	if (int_status & (1 << GPIO_BUTTON_IRQ_ID)) {
-		gpio_isr0(p_int_arg, source_cpu);
-	}
-	if (int_status & (1 << GPIO_SWITCH_IRQ_ID)) {
-		gpio_isr1(p_int_arg, source_cpu);
-	}
-	if (int_status & (1 << FIT_IRQ0_ID)) {
-		fit_timer_isr0(p_int_arg, source_cpu);
-	}
-}
-
-// Connexion des interruptions partagées
-int connect_shared_irq() {
-	int status;
-
-	// Connexion de l'ISR partagée pour les interruptions
-	status = XIntc_Connect(&axi_intc, GPIO_BUTTON_IRQ_ID, (XInterruptHandler)shared_isr, NULL);
-	if (status != XST_SUCCESS) {
-		UCOS_Print("Erreur lors de la connexion de gpio_isr0\n");
-		return status;
-	}
-
-	status = XIntc_Connect(&axi_intc, GPIO_SWITCH_IRQ_ID, (XInterruptHandler)shared_isr, NULL);
-	if (status != XST_SUCCESS) {
-		UCOS_Print("Erreur lors de la connexion de gpio_isr1\n");
-		return status;
-	}
-
-	status = XIntc_Connect(&axi_intc, FIT_IRQ0_ID, (XInterruptHandler)shared_isr, NULL);
-	if (status != XST_SUCCESS) {
-		UCOS_Print("Erreur lors de la connexion de fit_timer_isr0\n");
-		return status;
-	}
-
-	// Démarrer le contrôleur d'interruptions en mode réel
-	status = XIntc_Start(&axi_intc, XIN_REAL_MODE);
-	if (status != XST_SUCCESS) {
-		UCOS_Print("Erreur lors du démarrage de l'INTC\n");
-		return status;
-	}
-
-	// Activer les interruptions
-	XIntc_Enable(&axi_intc, GPIO_BUTTON_IRQ_ID);
-	XIntc_Enable(&axi_intc, GPIO_SWITCH_IRQ_ID);
-	XIntc_Enable(&axi_intc, FIT_IRQ0_ID);
-
-	return XST_SUCCESS;
-}
-
- */
 

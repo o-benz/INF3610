@@ -41,7 +41,7 @@
 #define TASK_STK_SIZE 8192
 
 //Adresses mémoire partagée
-static const uint32_t 	BASEADDR = 0x3FF0000;
+static const uint32_t 	BASEADDR = 0x3000000;
 
 /* ************************************************
  *                TASK PRIOS
@@ -76,6 +76,8 @@ static CPU_STK TaskGenerateSTK[TASK_STK_SIZE];
 static CPU_STK StartupTaskStk[TASK_STK_SIZE];
 
 #define TASK_GENERATE_RDY  		0x01
+#define SHUTDOWN_OFFSET 0x20
+
 
 static OS_TCB TaskGenerateTCB;
 static OS_TCB StartupTaskTCB;
