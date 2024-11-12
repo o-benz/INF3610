@@ -21,7 +21,7 @@
 int nbPacketCrees = 0;								// Nb de packets total crees
 int nbPacketTraites = 0;							// Nb de paquets envoyes sur une interface
 int nbPacketenSortie = 0;							// Nb de paquets en output
-int nbPacketSourceRejeteTotal = 0;					// Nb de packets total rejetés pour mauvaise source
+int nbPacketSourceRejeteTotal = 0;					// Nb de packets total rejetï¿½s pour mauvaise source
 int nbPacketSourceRejete = 0;						// Nb de packets rejete pour mauvaise source pour 30 sec
 int packet_rejete_fifo_pleine_inputQ = 0;			// Utilisation de la fifo d'entrÃ©e
 int packet_rejete_output_port_plein = 0;			// Utilisation des MB
@@ -30,10 +30,14 @@ int delai_pour_vider_les_fifos_sec = 1;
 int delai_pour_vider_les_fifos_msec = 0;
 int print_paquets_rejetes = 0;
 
+OS_TMR WatchdogTmr;
+#define WATCHDOG_TIMEOUT_SEC 30
+#define WATCHDOG_TIMEOUT_TICKS (WATCHDOG_TIMEOUT_SEC * OS_CFG_TICK_RATE_HZ)
+
 
 int routerIsOn = 0;
 
-// À utiliser pour suivre le remplissage et le vidage des fifos
+// ï¿½ utiliser pour suivre le remplissage et le vidage des fifos
 // Mettre en commentaire et utiliser la fonction vide suivante si vous ne voulez pas de trace
 //	#define safeprintf(fmt, ...)															\
 //{																						\
@@ -42,7 +46,7 @@ int routerIsOn = 0;
 //	OSMutexPost(&mutPrint, OS_OPT_POST_NONE, &perr);									\
 //}
 
-// À utiliser pour ne pas avoir les traces de remplissage et de vidage des fifos
+// ï¿½ utiliser pour ne pas avoir les traces de remplissage et de vidage des fifos
 #define safeprintf(fmt, ...)															\
 {																						\
 }
@@ -69,9 +73,9 @@ int main (void)
 
     create_application();
 
-    Xil_DCacheDisable();
- //   Xil_DCacheInvalidateRange(BASEADDR, 255*sizeof(Packet)+0x1C);
 
+ //   Xil_DCacheInvalidateRange(BASEADDR, 255*sizeof(Packet)+0x1C);
+    Xil_DCacheDisable();
     OSStart(&err);
     return 0;                                         // Start multitasking
 }
@@ -117,11 +121,11 @@ int create_events() {
 int delete_events() {
 	OS_ERR err;
 
-	// Suppressison des sémaphores
+	// Suppressison des sï¿½maphores
 	// No Semaphore
 
 	// Suppression des mutex
-	// No Mutex
+    OSMutexDel(&mutPrint, OS_OPT_DEL_ALWAYS, &err);
 
 	// Suppression des files externes
 	// No Queues
@@ -129,28 +133,37 @@ int delete_events() {
 	// Suppression des flags
 	// No Flags
 
+    return 0;
 }
 
-void endExecution(){
-	xil_printf("Core 1: Shutdown\r\n");
+void endExecution() {
+    OS_ERR err;
 
-	delete_events();
-	delete_tasks();
+    xil_printf("Core 1: Shutdown\r\n");
 
-	while(1){
+    OSTimeDlyHMSM(0, 0, delai_pour_vider_les_fifos_sec, delai_pour_vider_les_fifos_msec, OS_OPT_TIME_HMSM_STRICT, &err);
 
-	}
+    delete_events();
+    delete_tasks();
+
+    while (1) {
+    }
 }
 
-void delete_tasks(){
 
-OS_ERR err;
+void delete_tasks() {
+    OS_ERR err;
+    OSTaskDel(&TaskGenerateTCB, &err);
+    OSTaskDel(&StartupTaskTCB, &err);
+    OSTaskDel(&WatchdogTaskTCB, &err);
+}
 
-OSTaskDel(&TaskGenerateTCB, &err);
-
-//Supression de la tâche en cours d'exécution
-OSTaskDel(&StartupTaskTCB, &err);
-
+void ShutdownTaskGenerateFct(OS_TMR *p_tmr, void *p_arg)
+{
+    OS_ERR err;
+    xil_printf("Watchdog timer expired. Shutting down core 1.\n");
+    // Arrï¿½ter les tï¿½ches et libï¿½rer les ressources
+    delete_tasks();
 }
 
 
@@ -171,7 +184,7 @@ unsigned int  computeCRC(uint16_t* w, int nleft) {
 	OS_ERR err;
 	uint16_t answer = 0;
 
-	// Code à compléter pour le calcul du nombre de ticks dans la manipulation 1
+	// Code ï¿½ complï¿½ter pour le calcul du nombre de ticks dans la manipulation 1
 
 
 
@@ -218,17 +231,24 @@ void TaskGenerate(void *data) {
 	OS_TICK TimeRemainToShutDown;
 	OS_STATE ShutdownTmrState;
 
-	volatile uint32_t* req = (uint32_t*) (BASEADDR + 0x00);	// signal comme quoi on est prêt à recevoir un data
+	volatile uint32_t* req = (uint32_t*) (BASEADDR + 0x00);	// signal comme quoi on est prï¿½t ï¿½ recevoir un data
 	volatile uint32_t* ack = (uint32_t*) (BASEADDR + 0x04);	// signal comme quoi on attend que le producteur soit pret
 	volatile uint32_t* burst_no = (uint32_t*) (BASEADDR + 0x08); // No du burst
 	volatile uint32_t* number_of_packets = (uint32_t*) (BASEADDR + 0x0C); // Nombre de paquets
+	volatile uint32_t* shutdown_flag = (uint32_t*) (BASEADDR + 0x20);
+
 
 	Packet *ppacket;
-
+	*shutdown_flag = 0;
 	*req = 0;
 	*ack = 0;
 
 	while(true) {
+			if (*shutdown_flag == 1) {
+						xil_printf("Shutdown signal received from core 0. Shutting down core 1.\n");
+						ShutdownTaskGenerateFct(NULL, NULL);
+						break;
+					}
 
 //		    OSFlagPend(&RouterStatus, TASK_GENERATE_RDY, 0, OS_OPT_PEND_FLAG_SET_ALL + OS_OPT_PEND_BLOCKING, &ts, &err);
 
@@ -285,7 +305,7 @@ void TaskGenerate(void *data) {
 
 
 			while(!*ack);
-
+			OSTmrStart(&WatchdogTmr, &err);
 			*req = 1;
 
 //			xil_printf("Task_Generate Fin rafale no: %d completee avec %d paquets\n", *burst_no, *number_of_packets);
@@ -383,7 +403,7 @@ void StartupTask (void *p_arg)
 #endif
 
 
-	// On crée les tâches
+	// On crï¿½e les tï¿½ches
 
 	OSTaskCreate(&TaskGenerateTCB, 		"TaskGenerate", 	TaskGenerate,	(void*)0, 	TaskGeneratePRIO, 	&TaskGenerateSTK[0u], 	TASK_STK_SIZE / 2, TASK_STK_SIZE, 1, 0, (void*) 0,(OS_OPT_TASK_STK_CHK | OS_OPT_TASK_STK_CLR), &err );
 
@@ -391,7 +411,24 @@ void StartupTask (void *p_arg)
 
 	OSTaskSuspend((OS_TCB *)0,&err);
 
+	OSTmrCreate(&WatchdogTmr,                   // Pointer to the timer
+	                "Watchdog Timer",               // Name of the timer
+	                WATCHDOG_TIMEOUT_TICKS,         // Initial delay (ticks)
+	                0,                              // Period (0 for one-shot)
+	                OS_OPT_TMR_ONE_SHOT,            // Timer options
+	                ShutdownTaskGenerateFct,        // Callback function
+	                NULL,                           // Argument for callback
+	                &err);
 
+	    if (err != OS_ERR_NONE) {
+	        xil_printf("Failed to create watchdog timer. Error: %d\n", err);
+	    }
+
+	    OSTmrStart(&WatchdogTmr, &err);
+
+	    if (err != OS_ERR_NONE) {
+	        xil_printf("Failed to start watchdog timer. Error: %d\n", err);
+	    }
 
 	};
 
