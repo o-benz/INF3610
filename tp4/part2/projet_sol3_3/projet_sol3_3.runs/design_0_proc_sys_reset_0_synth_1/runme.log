@@ -1,0 +1,19 @@
+
+*** Running vivado
+    with args -log design_0_proc_sys_reset_0.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_0_proc_sys_reset_0.tcl
+
+
+****** Vivado v2018.3 (64-bit)
+  **** SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+  **** IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+    ** Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+
+source design_0_proc_sys_reset_0.tcl -notrace
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Temp/code_de_depart_partie2'.
+WARNING: [IP_Flow 19-3656] If you move the project, the path for repository 'c:/Temp/code_de_depart_partie2' may become invalid. A better location for the repository would be in a path adjacent to the project. (Current project location is 'c:/Temp/code_de_depart_partie2/projet_sol3_3/projet_sol3_3.runs/design_0_proc_sys_reset_0_synth_1'.)
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.3/data/ip'.
+CRITICAL WARNING: [IP_Flow 19-1663] Duplicate IP found for 'xilinx.com:hls:HLS_accel:1.0'. The one found in IP location 'c:/Temp/code_de_depart_partie2/architecture_impl_sol3_3/hls_wrapped_mmult_prj/solution3_3/impl/ip' will take precedence over the same IP in location c:/Temp/code_de_depart_partie2/architecture_impl_sol2_2/hls_wrapped_mmult_prj/solution2_2/impl/ip
+update_ip_catalog: Time (s): cpu = 00:00:04 ; elapsed = 00:00:07 . Memory (MB): peak = 350.668 ; gain = 31.324
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP design_0_proc_sys_reset_0, cache-ID = 08a3e36b943d4632.
+INFO: [Common 17-206] Exiting Vivado at Sun Dec  1 20:06:07 2024...

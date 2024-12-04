@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Tue Dec  3 19:32:56 2024
+# Process ID: 30980
+# Current directory: C:/Users/ombenv/Desktop/INF3610/tp4/part2/projet_sol2_2/projet_sol2_2.runs/impl_1
+# Command line: vivado.exe -log design_1_wrapper.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source design_1_wrapper.tcl -notrace
+# Log file: C:/Users/ombenv/Desktop/INF3610/tp4/part2/projet_sol2_2/projet_sol2_2.runs/impl_1/design_1_wrapper.vdi
+# Journal file: C:/Users/ombenv/Desktop/INF3610/tp4/part2/projet_sol2_2/projet_sol2_2.runs/impl_1\vivado.jou
+# Running On: L4708-11, OS: Windows, CPU Frequency: 3096 MHz, CPU Physical cores: 6, Host memory: 34207 MB
+#-----------------------------------------------------------
+source design_1_wrapper.tcl -notrace

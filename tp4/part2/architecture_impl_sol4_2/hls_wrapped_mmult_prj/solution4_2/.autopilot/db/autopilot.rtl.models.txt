@@ -1,0 +1,7 @@
+HLS_accel_mul_mulbkb
+HLS_accel_mac_mulcud
+HLS_accel_mac_muldEe
+HLS_accel_a_0
+HLS_accel_out
+HLS_accel_CONTROL_BUS_s_axi
+HLS_accel

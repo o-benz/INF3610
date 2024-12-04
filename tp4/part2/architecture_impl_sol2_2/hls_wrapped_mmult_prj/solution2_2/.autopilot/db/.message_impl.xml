@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Messages>
+	<Message severity="WARNING" prefix="[HLS 200-483]" key="HLS 200-483" tag="" content="The &apos;export_design -evaluate verilog&apos; command is deprecated and will be removed in a future release. Use &apos;export_design -flow impl -rtl verilog&apos; as its replacement."/>
+	<Message severity="INFO" prefix="[IMPL 213-8]" key="IMPL_8_1776" tag="" content="Exporting RTL as a Vivado IP."/>
+	<Message severity="INFO" prefix="[IMPL 213-8]" key="IMPL_8_1773" tag="" content="Starting RTL evaluation using Vivado ..."/>
+</Messages>

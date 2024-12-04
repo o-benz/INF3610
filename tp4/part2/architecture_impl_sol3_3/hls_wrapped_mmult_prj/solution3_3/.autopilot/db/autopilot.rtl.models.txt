@@ -1,0 +1,8 @@
+HLS_accel_hadd_16bkb
+HLS_accel_hmul_16cud
+HLS_accel_mux_546dEe
+HLS_accel_mac_muleOg
+HLS_accel_a
+HLS_accel_out_0
+HLS_accel_CONTROL_BUS_s_axi
+HLS_accel

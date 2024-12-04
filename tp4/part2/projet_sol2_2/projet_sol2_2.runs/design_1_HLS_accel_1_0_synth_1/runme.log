@@ -1,0 +1,1135 @@
+
+*** Running vivado
+    with args -log design_1_HLS_accel_1_0.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_HLS_accel_1_0.tcl
+
+
+****** Vivado v2018.3 (64-bit)
+  **** SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+  **** IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+    ** Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+
+source design_1_HLS_accel_1_0.tcl -notrace
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Temp/code_de_depart_partie2/architecture_impl_sol2_2/hls_wrapped_mmult_prj/solution2_2/impl/ip'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.3/data/ip'.
+update_ip_catalog: Time (s): cpu = 00:00:05 ; elapsed = 00:00:06 . Memory (MB): peak = 349.707 ; gain = 29.789
+Command: synth_design -top design_1_HLS_accel_1_0 -part xc7z020clg400-1 -mode out_of_context
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7z020'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7z020'
+INFO: Launching helper process for spawning children vivado processes
+INFO: Helper process launched with PID 18012 
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:11 ; elapsed = 00:00:13 . Memory (MB): peak = 477.277 ; gain = 105.551
+---------------------------------------------------------------------------------
+INFO: [Synth 8-6157] synthesizing module 'design_1_HLS_accel_1_0' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ip/design_1_HLS_accel_1_0/synth/design_1_HLS_accel_1_0.v:58]
+INFO: [Synth 8-6157] synthesizing module 'HLS_accel' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:12]
+	Parameter ap_ST_fsm_state1 bound to: 9'b000000001 
+	Parameter ap_ST_fsm_state2 bound to: 9'b000000010 
+	Parameter ap_ST_fsm_state3 bound to: 9'b000000100 
+	Parameter ap_ST_fsm_state4 bound to: 9'b000001000 
+	Parameter ap_ST_fsm_state5 bound to: 9'b000010000 
+	Parameter ap_ST_fsm_pp2_stage0 bound to: 9'b000100000 
+	Parameter ap_ST_fsm_state283 bound to: 9'b001000000 
+	Parameter ap_ST_fsm_pp3_stage0 bound to: 9'b010000000 
+	Parameter ap_ST_fsm_state288 bound to: 9'b100000000 
+	Parameter C_S_AXI_CONTROL_BUS_DATA_WIDTH bound to: 32 - type: integer 
+	Parameter C_S_AXI_CONTROL_BUS_ADDR_WIDTH bound to: 4 - type: integer 
+	Parameter C_S_AXI_DATA_WIDTH bound to: 32 - type: integer 
+	Parameter C_S_AXI_CONTROL_BUS_WSTRB_WIDTH bound to: 4 - type: integer 
+	Parameter C_S_AXI_WSTRB_WIDTH bound to: 4 - type: integer 
+INFO: [Synth 8-5534] Detected attribute (* fsm_encoding = "none" *) [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:112]
+INFO: [Synth 8-6157] synthesizing module 'HLS_accel_CONTROL_BUS_s_axi' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel_CONTROL_BUS_s_axi.v:9]
+	Parameter C_S_AXI_ADDR_WIDTH bound to: 4 - type: integer 
+	Parameter C_S_AXI_DATA_WIDTH bound to: 32 - type: integer 
+	Parameter ADDR_AP_CTRL bound to: 4'b0000 
+	Parameter ADDR_GIE bound to: 4'b0100 
+	Parameter ADDR_IER bound to: 4'b1000 
+	Parameter ADDR_ISR bound to: 4'b1100 
+	Parameter WRIDLE bound to: 2'b00 
+	Parameter WRDATA bound to: 2'b01 
+	Parameter WRRESP bound to: 2'b10 
+	Parameter WRRESET bound to: 2'b11 
+	Parameter RDIDLE bound to: 2'b00 
+	Parameter RDDATA bound to: 2'b01 
+	Parameter RDRESET bound to: 2'b10 
+	Parameter ADDR_BITS bound to: 4 - type: integer 
+INFO: [Synth 8-155] case statement is not full and has no default [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel_CONTROL_BUS_s_axi.v:189]
+INFO: [Synth 8-6155] done synthesizing module 'HLS_accel_CONTROL_BUS_s_axi' (1#1) [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel_CONTROL_BUS_s_axi.v:9]
+INFO: [Synth 8-6157] synthesizing module 'HLS_accel_a_0' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel_a_0.v:43]
+	Parameter DataWidth bound to: 16 - type: integer 
+	Parameter AddressRange bound to: 54 - type: integer 
+	Parameter AddressWidth bound to: 6 - type: integer 
+INFO: [Synth 8-6157] synthesizing module 'HLS_accel_a_0_ram' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel_a_0.v:9]
+	Parameter DWIDTH bound to: 16 - type: integer 
+	Parameter AWIDTH bound to: 6 - type: integer 
+	Parameter MEM_SIZE bound to: 54 - type: integer 
+INFO: [Synth 8-5534] Detected attribute (* ram_style = "distributed" *) [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel_a_0.v:22]
+INFO: [Synth 8-6155] done synthesizing module 'HLS_accel_a_0_ram' (2#1) [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel_a_0.v:9]
+INFO: [Synth 8-6155] done synthesizing module 'HLS_accel_a_0' (3#1) [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel_a_0.v:43]
+INFO: [Synth 8-6157] synthesizing module 'HLS_accel_out' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel_out.v:43]
+	Parameter DataWidth bound to: 16 - type: integer 
+	Parameter AddressRange bound to: 2916 - type: integer 
+	Parameter AddressWidth bound to: 12 - type: integer 
+INFO: [Synth 8-6157] synthesizing module 'HLS_accel_out_ram' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel_out.v:9]
+	Parameter DWIDTH bound to: 16 - type: integer 
+	Parameter AWIDTH bound to: 12 - type: integer 
+	Parameter MEM_SIZE bound to: 2916 - type: integer 
+INFO: [Synth 8-5534] Detected attribute (* ram_style = "block" *) [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel_out.v:22]
+INFO: [Synth 8-6155] done synthesizing module 'HLS_accel_out_ram' (4#1) [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel_out.v:9]
+INFO: [Synth 8-6155] done synthesizing module 'HLS_accel_out' (5#1) [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel_out.v:43]
+INFO: [Synth 8-6157] synthesizing module 'HLS_accel_hadd_16bkb' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel_hadd_16bkb.v:11]
+	Parameter ID bound to: 1 - type: integer 
+	Parameter NUM_STAGE bound to: 5 - type: integer 
+	Parameter din0_WIDTH bound to: 16 - type: integer 
+	Parameter din1_WIDTH bound to: 16 - type: integer 
+	Parameter dout_WIDTH bound to: 16 - type: integer 
+INFO: [Synth 8-638] synthesizing module 'HLS_accel_ap_hadd_3_full_dsp_16' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/ip/HLS_accel_ap_hadd_3_full_dsp_16.vhd:72]
+	Parameter C_XDEVICEFAMILY bound to: virtex7 - type: string 
+	Parameter C_HAS_ADD bound to: 1 - type: integer 
+	Parameter C_HAS_SUBTRACT bound to: 0 - type: integer 
+	Parameter C_HAS_MULTIPLY bound to: 0 - type: integer 
+	Parameter C_HAS_DIVIDE bound to: 0 - type: integer 
+	Parameter C_HAS_SQRT bound to: 0 - type: integer 
+	Parameter C_HAS_COMPARE bound to: 0 - type: integer 
+	Parameter C_HAS_FIX_TO_FLT bound to: 0 - type: integer 
+	Parameter C_HAS_FLT_TO_FIX bound to: 0 - type: integer 
+	Parameter C_HAS_FLT_TO_FLT bound to: 0 - type: integer 
+	Parameter C_HAS_RECIP bound to: 0 - type: integer 
+	Parameter C_HAS_RECIP_SQRT bound to: 0 - type: integer 
+	Parameter C_HAS_ABSOLUTE bound to: 0 - type: integer 
+	Parameter C_HAS_LOGARITHM bound to: 0 - type: integer 
+	Parameter C_HAS_EXPONENTIAL bound to: 0 - type: integer 
+	Parameter C_HAS_FMA bound to: 0 - type: integer 
+	Parameter C_HAS_FMS bound to: 0 - type: integer 
+	Parameter C_HAS_ACCUMULATOR_A bound to: 0 - type: integer 
+	Parameter C_HAS_ACCUMULATOR_S bound to: 0 - type: integer 
+	Parameter C_A_WIDTH bound to: 16 - type: integer 
+	Parameter C_A_FRACTION_WIDTH bound to: 11 - type: integer 
+	Parameter C_B_WIDTH bound to: 16 - type: integer 
+	Parameter C_B_FRACTION_WIDTH bound to: 11 - type: integer 
+	Parameter C_C_WIDTH bound to: 16 - type: integer 
+	Parameter C_C_FRACTION_WIDTH bound to: 11 - type: integer 
+	Parameter C_RESULT_WIDTH bound to: 16 - type: integer 
+	Parameter C_RESULT_FRACTION_WIDTH bound to: 11 - type: integer 
+	Parameter C_COMPARE_OPERATION bound to: 8 - type: integer 
+	Parameter C_LATENCY bound to: 3 - type: integer 
+	Parameter C_OPTIMIZATION bound to: 1 - type: integer 
+	Parameter C_MULT_USAGE bound to: 2 - type: integer 
+	Parameter C_BRAM_USAGE bound to: 0 - type: integer 
+	Parameter C_RATE bound to: 1 - type: integer 
+	Parameter C_ACCUM_INPUT_MSB bound to: 15 - type: integer 
+	Parameter C_ACCUM_MSB bound to: 32 - type: integer 
+	Parameter C_ACCUM_LSB bound to: -24 - type: integer 
+	Parameter C_HAS_UNDERFLOW bound to: 0 - type: integer 
+	Parameter C_HAS_OVERFLOW bound to: 0 - type: integer 
+	Parameter C_HAS_INVALID_OP bound to: 0 - type: integer 
+	Parameter C_HAS_DIVIDE_BY_ZERO bound to: 0 - type: integer 
+	Parameter C_HAS_ACCUM_OVERFLOW bound to: 0 - type: integer 
+	Parameter C_HAS_ACCUM_INPUT_OVERFLOW bound to: 0 - type: integer 
+	Parameter C_HAS_ACLKEN bound to: 1 - type: integer 
+	Parameter C_HAS_ARESETN bound to: 0 - type: integer 
+	Parameter C_THROTTLE_SCHEME bound to: 3 - type: integer 
+	Parameter C_HAS_A_TUSER bound to: 0 - type: integer 
+	Parameter C_HAS_A_TLAST bound to: 0 - type: integer 
+	Parameter C_HAS_B bound to: 1 - type: integer 
+	Parameter C_HAS_B_TUSER bound to: 0 - type: integer 
+	Parameter C_HAS_B_TLAST bound to: 0 - type: integer 
+	Parameter C_HAS_C bound to: 0 - type: integer 
+	Parameter C_HAS_C_TUSER bound to: 0 - type: integer 
+	Parameter C_HAS_C_TLAST bound to: 0 - type: integer 
+	Parameter C_HAS_OPERATION bound to: 0 - type: integer 
+	Parameter C_HAS_OPERATION_TUSER bound to: 0 - type: integer 
+	Parameter C_HAS_OPERATION_TLAST bound to: 0 - type: integer 
+	Parameter C_HAS_RESULT_TUSER bound to: 0 - type: integer 
+	Parameter C_HAS_RESULT_TLAST bound to: 0 - type: integer 
+	Parameter C_TLAST_RESOLUTION bound to: 0 - type: integer 
+	Parameter C_A_TDATA_WIDTH bound to: 16 - type: integer 
+	Parameter C_A_TUSER_WIDTH bound to: 1 - type: integer 
+	Parameter C_B_TDATA_WIDTH bound to: 16 - type: integer 
+	Parameter C_B_TUSER_WIDTH bound to: 1 - type: integer 
+	Parameter C_C_TDATA_WIDTH bound to: 16 - type: integer 
+	Parameter C_C_TUSER_WIDTH bound to: 1 - type: integer 
+	Parameter C_OPERATION_TDATA_WIDTH bound to: 8 - type: integer 
+	Parameter C_OPERATION_TUSER_WIDTH bound to: 1 - type: integer 
+	Parameter C_RESULT_TDATA_WIDTH bound to: 16 - type: integer 
+	Parameter C_RESULT_TUSER_WIDTH bound to: 1 - type: integer 
+	Parameter C_FIXED_DATA_UNSIGNED bound to: 0 - type: integer 
+INFO: [Synth 8-3491] module 'floating_point_v7_1_7' declared at 'c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/c63e/hdl/floating_point_v7_1_vh_rfs.vhd:91615' bound to instance 'U0' of component 'floating_point_v7_1_7' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/ip/HLS_accel_ap_hadd_3_full_dsp_16.vhd:203]
+INFO: [Synth 8-256] done synthesizing module 'HLS_accel_ap_hadd_3_full_dsp_16' (24#1) [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/ip/HLS_accel_ap_hadd_3_full_dsp_16.vhd:72]
+INFO: [Synth 8-6155] done synthesizing module 'HLS_accel_hadd_16bkb' (25#1) [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel_hadd_16bkb.v:11]
+INFO: [Synth 8-6157] synthesizing module 'HLS_accel_hmul_16cud' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel_hmul_16cud.v:11]
+	Parameter ID bound to: 1 - type: integer 
+	Parameter NUM_STAGE bound to: 4 - type: integer 
+	Parameter din0_WIDTH bound to: 16 - type: integer 
+	Parameter din1_WIDTH bound to: 16 - type: integer 
+	Parameter dout_WIDTH bound to: 16 - type: integer 
+INFO: [Synth 8-638] synthesizing module 'HLS_accel_ap_hmul_2_max_dsp_16' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/ip/HLS_accel_ap_hmul_2_max_dsp_16.vhd:72]
+	Parameter C_XDEVICEFAMILY bound to: virtex7 - type: string 
+	Parameter C_HAS_ADD bound to: 0 - type: integer 
+	Parameter C_HAS_SUBTRACT bound to: 0 - type: integer 
+	Parameter C_HAS_MULTIPLY bound to: 1 - type: integer 
+	Parameter C_HAS_DIVIDE bound to: 0 - type: integer 
+	Parameter C_HAS_SQRT bound to: 0 - type: integer 
+	Parameter C_HAS_COMPARE bound to: 0 - type: integer 
+	Parameter C_HAS_FIX_TO_FLT bound to: 0 - type: integer 
+	Parameter C_HAS_FLT_TO_FIX bound to: 0 - type: integer 
+	Parameter C_HAS_FLT_TO_FLT bound to: 0 - type: integer 
+	Parameter C_HAS_RECIP bound to: 0 - type: integer 
+	Parameter C_HAS_RECIP_SQRT bound to: 0 - type: integer 
+	Parameter C_HAS_ABSOLUTE bound to: 0 - type: integer 
+	Parameter C_HAS_LOGARITHM bound to: 0 - type: integer 
+	Parameter C_HAS_EXPONENTIAL bound to: 0 - type: integer 
+	Parameter C_HAS_FMA bound to: 0 - type: integer 
+	Parameter C_HAS_FMS bound to: 0 - type: integer 
+	Parameter C_HAS_ACCUMULATOR_A bound to: 0 - type: integer 
+	Parameter C_HAS_ACCUMULATOR_S bound to: 0 - type: integer 
+	Parameter C_A_WIDTH bound to: 16 - type: integer 
+	Parameter C_A_FRACTION_WIDTH bound to: 11 - type: integer 
+	Parameter C_B_WIDTH bound to: 16 - type: integer 
+	Parameter C_B_FRACTION_WIDTH bound to: 11 - type: integer 
+	Parameter C_C_WIDTH bound to: 16 - type: integer 
+	Parameter C_C_FRACTION_WIDTH bound to: 11 - type: integer 
+	Parameter C_RESULT_WIDTH bound to: 16 - type: integer 
+	Parameter C_RESULT_FRACTION_WIDTH bound to: 11 - type: integer 
+	Parameter C_COMPARE_OPERATION bound to: 8 - type: integer 
+	Parameter C_LATENCY bound to: 2 - type: integer 
+	Parameter C_OPTIMIZATION bound to: 1 - type: integer 
+	Parameter C_MULT_USAGE bound to: 3 - type: integer 
+	Parameter C_BRAM_USAGE bound to: 0 - type: integer 
+	Parameter C_RATE bound to: 1 - type: integer 
+	Parameter C_ACCUM_INPUT_MSB bound to: 15 - type: integer 
+	Parameter C_ACCUM_MSB bound to: 32 - type: integer 
+	Parameter C_ACCUM_LSB bound to: -24 - type: integer 
+	Parameter C_HAS_UNDERFLOW bound to: 0 - type: integer 
+	Parameter C_HAS_OVERFLOW bound to: 0 - type: integer 
+	Parameter C_HAS_INVALID_OP bound to: 0 - type: integer 
+	Parameter C_HAS_DIVIDE_BY_ZERO bound to: 0 - type: integer 
+	Parameter C_HAS_ACCUM_OVERFLOW bound to: 0 - type: integer 
+	Parameter C_HAS_ACCUM_INPUT_OVERFLOW bound to: 0 - type: integer 
+	Parameter C_HAS_ACLKEN bound to: 1 - type: integer 
+	Parameter C_HAS_ARESETN bound to: 0 - type: integer 
+	Parameter C_THROTTLE_SCHEME bound to: 3 - type: integer 
+	Parameter C_HAS_A_TUSER bound to: 0 - type: integer 
+	Parameter C_HAS_A_TLAST bound to: 0 - type: integer 
+	Parameter C_HAS_B bound to: 1 - type: integer 
+	Parameter C_HAS_B_TUSER bound to: 0 - type: integer 
+	Parameter C_HAS_B_TLAST bound to: 0 - type: integer 
+	Parameter C_HAS_C bound to: 0 - type: integer 
+	Parameter C_HAS_C_TUSER bound to: 0 - type: integer 
+	Parameter C_HAS_C_TLAST bound to: 0 - type: integer 
+	Parameter C_HAS_OPERATION bound to: 0 - type: integer 
+	Parameter C_HAS_OPERATION_TUSER bound to: 0 - type: integer 
+	Parameter C_HAS_OPERATION_TLAST bound to: 0 - type: integer 
+	Parameter C_HAS_RESULT_TUSER bound to: 0 - type: integer 
+	Parameter C_HAS_RESULT_TLAST bound to: 0 - type: integer 
+	Parameter C_TLAST_RESOLUTION bound to: 0 - type: integer 
+	Parameter C_A_TDATA_WIDTH bound to: 16 - type: integer 
+	Parameter C_A_TUSER_WIDTH bound to: 1 - type: integer 
+	Parameter C_B_TDATA_WIDTH bound to: 16 - type: integer 
+	Parameter C_B_TUSER_WIDTH bound to: 1 - type: integer 
+	Parameter C_C_TDATA_WIDTH bound to: 16 - type: integer 
+	Parameter C_C_TUSER_WIDTH bound to: 1 - type: integer 
+	Parameter C_OPERATION_TDATA_WIDTH bound to: 8 - type: integer 
+	Parameter C_OPERATION_TUSER_WIDTH bound to: 1 - type: integer 
+	Parameter C_RESULT_TDATA_WIDTH bound to: 16 - type: integer 
+	Parameter C_RESULT_TUSER_WIDTH bound to: 1 - type: integer 
+	Parameter C_FIXED_DATA_UNSIGNED bound to: 0 - type: integer 
+INFO: [Synth 8-3491] module 'floating_point_v7_1_7' declared at 'c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/c63e/hdl/floating_point_v7_1_vh_rfs.vhd:91615' bound to instance 'U0' of component 'floating_point_v7_1_7' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/ip/HLS_accel_ap_hmul_2_max_dsp_16.vhd:203]
+INFO: [Synth 8-256] done synthesizing module 'HLS_accel_ap_hmul_2_max_dsp_16' (38#1) [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/ip/HLS_accel_ap_hmul_2_max_dsp_16.vhd:72]
+INFO: [Synth 8-6155] done synthesizing module 'HLS_accel_hmul_16cud' (39#1) [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel_hmul_16cud.v:11]
+INFO: [Synth 8-6157] synthesizing module 'HLS_accel_mac_muldEe' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel_mac_muldEe.v:33]
+	Parameter ID bound to: 1 - type: integer 
+	Parameter NUM_STAGE bound to: 1 - type: integer 
+	Parameter din0_WIDTH bound to: 6 - type: integer 
+	Parameter din1_WIDTH bound to: 7 - type: integer 
+	Parameter din2_WIDTH bound to: 6 - type: integer 
+	Parameter dout_WIDTH bound to: 12 - type: integer 
+INFO: [Synth 8-6157] synthesizing module 'HLS_accel_mac_muldEe_DSP48_0' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel_mac_muldEe.v:10]
+INFO: [Synth 8-6155] done synthesizing module 'HLS_accel_mac_muldEe_DSP48_0' (40#1) [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel_mac_muldEe.v:10]
+INFO: [Synth 8-6155] done synthesizing module 'HLS_accel_mac_muldEe' (41#1) [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel_mac_muldEe.v:33]
+WARNING: [Synth 8-589] replacing case/wildcard equality operator === with logical equality operator == [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15765]
+WARNING: [Synth 8-589] replacing case/wildcard equality operator === with logical equality operator == [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15775]
+WARNING: [Synth 8-589] replacing case/wildcard equality operator === with logical equality operator == [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15787]
+WARNING: [Synth 8-589] replacing case/wildcard equality operator === with logical equality operator == [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15791]
+WARNING: [Synth 8-589] replacing case/wildcard equality operator === with logical equality operator == [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15793]
+WARNING: [Synth 8-589] replacing case/wildcard equality operator === with logical equality operator == [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15815]
+WARNING: [Synth 8-589] replacing case/wildcard equality operator === with logical equality operator == [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15821]
+WARNING: [Synth 8-589] replacing case/wildcard equality operator === with logical equality operator == [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15825]
+WARNING: [Synth 8-6014] Unused sequential element OUTPUT_STREAM_dest_V_1_sel_rd_reg was removed.  [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:6600]
+WARNING: [Synth 8-6014] Unused sequential element OUTPUT_STREAM_id_V_1_sel_rd_reg was removed.  [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:6626]
+WARNING: [Synth 8-6014] Unused sequential element OUTPUT_STREAM_keep_V_1_sel_rd_reg was removed.  [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:6652]
+WARNING: [Synth 8-6014] Unused sequential element OUTPUT_STREAM_strb_V_1_sel_rd_reg was removed.  [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:6714]
+WARNING: [Synth 8-6014] Unused sequential element OUTPUT_STREAM_user_V_1_sel_rd_reg was removed.  [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:6740]
+INFO: [Synth 8-6155] done synthesizing module 'HLS_accel' (42#1) [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:12]
+INFO: [Synth 8-6155] done synthesizing module 'design_1_HLS_accel_1_0' (43#1) [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ip/design_1_HLS_accel_1_0/synth/design_1_HLS_accel_1_0.v:58]
+WARNING: [Synth 8-3331] design flt_dec_op_lat has unconnected port DEC_OP_STATE[11]
+WARNING: [Synth 8-3331] design flt_dec_op_lat has unconnected port DEC_OP_STATE[10]
+WARNING: [Synth 8-3331] design flt_dec_op_lat has unconnected port DEC_OP_STATE[9]
+WARNING: [Synth 8-3331] design flt_dec_op_lat has unconnected port DEC_OP_STATE[8]
+WARNING: [Synth 8-3331] design flt_dec_op_lat has unconnected port DIVIDE_BY_ZERO_IN
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized23 has unconnected port CLK
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized23 has unconnected port CE
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized23 has unconnected port SCLR
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized23 has unconnected port SSET
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized23 has unconnected port SINIT
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized66 has unconnected port CLK
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized66 has unconnected port CE
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized66 has unconnected port SCLR
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized66 has unconnected port SSET
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized66 has unconnected port SINIT
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized25 has unconnected port CLK
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized25 has unconnected port CE
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized25 has unconnected port SCLR
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized25 has unconnected port SSET
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized25 has unconnected port SINIT
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized13 has unconnected port CLK
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized13 has unconnected port CE
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized13 has unconnected port SCLR
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized13 has unconnected port SSET
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized13 has unconnected port SINIT
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized7 has unconnected port CLK
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized7 has unconnected port CE
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized7 has unconnected port SCLR
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized7 has unconnected port SSET
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized7 has unconnected port SINIT
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized11 has unconnected port CLK
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized11 has unconnected port CE
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized11 has unconnected port SCLR
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized11 has unconnected port SSET
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized11 has unconnected port SINIT
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized9 has unconnected port CLK
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized9 has unconnected port CE
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized9 has unconnected port SCLR
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized9 has unconnected port SSET
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized9 has unconnected port SINIT
+WARNING: [Synth 8-3331] design dsp48e1_wrapper__parameterized1 has unconnected port SCLR
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized19 has unconnected port CLK
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized19 has unconnected port CE
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized19 has unconnected port SCLR
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized19 has unconnected port SSET
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized19 has unconnected port SINIT
+WARNING: [Synth 8-3331] design carry_chain__parameterized5 has unconnected port B[4]
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized64 has unconnected port CLK
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized64 has unconnected port CE
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized64 has unconnected port SCLR
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized64 has unconnected port SSET
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized64 has unconnected port SINIT
+WARNING: [Synth 8-3331] design flt_round_bit has unconnected port NORMALIZE[1]
+WARNING: [Synth 8-3331] design flt_round_bit has unconnected port FIXED_POINT
+WARNING: [Synth 8-3331] design flt_round_bit has unconnected port FIX_MANT_SIGN
+WARNING: [Synth 8-3331] design flt_round_bit has unconnected port SIGN
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized49 has unconnected port CLK
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized49 has unconnected port CE
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized49 has unconnected port SCLR
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized49 has unconnected port SSET
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized49 has unconnected port SINIT
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized62 has unconnected port CLK
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized62 has unconnected port CE
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized62 has unconnected port SCLR
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized62 has unconnected port SSET
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized62 has unconnected port SINIT
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized29 has unconnected port CLK
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized29 has unconnected port CE
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized29 has unconnected port SCLR
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized29 has unconnected port SSET
+WARNING: [Synth 8-3331] design xbip_pipe_v3_0_5_viv__parameterized29 has unconnected port SINIT
+WARNING: [Synth 8-3331] design flt_mult_round has unconnected port MANT_CASC_IN[47]
+WARNING: [Synth 8-3331] design flt_mult_round has unconnected port MANT_CASC_IN[46]
+WARNING: [Synth 8-3331] design flt_mult_round has unconnected port MANT_CASC_IN[45]
+WARNING: [Synth 8-3331] design flt_mult_round has unconnected port MANT_CASC_IN[44]
+WARNING: [Synth 8-3331] design flt_mult_round has unconnected port MANT_CASC_IN[43]
+WARNING: [Synth 8-3331] design flt_mult_round has unconnected port MANT_CASC_IN[42]
+WARNING: [Synth 8-3331] design flt_mult_round has unconnected port MANT_CASC_IN[41]
+WARNING: [Synth 8-3331] design flt_mult_round has unconnected port MANT_CASC_IN[40]
+WARNING: [Synth 8-3331] design flt_mult_round has unconnected port MANT_CASC_IN[39]
+WARNING: [Synth 8-3331] design flt_mult_round has unconnected port MANT_CASC_IN[38]
+WARNING: [Synth 8-3331] design flt_mult_round has unconnected port MANT_CASC_IN[37]
+WARNING: [Synth 8-3331] design flt_mult_round has unconnected port MANT_CASC_IN[36]
+WARNING: [Synth 8-3331] design flt_mult_round has unconnected port MANT_CASC_IN[35]
+WARNING: [Synth 8-3331] design flt_mult_round has unconnected port MANT_CASC_IN[34]
+WARNING: [Synth 8-3331] design flt_mult_round has unconnected port MANT_CASC_IN[33]
+WARNING: [Synth 8-3331] design flt_mult_round has unconnected port MANT_CASC_IN[32]
+WARNING: [Synth 8-3331] design flt_mult_round has unconnected port MANT_CASC_IN[31]
+WARNING: [Synth 8-3331] design flt_mult_round has unconnected port MANT_CASC_IN[30]
+WARNING: [Synth 8-3331] design flt_mult_round has unconnected port MANT_CASC_IN[29]
+WARNING: [Synth 8-3331] design flt_mult_round has unconnected port MANT_CASC_IN[28]
+WARNING: [Synth 8-3331] design flt_mult_round has unconnected port MANT_CASC_IN[27]
+WARNING: [Synth 8-3331] design flt_mult_round has unconnected port MANT_CASC_IN[26]
+WARNING: [Synth 8-3331] design flt_mult_round has unconnected port MANT_CASC_IN[25]
+WARNING: [Synth 8-3331] design flt_mult_round has unconnected port MANT_CASC_IN[24]
+WARNING: [Synth 8-3331] design flt_mult_round has unconnected port MANT_CASC_IN[23]
+WARNING: [Synth 8-3331] design flt_mult_round has unconnected port MANT_CASC_IN[22]
+WARNING: [Synth 8-3331] design flt_mult_round has unconnected port MANT_CASC_IN[21]
+WARNING: [Synth 8-3331] design flt_mult_round has unconnected port MANT_CASC_IN[20]
+WARNING: [Synth 8-3331] design flt_mult_round has unconnected port MANT_CASC_IN[19]
+INFO: [Common 17-14] Message 'Synth 8-3331' appears 100 times and further instances of the messages will be disabled. Use the Tcl command set_msg_config to change the current settings.
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:30 ; elapsed = 00:00:37 . Memory (MB): peak = 665.684 ; gain = 293.957
+---------------------------------------------------------------------------------
+
+Report Check Netlist: 
++------+------------------+-------+---------+-------+------------------+
+|      |Item              |Errors |Warnings |Status |Description       |
++------+------------------+-------+---------+-------+------------------+
+|1     |multi_driven_nets |      0|        0|Passed |Multi driven nets |
++------+------------------+-------+---------+-------+------------------+
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:31 ; elapsed = 00:00:39 . Memory (MB): peak = 665.684 ; gain = 293.957
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:31 ; elapsed = 00:00:39 . Memory (MB): peak = 665.684 ; gain = 293.957
+---------------------------------------------------------------------------------
+INFO: [Netlist 29-17] Analyzing 5022 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 1 CPU seconds
+INFO: [Device 21-403] Loading part xc7z020clg400-1
+INFO: [Project 1-570] Preparing netlist for logic optimization
+
+Processing XDC Constraints
+Initializing timing engine
+Parsing XDC File [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ip/design_1_HLS_accel_1_0/constraints/HLS_accel_ooc.xdc] for cell 'inst'
+Finished Parsing XDC File [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ip/design_1_HLS_accel_1_0/constraints/HLS_accel_ooc.xdc] for cell 'inst'
+Parsing XDC File [C:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.runs/design_1_HLS_accel_1_0_synth_1/dont_touch.xdc]
+Finished Parsing XDC File [C:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.runs/design_1_HLS_accel_1_0_synth_1/dont_touch.xdc]
+Completed Processing XDC Constraints
+
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.244 . Memory (MB): peak = 1312.371 ; gain = 0.254
+INFO: [Project 1-111] Unisim Transformation Summary:
+  A total of 594 instances were transformed.
+  FDE => FDRE: 162 instances
+  LUT6_2 => LUT6_2 (LUT5, LUT6): 432 instances
+
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.265 . Memory (MB): peak = 1332.363 ; gain = 0.453
+Constraint Validation Runtime : Time (s): cpu = 00:00:01 ; elapsed = 00:00:02 . Memory (MB): peak = 1333.629 ; gain = 21.258
+---------------------------------------------------------------------------------
+Finished Constraint Validation : Time (s): cpu = 00:01:09 ; elapsed = 00:01:24 . Memory (MB): peak = 1333.629 ; gain = 961.902
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Loading Part and Timing Information
+---------------------------------------------------------------------------------
+Loading part: xc7z020clg400-1
+---------------------------------------------------------------------------------
+Finished Loading Part and Timing Information : Time (s): cpu = 00:01:09 ; elapsed = 00:01:24 . Memory (MB): peak = 1333.629 ; gain = 961.902
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Applying 'set_property' XDC Constraints
+---------------------------------------------------------------------------------
+Applied set_property DONT_TOUCH = true for inst. (constraint file  C:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.runs/design_1_HLS_accel_1_0_synth_1/dont_touch.xdc, line 9).
+---------------------------------------------------------------------------------
+Finished applying 'set_property' XDC Constraints : Time (s): cpu = 00:01:09 ; elapsed = 00:01:24 . Memory (MB): peak = 1333.629 ; gain = 961.902
+---------------------------------------------------------------------------------
+INFO: [Synth 8-802] inferred FSM for state register 'wstate_reg' in module 'HLS_accel_CONTROL_BUS_s_axi'
+INFO: [Synth 8-802] inferred FSM for state register 'rstate_reg' in module 'HLS_accel_CONTROL_BUS_s_axi'
+INFO: [Synth 8-5544] ROM "wnext" won't be mapped to Block RAM because address size (1) smaller than threshold (5)
+INFO: [Synth 8-5544] ROM "wnext" won't be mapped to Block RAM because address size (1) smaller than threshold (5)
+INFO: [Synth 8-5546] ROM "exp_all_one_ip" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "exp_all_zero_ip" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "exp_over_int" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "exp_over_int" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5544] ROM "det_state" won't be mapped to Block RAM because address size (1) smaller than threshold (5)
+INFO: [Synth 8-5546] ROM "exp_all_one_ip" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "exp_all_zero_ip" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "exp_just_over_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "exp_just_over_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5544] ROM "state_int_up" won't be mapped to Block RAM because address size (1) smaller than threshold (5)
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter1_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15829]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter2_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15830]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter3_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15831]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter5_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15833]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter6_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15834]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter7_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15835]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter8_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15836]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter10_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15838]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter11_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15839]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter12_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15840]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter13_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15841]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter15_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15843]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter16_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15844]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter17_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15845]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter18_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15846]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter20_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15848]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter21_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15849]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter22_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15850]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter23_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15851]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter25_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15853]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter26_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15854]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter27_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15855]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter28_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15856]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter30_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15858]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter31_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15859]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter32_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15860]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter33_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15861]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter35_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15863]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter36_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15864]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter37_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15865]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter38_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15866]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter40_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15868]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter41_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15869]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter42_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15870]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter43_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15871]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter45_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15873]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter46_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15874]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter47_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15875]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter48_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15876]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter50_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15878]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter51_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15879]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter52_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15880]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter53_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15881]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter55_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15883]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter56_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15884]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter57_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15885]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter58_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15886]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter60_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15888]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter61_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15889]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter62_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15890]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter63_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15891]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter65_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15893]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter66_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15894]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter67_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15895]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter68_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15896]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter70_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15898]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter71_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15899]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter72_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15900]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter73_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15901]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter75_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15903]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter76_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15904]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter77_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15905]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter78_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15906]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter80_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15908]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter81_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15909]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter82_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15910]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter83_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15911]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter85_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15913]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter86_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15914]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter87_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15915]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter88_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15916]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter90_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15918]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter91_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15919]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter92_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15920]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter93_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15921]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter95_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15923]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter96_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15924]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter97_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15925]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter98_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15926]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter100_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15928]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter101_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15929]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter102_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15930]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter103_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15931]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter105_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15933]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter106_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15934]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter107_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15935]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter108_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15936]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter110_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15938]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter111_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15939]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter112_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15940]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter113_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15941]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter115_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15943]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter116_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15944]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter117_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15945]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter118_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15946]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter120_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15948]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter121_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15949]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter122_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15950]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter123_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15951]
+INFO: [Synth 8-4471] merging register 'tmp_9_mid2_reg_3871_pp2_iter125_reg_reg[63:6]' into 'tmp_9_mid2_reg_3871_reg[63:6]' [c:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.srcs/sources_1/bd/design_1/ipshared/1a66/hdl/verilog/HLS_accel.v:15953]
+INFO: [Common 17-14] Message 'Synth 8-4471' appears 100 times and further instances of the messages will be disabled. Use the Tcl command set_msg_config to change the current settings.
+INFO: [Synth 8-4490] FSM extraction disabled for register 'ap_CS_fsm_reg' through user attribute
+INFO: [Synth 8-4490] FSM extraction disabled for register 'ap_CS_fsm_reg' through user attribute
+INFO: [Synth 8-5546] ROM "exitcond_flatten1_fu_3488_p2" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "exitcond_flatten_fu_3326_p2" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "exitcond_flatten2_fu_3650_p2" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "exitcond_flatten3_fu_3716_p2" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "exitcond2_i_fu_3506_p2" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "exitcond4_i_fu_3344_p2" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "exitcond1_i_i_fu_3668_p2" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "exitcond_i_fu_3734_p2" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "last_assign_fu_3775_p2" won't be mapped to RAM because it is too sparse
+---------------------------------------------------------------------------------------------------
+                   State |                     New Encoding |                Previous Encoding 
+---------------------------------------------------------------------------------------------------
+                  iSTATE |                             0001 |                               11
+*
+                  WRIDLE |                             0010 |                               00
+                  WRDATA |                             0100 |                               01
+                  WRRESP |                             1000 |                               10
+---------------------------------------------------------------------------------------------------
+INFO: [Synth 8-3354] encoded FSM with state register 'wstate_reg' using encoding 'one-hot' in module 'HLS_accel_CONTROL_BUS_s_axi'
+---------------------------------------------------------------------------------------------------
+                   State |                     New Encoding |                Previous Encoding 
+---------------------------------------------------------------------------------------------------
+                  iSTATE |                              001 |                               10
+*
+                  RDIDLE |                              010 |                               00
+                  RDDATA |                              100 |                               01
+---------------------------------------------------------------------------------------------------
+INFO: [Synth 8-3354] encoded FSM with state register 'rstate_reg' using encoding 'one-hot' in module 'HLS_accel_CONTROL_BUS_s_axi'
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 2 : Time (s): cpu = 00:01:19 ; elapsed = 00:01:36 . Memory (MB): peak = 1333.629 ; gain = 961.902
+---------------------------------------------------------------------------------
+INFO: [Synth 8-223] decloning instance 'HLS_accel_hadd_16bkb:/HLS_accel_ap_hadd_3_full_dsp_16_u/U0/i_synth/DELAY_DIVIDE_BY_ZERO' (delay__parameterized2) to 'HLS_accel_hadd_16bkb:/HLS_accel_ap_hadd_3_full_dsp_16_u/U0/i_synth/DELAY_ACCUM_OVERFLOW'
+INFO: [Synth 8-223] decloning instance 'HLS_accel_hadd_16bkb:/HLS_accel_ap_hadd_3_full_dsp_16_u/U0/i_synth/DELAY_DIVIDE_BY_ZERO' (delay__parameterized2) to 'HLS_accel_hadd_16bkb:/HLS_accel_ap_hadd_3_full_dsp_16_u/U0/i_synth/DELAY_ACCUM_INPUT_OVERFLOW'
+INFO: [Synth 8-223] decloning instance 'HLS_accel_hmul_16cud:/HLS_accel_ap_hmul_2_max_dsp_16_u/U0/i_synth/DELAY_DIVIDE_BY_ZERO' (delay__parameterized2) to 'HLS_accel_hmul_16cud:/HLS_accel_ap_hmul_2_max_dsp_16_u/U0/i_synth/DELAY_ACCUM_OVERFLOW'
+INFO: [Synth 8-223] decloning instance 'HLS_accel_hmul_16cud:/HLS_accel_ap_hmul_2_max_dsp_16_u/U0/i_synth/DELAY_DIVIDE_BY_ZERO' (delay__parameterized2) to 'HLS_accel_hmul_16cud:/HLS_accel_ap_hmul_2_max_dsp_16_u/U0/i_synth/DELAY_ACCUM_INPUT_OVERFLOW'
+INFO: [Synth 8-223] decloning instance 'HLS_accel_hmul_16cud:/HLS_accel_ap_hmul_2_max_dsp_16_u/U0/i_synth/MULT.OP/R_AND_R/LOGIC.R_AND_R/EXTRA_LSB_BIT_DEL' (delay__parameterized2) to 'HLS_accel_hmul_16cud:/HLS_accel_ap_hmul_2_max_dsp_16_u/U0/i_synth/MULT.OP/R_AND_R/LOGIC.R_AND_R/EXTRA_LSB_RND1_DEL'
+INFO: [Synth 8-223] decloning instance 'HLS_accel_hmul_16cud:/HLS_accel_ap_hmul_2_max_dsp_16_u/U0/i_synth/MULT.OP/R_AND_R/LOGIC.R_AND_R/EXP_INC_DELAY' (delay__parameterized2) to 'HLS_accel_hmul_16cud:/HLS_accel_ap_hmul_2_max_dsp_16_u/U0/i_synth/MULT.OP/R_AND_R/LOGIC.R_AND_R/EXP_INC_RND1_DELAY'
+INFO: [Synth 8-223] decloning instance 'HLS_accel_hmul_16cud:/HLS_accel_ap_hmul_2_max_dsp_16_u/U0/i_synth/MULT.OP/R_AND_R/LOGIC.R_AND_R/EXP_IN_DELAY.EXP_IN_DEL' (delay__parameterized8) to 'HLS_accel_hmul_16cud:/HLS_accel_ap_hmul_2_max_dsp_16_u/U0/i_synth/MULT.OP/R_AND_R/LOGIC.R_AND_R/EXP_RND2_DELAY.EXP_RND_DEL'
+INFO: [Synth 8-223] decloning instance 'HLS_accel_hmul_16cud:/HLS_accel_ap_hmul_2_max_dsp_16_u/U0/i_synth/MULT.OP/R_AND_R/LOGIC.R_AND_R/EXP_IN_DELAY.EXP_OFF_OP_DEL' (delay__parameterized8) to 'HLS_accel_hmul_16cud:/HLS_accel_ap_hmul_2_max_dsp_16_u/U0/i_synth/MULT.OP/R_AND_R/LOGIC.R_AND_R/EXP_RND2_DELAY.EXP_OFF_RND_DEL'
+INFO: [Synth 8-223] decloning instance 'inst/HLS_accel_mac_muldEe_U110' (HLS_accel_mac_muldEe) to 'inst/HLS_accel_mac_muldEe_U111'
+
+Report RTL Partitions: 
++------+---------------+------------+----------+
+|      |RTL Partition  |Replication |Instances |
++------+---------------+------------+----------+
+|1     |HLS_accel__GB0 |           1|     35002|
+|2     |HLS_accel__GB1 |           1|      9299|
+|3     |HLS_accel__GB2 |           1|     11159|
+|4     |HLS_accel__GB3 |           1|     14564|
++------+---------------+------------+----------+
+---------------------------------------------------------------------------------
+Start RTL Component Statistics 
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Component Statistics 
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start RTL Hierarchical Component Statistics 
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Hierarchical Component Statistics
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Part Resource Summary
+---------------------------------------------------------------------------------
+Part Resources:
+DSPs: 220 (col length:60)
+BRAMs: 280 (col length: RAMB18 60 RAMB36 30)
+---------------------------------------------------------------------------------
+Finished Part Resource Summary
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Cross Boundary and Area Optimization
+---------------------------------------------------------------------------------
+Warning: Parallel synthesis criteria is not met 
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "exitcond2_i_fu_3506_p2" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "exitcond1_i_i_fu_3668_p2" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "exitcond_flatten1_fu_3488_p2" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "exitcond_flatten2_fu_3650_p2" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "exitcond_flatten3_fu_3716_p2" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "last_assign_fu_3775_p2" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "ip_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Synth 8-5546] ROM "MULT.OP/EXP/flow_sig" won't be mapped to RAM because it is too sparse
+INFO: [Common 17-14] Message 'Synth 8-5546' appears 100 times and further instances of the messages will be disabled. Use the Tcl command set_msg_config to change the current settings.
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/ib_0_i_i_mid2_reg_3860_reg[0]' (FDE) to 'inst/i_3_0/tmp_5_reg_3933_reg[0]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/ib_0_i_i_mid2_reg_3860_reg[1]' (FDE) to 'inst/i_3_0/tmp_5_reg_3933_reg[1]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/ib_0_i_i_mid2_reg_3860_reg[2]' (FDE) to 'inst/i_3_0/tmp_5_reg_3933_reg[2]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/ib_0_i_i_mid2_reg_3860_reg[3]' (FDE) to 'inst/i_3_0/tmp_5_reg_3933_reg[3]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/ib_0_i_i_mid2_reg_3860_reg[4]' (FDE) to 'inst/i_3_0/tmp_5_reg_3933_reg[4]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/ib_0_i_i_mid2_reg_3860_reg[5]' (FDE) to 'inst/i_3_0/tmp_5_reg_3933_reg[5]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/ib_0_i_i_mid2_reg_3860_pp2_iter1_reg_reg[0]' (FDE) to 'inst/i_3_0/tmp_5_reg_3933_pp2_iter1_reg_reg[0]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/ib_0_i_i_mid2_reg_3860_pp2_iter1_reg_reg[1]' (FDE) to 'inst/i_3_0/tmp_5_reg_3933_pp2_iter1_reg_reg[1]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/ib_0_i_i_mid2_reg_3860_pp2_iter1_reg_reg[2]' (FDE) to 'inst/i_3_0/tmp_5_reg_3933_pp2_iter1_reg_reg[2]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/ib_0_i_i_mid2_reg_3860_pp2_iter1_reg_reg[3]' (FDE) to 'inst/i_3_0/tmp_5_reg_3933_pp2_iter1_reg_reg[3]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/ib_0_i_i_mid2_reg_3860_pp2_iter1_reg_reg[4]' (FDE) to 'inst/i_3_0/tmp_5_reg_3933_pp2_iter1_reg_reg[4]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/ib_0_i_i_mid2_reg_3860_pp2_iter1_reg_reg[5]' (FDE) to 'inst/i_3_0/tmp_5_reg_3933_pp2_iter1_reg_reg[5]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/ib_0_i_i_mid2_reg_3860_pp2_iter2_reg_reg[0]' (FD) to 'inst/i_3_0/tmp_5_reg_3933_pp2_iter2_reg_reg[0]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/ib_0_i_i_mid2_reg_3860_pp2_iter2_reg_reg[1]' (FD) to 'inst/i_3_0/tmp_5_reg_3933_pp2_iter2_reg_reg[1]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/ib_0_i_i_mid2_reg_3860_pp2_iter2_reg_reg[2]' (FD) to 'inst/i_3_0/tmp_5_reg_3933_pp2_iter2_reg_reg[2]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/ib_0_i_i_mid2_reg_3860_pp2_iter2_reg_reg[3]' (FD) to 'inst/i_3_0/tmp_5_reg_3933_pp2_iter2_reg_reg[3]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/ib_0_i_i_mid2_reg_3860_pp2_iter2_reg_reg[4]' (FD) to 'inst/i_3_0/tmp_5_reg_3933_pp2_iter2_reg_reg[4]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/ib_0_i_i_mid2_reg_3860_pp2_iter2_reg_reg[5]' (FD) to 'inst/i_3_0/tmp_5_reg_3933_pp2_iter2_reg_reg[5]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/ib_0_i_i_mid2_reg_3860_pp2_iter3_reg_reg[0]' (FD) to 'inst/i_3_0/tmp_5_reg_3933_pp2_iter3_reg_reg[0]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/ib_0_i_i_mid2_reg_3860_pp2_iter3_reg_reg[1]' (FD) to 'inst/i_3_0/tmp_5_reg_3933_pp2_iter3_reg_reg[1]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/ib_0_i_i_mid2_reg_3860_pp2_iter3_reg_reg[2]' (FD) to 'inst/i_3_0/tmp_5_reg_3933_pp2_iter3_reg_reg[2]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/ib_0_i_i_mid2_reg_3860_pp2_iter3_reg_reg[3]' (FD) to 'inst/i_3_0/tmp_5_reg_3933_pp2_iter3_reg_reg[3]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/ib_0_i_i_mid2_reg_3860_pp2_iter3_reg_reg[4]' (FD) to 'inst/i_3_0/tmp_5_reg_3933_pp2_iter3_reg_reg[4]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/ib_0_i_i_mid2_reg_3860_pp2_iter3_reg_reg[5]' (FD) to 'inst/i_3_0/tmp_5_reg_3933_pp2_iter3_reg_reg[5]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/ib_0_i_i_mid2_reg_3860_pp2_iter4_reg_reg[0]' (FD) to 'inst/i_3_0/tmp_5_reg_3933_pp2_iter4_reg_reg[0]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/ib_0_i_i_mid2_reg_3860_pp2_iter4_reg_reg[1]' (FD) to 'inst/i_3_0/tmp_5_reg_3933_pp2_iter4_reg_reg[1]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/ib_0_i_i_mid2_reg_3860_pp2_iter4_reg_reg[2]' (FD) to 'inst/i_3_0/tmp_5_reg_3933_pp2_iter4_reg_reg[2]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/ib_0_i_i_mid2_reg_3860_pp2_iter4_reg_reg[3]' (FD) to 'inst/i_3_0/tmp_5_reg_3933_pp2_iter4_reg_reg[3]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/ib_0_i_i_mid2_reg_3860_pp2_iter4_reg_reg[4]' (FD) to 'inst/i_3_0/tmp_5_reg_3933_pp2_iter4_reg_reg[4]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/ib_0_i_i_mid2_reg_3860_pp2_iter4_reg_reg[5]' (FD) to 'inst/i_3_0/tmp_5_reg_3933_pp2_iter4_reg_reg[5]'
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hmul_16cud_U70/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hmul_16cud_U94/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U16/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hmul_16cud_U71/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U40/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hmul_16cud_U95/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U17/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hmul_16cud_U72/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U41/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hmul_16cud_U96/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hmul_16cud_U80/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U18/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hmul_16cud_U73/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U42/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hmul_16cud_U97/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U26/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hmul_16cud_U81/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U19/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hmul_16cud_U74/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U43/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hmul_16cud_U98/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U27/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hmul_16cud_U82/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U20/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hmul_16cud_U75/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U44/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hmul_16cud_U99/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U28/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hmul_16cud_U83/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hmul_16cud_U55/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U1/din1_buf1_reg[15] )
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U1/din1_buf1_reg[0] )
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U1/din1_buf1_reg[1] )
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U1/din1_buf1_reg[2] )
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U1/din1_buf1_reg[3] )
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U1/din1_buf1_reg[4] )
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U1/din1_buf1_reg[5] )
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U1/din1_buf1_reg[6] )
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U1/din1_buf1_reg[7] )
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U1/din1_buf1_reg[8] )
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U1/din1_buf1_reg[9] )
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U1/din1_buf1_reg[14] )
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U1/din1_buf1_reg[12] )
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U1/din1_buf1_reg[13] )
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U1/din1_buf1_reg[11] )
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U1/din1_buf1_reg[10] )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U21/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hmul_16cud_U76/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U45/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hmul_16cud_U100/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U29/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hmul_16cud_U84/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U1/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hmul_16cud_U56/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U22/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hmul_16cud_U77/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U46/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hmul_16cud_U101/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hmul_16cud_U106/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hmul_16cud_U105/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hmul_16cud_U104/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hmul_16cud_U103/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hmul_16cud_U102/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hmul_16cud_U86/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hmul_16cud_U79/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hmul_16cud_U78/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U30/ce_r_reg )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U2/ce_r_reg )
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/HLS_accel_hadd_16bkb_U1/HLS_accel_ap_hadd_3_full_dsp_16_u/U0/i_synth/ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.EXP/B_EXP_DELAY/i_pipe/opt_has_pipe.first_q_reg[3]' (FDE) to 'inst/i_3_0/HLS_accel_hadd_16bkb_U1/HLS_accel_ap_hadd_3_full_dsp_16_u/U0/i_synth/ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.EXP/B_EXP_DELAY/i_pipe/opt_has_pipe.first_q_reg[0]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/HLS_accel_hadd_16bkb_U1/HLS_accel_ap_hadd_3_full_dsp_16_u/U0/i_synth/ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.EXP/B_EXP_DELAY/i_pipe/opt_has_pipe.first_q_reg[4]' (FDE) to 'inst/i_3_0/HLS_accel_hadd_16bkb_U1/HLS_accel_ap_hadd_3_full_dsp_16_u/U0/i_synth/ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.EXP/B_EXP_DELAY/i_pipe/opt_has_pipe.first_q_reg[0]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/HLS_accel_hadd_16bkb_U1/HLS_accel_ap_hadd_3_full_dsp_16_u/U0/i_synth/ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.EXP/B_EXP_DELAY/i_pipe/opt_has_pipe.first_q_reg[2]' (FDE) to 'inst/i_3_0/HLS_accel_hadd_16bkb_U1/HLS_accel_ap_hadd_3_full_dsp_16_u/U0/i_synth/ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.EXP/B_EXP_DELAY/i_pipe/opt_has_pipe.first_q_reg[0]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/HLS_accel_hadd_16bkb_U1/HLS_accel_ap_hadd_3_full_dsp_16_u/U0/i_synth/ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.EXP/B_EXP_DELAY/i_pipe/opt_has_pipe.first_q_reg[1]' (FDE) to 'inst/i_3_0/HLS_accel_hadd_16bkb_U1/HLS_accel_ap_hadd_3_full_dsp_16_u/U0/i_synth/ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.EXP/B_EXP_DELAY/i_pipe/opt_has_pipe.first_q_reg[0]'
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U1/HLS_accel_ap_hadd_3_full_dsp_16_u/U0 /i_synth/\ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.EXP /B_EXP_DELAY/i_pipe/\opt_has_pipe.first_q_reg[0] )
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U1/HLS_accel_ap_hadd_3_full_dsp_16_u/U0 /i_synth/\ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.EXP /B_SIGN_DELAY/i_pipe/\opt_has_pipe.first_q_reg[0] )
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/HLS_accel_hadd_16bkb_U1/HLS_accel_ap_hadd_3_full_dsp_16_u/U0/i_synth/ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/B_IP_DELAY/i_pipe/opt_has_pipe.first_q_reg[0]' (FDE) to 'inst/i_3_0/HLS_accel_hadd_16bkb_U1/HLS_accel_ap_hadd_3_full_dsp_16_u/U0/i_synth/ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/B_IP_DELAY/i_pipe/opt_has_pipe.first_q_reg[1]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/HLS_accel_hadd_16bkb_U1/HLS_accel_ap_hadd_3_full_dsp_16_u/U0/i_synth/ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/B_IP_DELAY/i_pipe/opt_has_pipe.first_q_reg[1]' (FDE) to 'inst/i_3_0/HLS_accel_hadd_16bkb_U1/HLS_accel_ap_hadd_3_full_dsp_16_u/U0/i_synth/ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/B_IP_DELAY/i_pipe/opt_has_pipe.first_q_reg[2]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/HLS_accel_hadd_16bkb_U1/HLS_accel_ap_hadd_3_full_dsp_16_u/U0/i_synth/ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/B_IP_DELAY/i_pipe/opt_has_pipe.first_q_reg[2]' (FDE) to 'inst/i_3_0/HLS_accel_hadd_16bkb_U1/HLS_accel_ap_hadd_3_full_dsp_16_u/U0/i_synth/ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/B_IP_DELAY/i_pipe/opt_has_pipe.first_q_reg[3]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/HLS_accel_hadd_16bkb_U1/HLS_accel_ap_hadd_3_full_dsp_16_u/U0/i_synth/ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/B_IP_DELAY/i_pipe/opt_has_pipe.first_q_reg[3]' (FDE) to 'inst/i_3_0/HLS_accel_hadd_16bkb_U1/HLS_accel_ap_hadd_3_full_dsp_16_u/U0/i_synth/ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/B_IP_DELAY/i_pipe/opt_has_pipe.first_q_reg[4]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/HLS_accel_hadd_16bkb_U1/HLS_accel_ap_hadd_3_full_dsp_16_u/U0/i_synth/ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/B_IP_DELAY/i_pipe/opt_has_pipe.first_q_reg[4]' (FDE) to 'inst/i_3_0/HLS_accel_hadd_16bkb_U1/HLS_accel_ap_hadd_3_full_dsp_16_u/U0/i_synth/ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/B_IP_DELAY/i_pipe/opt_has_pipe.first_q_reg[5]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/HLS_accel_hadd_16bkb_U1/HLS_accel_ap_hadd_3_full_dsp_16_u/U0/i_synth/ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/B_IP_DELAY/i_pipe/opt_has_pipe.first_q_reg[5]' (FDE) to 'inst/i_3_0/HLS_accel_hadd_16bkb_U1/HLS_accel_ap_hadd_3_full_dsp_16_u/U0/i_synth/ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/B_IP_DELAY/i_pipe/opt_has_pipe.first_q_reg[6]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/HLS_accel_hadd_16bkb_U1/HLS_accel_ap_hadd_3_full_dsp_16_u/U0/i_synth/ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/B_IP_DELAY/i_pipe/opt_has_pipe.first_q_reg[6]' (FDE) to 'inst/i_3_0/HLS_accel_hadd_16bkb_U1/HLS_accel_ap_hadd_3_full_dsp_16_u/U0/i_synth/ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/B_IP_DELAY/i_pipe/opt_has_pipe.first_q_reg[7]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/HLS_accel_hadd_16bkb_U1/HLS_accel_ap_hadd_3_full_dsp_16_u/U0/i_synth/ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/B_IP_DELAY/i_pipe/opt_has_pipe.first_q_reg[7]' (FDE) to 'inst/i_3_0/HLS_accel_hadd_16bkb_U1/HLS_accel_ap_hadd_3_full_dsp_16_u/U0/i_synth/ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/B_IP_DELAY/i_pipe/opt_has_pipe.first_q_reg[8]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_0/HLS_accel_hadd_16bkb_U1/HLS_accel_ap_hadd_3_full_dsp_16_u/U0/i_synth/ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/B_IP_DELAY/i_pipe/opt_has_pipe.first_q_reg[8]' (FDE) to 'inst/i_3_0/HLS_accel_hadd_16bkb_U1/HLS_accel_ap_hadd_3_full_dsp_16_u/U0/i_synth/ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/B_IP_DELAY/i_pipe/opt_has_pipe.first_q_reg[9]'
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (inst/i_3_0/\HLS_accel_hadd_16bkb_U1/HLS_accel_ap_hadd_3_full_dsp_16_u/U0 /i_synth/\ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/B_IP_DELAY/i_pipe/opt_has_pipe.first_q_reg[9] )
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__1.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__1.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__2.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__2.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__3.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__3.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__4.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__4.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__5.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__5.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__6.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__6.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__7.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__7.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__8.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__8.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__9.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__9.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__10.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__10.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__11.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__11.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__12.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__12.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__13.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__13.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__14.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__14.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__15.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__15.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__16.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__16.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__17.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__17.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__18.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__18.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__19.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__19.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__20.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__20.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__21.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__21.
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_1/\HLS_accel_hmul_16cud_U108/ce_r_reg )
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__22.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__22.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__23.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__23.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__24.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__24.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__25.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__25.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__26.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__26.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__27.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__27.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__28.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__28.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__29.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__29.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__30.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__30.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__31.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__31.
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_2/\HLS_accel_hmul_16cud_U93/ce_r_reg )
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__32.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__32.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__33.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__33.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__34.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__34.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__35.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__35.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__36.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__36.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__37.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__37.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__38.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__38.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__39.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__39.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__40.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__40.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__41.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__41.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__42.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__42.
+INFO: [Synth 8-3886] merging instance 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[4]' (FDE) to 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[5]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[5]' (FDE) to 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[6]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[6]' (FDE) to 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[8]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[8]' (FDE) to 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[9]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[9]' (FDE) to 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[10]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[10]' (FDE) to 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[11]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[11]' (FDE) to 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[12]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[12]' (FDE) to 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[13]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[13]' (FDE) to 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[14]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[14]' (FDE) to 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[15]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[15]' (FDE) to 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[16]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[16]' (FDE) to 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[17]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[17]' (FDE) to 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[18]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[18]' (FDE) to 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[19]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[19]' (FDE) to 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[20]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[20]' (FDE) to 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[21]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[21]' (FDE) to 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[22]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[22]' (FDE) to 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[23]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[23]' (FDE) to 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[24]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[24]' (FDE) to 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[25]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[25]' (FDE) to 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[26]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[26]' (FDE) to 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[27]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[27]' (FDE) to 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[28]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[28]' (FDE) to 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[29]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[29]' (FDE) to 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[30]'
+INFO: [Synth 8-3886] merging instance 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[30]' (FDE) to 'inst/i_3_3/HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[31]'
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (inst/i_3_3/\HLS_accel_CONTROL_BUS_s_axi_U/rdata_reg[31] )
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (inst/i_3_3/\HLS_accel_hmul_16cud_U90/ce_r_reg )
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__43.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__43.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__44.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__44.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__45.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__45.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__46.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__46.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__47.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__47.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__48.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__48.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__49.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__49.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[1]) is unused and will be removed from module floating_point_v7_1_7_viv__50.
+INFO: [Synth 8-3332] Sequential element (ADDSUB_OP.ADDSUB/SPEED_OP.DSP.OP/DSP48E1_BODY_HP.NORM_RND/FULL_USAGE_DSP.LOD/dist_norm_reg[0]) is unused and will be removed from module floating_point_v7_1_7_viv__50.
+INFO: [Common 17-14] Message 'Synth 8-3332' appears 100 times and further instances of the messages will be disabled. Use the Tcl command set_msg_config to change the current settings.
+---------------------------------------------------------------------------------
+Finished Cross Boundary and Area Optimization : Time (s): cpu = 00:01:56 ; elapsed = 00:02:19 . Memory (MB): peak = 1333.629 ; gain = 961.902
+---------------------------------------------------------------------------------
+INFO: [Synth 8-6837] The timing for the instance inst/i_3_0/i_3_2/out_U/HLS_accel_out_ram_U/ram_reg_0 (implemented as a Block RAM) might be sub-optimal as no optional output register could be merged into the block ram. Providing additional output register may help in improving timing.
+INFO: [Synth 8-6837] The timing for the instance inst/i_3_0/i_3_2/out_U/HLS_accel_out_ram_U/ram_reg_1 (implemented as a Block RAM) might be sub-optimal as no optional output register could be merged into the block ram. Providing additional output register may help in improving timing.
+
+Report RTL Partitions: 
++------+---------------+------------+----------+
+|      |RTL Partition  |Replication |Instances |
++------+---------------+------------+----------+
+|1     |HLS_accel__GB0 |           1|     34449|
+|2     |HLS_accel__GB1 |           1|      8384|
+|3     |HLS_accel__GB2 |           1|     10286|
+|4     |HLS_accel__GB3 |           1|     13614|
++------+---------------+------------+----------+
+---------------------------------------------------------------------------------
+Start Applying XDC Timing Constraints
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Applying XDC Timing Constraints : Time (s): cpu = 00:02:08 ; elapsed = 00:02:33 . Memory (MB): peak = 1333.629 ; gain = 961.902
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Timing Optimization
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Timing Optimization : Time (s): cpu = 00:02:17 ; elapsed = 00:02:42 . Memory (MB): peak = 1333.629 ; gain = 961.902
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++------+---------------+------------+----------+
+|      |RTL Partition  |Replication |Instances |
++------+---------------+------------+----------+
+|1     |HLS_accel__GB0 |           1|     34449|
+|2     |HLS_accel__GB1 |           1|      8384|
+|3     |HLS_accel__GB2 |           1|     10286|
+|4     |HLS_accel__GB3 |           1|     13614|
++------+---------------+------------+----------+
+---------------------------------------------------------------------------------
+Start Technology Mapping
+---------------------------------------------------------------------------------
+INFO: [Synth 8-6837] The timing for the instance inst/out_U/HLS_accel_out_ram_U/ram_reg_0 (implemented as a Block RAM) might be sub-optimal as no optional output register could be merged into the block ram. Providing additional output register may help in improving timing.
+INFO: [Synth 8-6837] The timing for the instance inst/out_U/HLS_accel_out_ram_U/ram_reg_1 (implemented as a Block RAM) might be sub-optimal as no optional output register could be merged into the block ram. Providing additional output register may help in improving timing.
+---------------------------------------------------------------------------------
+Finished Technology Mapping : Time (s): cpu = 00:02:44 ; elapsed = 00:03:14 . Memory (MB): peak = 1333.629 ; gain = 961.902
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished IO Insertion : Time (s): cpu = 00:02:50 ; elapsed = 00:03:21 . Memory (MB): peak = 1333.629 ; gain = 961.902
+---------------------------------------------------------------------------------
+
+Report Check Netlist: 
++------+------------------+-------+---------+-------+------------------+
+|      |Item              |Errors |Warnings |Status |Description       |
++------+------------------+-------+---------+-------+------------------+
+|1     |multi_driven_nets |      0|        0|Passed |Multi driven nets |
++------+------------------+-------+---------+-------+------------------+
+---------------------------------------------------------------------------------
+Start Renaming Generated Instances
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Instances : Time (s): cpu = 00:02:51 ; elapsed = 00:03:21 . Memory (MB): peak = 1333.629 ; gain = 961.902
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start Rebuilding User Hierarchy
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Rebuilding User Hierarchy : Time (s): cpu = 00:02:56 ; elapsed = 00:03:27 . Memory (MB): peak = 1333.629 ; gain = 961.902
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Ports
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Ports : Time (s): cpu = 00:02:56 ; elapsed = 00:03:27 . Memory (MB): peak = 1333.629 ; gain = 961.902
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:02:57 ; elapsed = 00:03:28 . Memory (MB): peak = 1333.629 ; gain = 961.902
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Nets
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Nets : Time (s): cpu = 00:02:57 ; elapsed = 00:03:28 . Memory (MB): peak = 1333.629 ; gain = 961.902
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Writing Synthesis Report
+---------------------------------------------------------------------------------
+
+Report BlackBoxes: 
++-+--------------+----------+
+| |BlackBox name |Instances |
++-+--------------+----------+
++-+--------------+----------+
+
+Report Cell Usage: 
++------+----------+------+
+|      |Cell      |Count |
++------+----------+------+
+|1     |CARRY4    |    12|
+|2     |DSP48E1   |    54|
+|3     |DSP48E1_1 |    54|
+|4     |DSP48E1_2 |    54|
+|5     |DSP48E1_3 |    54|
+|6     |DSP48E1_4 |     1|
+|7     |DSP48E1_5 |     1|
+|8     |LUT1      |   229|
+|9     |LUT2      |  1838|
+|10    |LUT3      |  2311|
+|11    |LUT4      |  1712|
+|12    |LUT5      |  4042|
+|13    |LUT6      |  2644|
+|14    |LUT6_2    |   378|
+|15    |MUXCY     |  2700|
+|16    |RAM16X1S  |  3456|
+|17    |RAM32X1S  |  1728|
+|18    |RAMB36E1  |     2|
+|19    |SRL16E    |   745|
+|20    |SRLC32E   |   108|
+|21    |XORCY     |  1242|
+|22    |FDE       |   162|
+|23    |FDRE      | 19203|
+|24    |FDSE      |     1|
++------+----------+------+
+---------------------------------------------------------------------------------
+Finished Writing Synthesis Report : Time (s): cpu = 00:02:57 ; elapsed = 00:03:28 . Memory (MB): peak = 1333.629 ; gain = 961.902
+---------------------------------------------------------------------------------
+Synthesis finished with 0 errors, 0 critical warnings and 19 warnings.
+Synthesis Optimization Runtime : Time (s): cpu = 00:01:51 ; elapsed = 00:02:47 . Memory (MB): peak = 1333.629 ; gain = 293.957
+Synthesis Optimization Complete : Time (s): cpu = 00:02:57 ; elapsed = 00:03:28 . Memory (MB): peak = 1333.629 ; gain = 961.902
+INFO: [Project 1-571] Translating synthesized netlist
+INFO: [Netlist 29-17] Analyzing 9898 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 2 CPU seconds
+INFO: [Project 1-570] Preparing netlist for logic optimization
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.063 . Memory (MB): peak = 1402.664 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+  A total of 6696 instances were transformed.
+  (MUXCY,XORCY) => CARRY4: 972 instances
+  FDE => FDRE: 162 instances
+  LUT6_2 => LUT6_2 (LUT5, LUT6): 378 instances
+  RAM16X1S => RAM32X1S (RAMS32): 3456 instances
+  RAM32X1S => RAM32X1S (RAMS32): 1728 instances
+
+INFO: [Common 17-83] Releasing license: Synthesis
+519 Infos, 113 Warnings, 0 Critical Warnings and 0 Errors encountered.
+synth_design completed successfully
+synth_design: Time (s): cpu = 00:03:12 ; elapsed = 00:03:43 . Memory (MB): peak = 1402.664 ; gain = 1042.414
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.062 . Memory (MB): peak = 1402.664 ; gain = 0.000
+WARNING: [Constraints 18-5210] No constraints selected for write.
+Resolution: This message can indicate that there are no constraints for the design, or it can indicate that the used_in flags are set such that the constraints are ignored. This later case is used when running synth_design to not write synthesis constraints to the resulting checkpoint. Instead, project constraints are read when the synthesized design is opened.
+INFO: [Common 17-1381] The checkpoint 'C:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.runs/design_1_HLS_accel_1_0_synth_1/design_1_HLS_accel_1_0.dcp' has been generated.
+write_checkpoint: Time (s): cpu = 00:00:10 ; elapsed = 00:00:08 . Memory (MB): peak = 1402.664 ; gain = 0.000
+write_vhdl: Time (s): cpu = 00:00:05 ; elapsed = 00:00:05 . Memory (MB): peak = 1402.664 ; gain = 0.000
+INFO: [Coretcl 2-1648] Added synthesis output to IP cache for IP design_1_HLS_accel_1_0, cache-ID = 677ada9829cc9a53
+INFO: [Coretcl 2-1174] Renamed 5618 cell refs.
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.076 . Memory (MB): peak = 1402.664 ; gain = 0.000
+WARNING: [Constraints 18-5210] No constraints selected for write.
+Resolution: This message can indicate that there are no constraints for the design, or it can indicate that the used_in flags are set such that the constraints are ignored. This later case is used when running synth_design to not write synthesis constraints to the resulting checkpoint. Instead, project constraints are read when the synthesized design is opened.
+INFO: [Common 17-1381] The checkpoint 'C:/Temp/code_de_depart_partie2/projet_sol2_2/projet_sol2_2.runs/design_1_HLS_accel_1_0_synth_1/design_1_HLS_accel_1_0.dcp' has been generated.
+write_checkpoint: Time (s): cpu = 00:00:11 ; elapsed = 00:00:08 . Memory (MB): peak = 1402.664 ; gain = 0.000
+INFO: [runtcl-4] Executing : report_utilization -file design_1_HLS_accel_1_0_utilization_synth.rpt -pb design_1_HLS_accel_1_0_utilization_synth.pb
+write_vhdl: Time (s): cpu = 00:00:05 ; elapsed = 00:00:05 . Memory (MB): peak = 1402.664 ; gain = 0.000
+INFO: [Common 17-206] Exiting Vivado at Sun Dec  1 19:05:13 2024...

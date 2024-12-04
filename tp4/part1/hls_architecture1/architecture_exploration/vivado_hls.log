@@ -1,0 +1,115 @@
+
+****** Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2018.3 (64-bit)
+  **** SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+  **** IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+    ** Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+
+source C:/Logiciels/Xilinx/Vivado/2018.3/scripts/vivado_hls/hls.tcl -notrace
+INFO: [HLS 200-10] Running 'C:/Logiciels/Xilinx/Vivado/2018.3/bin/unwrapped/win64.o/vivado_hls.exe'
+INFO: [HLS 200-10] For user 'ombenv' on host 'l4708-11' (Windows NT_amd64 version 6.2) on Tue Dec 03 19:40:48 -0500 2024
+INFO: [HLS 200-10] In directory 'C:/Users/ombenv/Desktop/INF3610/tp4/part1/hls_architecture1/architecture_exploration'
+INFO: [HLS 200-10] Creating and opening project 'C:/Users/ombenv/Desktop/INF3610/tp4/part1/hls_architecture1/architecture_exploration/hls_mmult_prj'.
+INFO: [HLS 200-10] Adding design file 'mmult_accel.cpp' to the project
+INFO: [HLS 200-10] Adding test bench file 'mmult_test.cpp' to the project
+INFO: [HLS 200-10] Creating and opening solution 'C:/Users/ombenv/Desktop/INF3610/tp4/part1/hls_architecture1/architecture_exploration/hls_mmult_prj/solution1_1'.
+INFO: [HLS 200-10] Setting target device to 'xc7z020clg484-1'
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+   Compiling ../../../../mmult_test.cpp in debug mode
+   Compiling ../../../../mmult_accel.cpp in debug mode
+   Generating csim.exe
+In file included from C:/Logiciels/Xilinx/Vivado/2018.3/include/floating_point_v7_0_bitacc_cmodel.h:143:0,
+                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/hls_fpo.h:186,
+                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/hls_half.h:44,
+                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/etc/ap_private.h:90,
+                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/ap_common.h:641,
+                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/ap_int.h:54,
+                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/ap_axi_sdata.h:86,
+                 from ../../../../mmult.h:3,
+                 from ../../../../mmult_test.cpp:4:
+C:/Logiciels/Xilinx/Vivado/2018.3/include/gmp.h:62:0: warning: "__GMP_LIBGMP_DLL" redefined
+ #define __GMP_LIBGMP_DLL  0
+ 
+In file included from C:/Logiciels/Xilinx/Vivado/2018.3/include/hls_fpo.h:186:0,
+                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/hls_half.h:44,
+                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/etc/ap_private.h:90,
+                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/ap_common.h:641,
+                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/ap_int.h:54,
+                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/ap_axi_sdata.h:86,
+                 from ../../../../mmult.h:3,
+                 from ../../../../mmult_test.cpp:4:
+C:/Logiciels/Xilinx/Vivado/2018.3/include/floating_point_v7_0_bitacc_cmodel.h:135:0: note: this is the location of the previous definition
+ #define __GMP_LIBGMP_DLL 1
+ 
+In file included from C:/Logiciels/Xilinx/Vivado/2018.3/include/floating_point_v7_0_bitacc_cmodel.h:143:0,
+                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/hls_fpo.h:186,
+                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/hls_half.h:44,
+                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/etc/ap_private.h:90,
+                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/ap_common.h:641,
+                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/ap_int.h:54,
+                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/ap_axi_sdata.h:86,
+                 from ../../../../mmult.h:3,
+                 from ../../../../mmult_accel.cpp:4:
+C:/Logiciels/Xilinx/Vivado/2018.3/include/gmp.h:62:0: warning: "__GMP_LIBGMP_DLL" redefined
+ #define __GMP_LIBGMP_DLL  0
+ 
+In file included from C:/Logiciels/Xilinx/Vivado/2018.3/include/hls_fpo.h:186:0,
+                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/hls_half.h:44,
+                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/etc/ap_private.h:90,
+                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/ap_common.h:641,
+                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/ap_int.h:54,
+                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/ap_axi_sdata.h:86,
+                 from ../../../../mmult.h:3,
+                 from ../../../../mmult_accel.cpp:4:
+C:/Logiciels/Xilinx/Vivado/2018.3/include/floating_point_v7_0_bitacc_cmodel.h:135:0: note: this is the location of the previous definition
+ #define __GMP_LIBGMP_DLL 1
+ 
+NORMAL MODE
+Matrixes identical ... Test successful!
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file 'mmult_accel.cpp' ... 
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:01 ; elapsed = 00:00:18 . Memory (MB): peak = 102.855 ; gain = 20.555
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:01 ; elapsed = 00:00:18 . Memory (MB): peak = 102.855 ; gain = 20.555
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:01 ; elapsed = 00:00:18 . Memory (MB): peak = 104.133 ; gain = 21.832
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:01 ; elapsed = 00:00:18 . Memory (MB): peak = 104.391 ; gain = 22.090
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:01 ; elapsed = 00:00:18 . Memory (MB): peak = 126.320 ; gain = 44.020
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:01 ; elapsed = 00:00:19 . Memory (MB): peak = 126.320 ; gain = 44.020
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'mmult_hw' ...
+WARNING: [SYN 201-107] Renaming port name 'mmult_hw/out' to 'mmult_hw/out_r' to avoid the conflict with HDL keywords or other object names.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'mmult_hw' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111]  Elapsed time: 18.63 seconds; current allocated memory: 77.120 MB.
+INFO: [HLS 200-434] Only 0 loops out of a total 3 loops have been pipelined in this design.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111]  Elapsed time: 0.087 seconds; current allocated memory: 77.423 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'mmult_hw' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/out_r' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'mmult_hw' to 'ap_ctrl_hs'.
+INFO: [SYN 201-210] Renamed object name 'mmult_hw_fadd_32ns_32ns_32_5_full_dsp_1' to 'mmult_hw_fadd_32nbkb' due to the length limit 20
+INFO: [SYN 201-210] Renamed object name 'mmult_hw_fmul_32ns_32ns_32_4_max_dsp_1' to 'mmult_hw_fmul_32ncud' due to the length limit 20
+INFO: [RTGEN 206-100] Generating core module 'mmult_hw_fadd_32nbkb': 1 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'mmult_hw_fmul_32ncud': 1 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'mmult_hw'.
+INFO: [HLS 200-111]  Elapsed time: 0.167 seconds; current allocated memory: 77.875 MB.
+INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:01 ; elapsed = 00:00:21 . Memory (MB): peak = 126.320 ; gain = 44.020
+INFO: [SYSC 207-301] Generating SystemC RTL for mmult_hw.
+INFO: [VHDL 208-304] Generating VHDL RTL for mmult_hw.
+INFO: [VLOG 209-307] Generating Verilog RTL for mmult_hw.
+[2Kvivado_hls> [12C

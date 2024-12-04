@@ -1,0 +1,5 @@
+INFO-FLOW: Workspace C:/Users/ombenv/Desktop/INF3610/tp4/part1/hls_architecture1/architecture_exploration/hls_mmult_prj/solution1_1 opened at Tue Dec 03 19:40:48 -0500 2024
+Execute     set_part xc7z020clg484-1 
+Execute       add_library xilinx/zynq/zynq:xc7z020:clg484:-1 
+Execute         get_default_platform 
+Execute         license_isbetapart xc7z020 
