@@ -42,7 +42,7 @@ set SCTraceOption all
 set TargetInfo xc7z020:clg484:-1
 set SourceFiles {sc {} c ../../mmult_accel.cpp}
 set SourceFlags {sc {} c -DDB_DEBUG}
-set DirectiveFile C:/Temp/code_de_depart_partie2/architecture_impl_sol2_2/hls_wrapped_mmult_prj/solution2_2/solution2_2.directive
+set DirectiveFile C:/part2/architecture_impl_sol2_2/hls_wrapped_mmult_prj/solution2_2/solution2_2.directive
 set TBFiles {verilog ../../mmult_test.cpp bc ../../mmult_test.cpp vhdl ../../mmult_test.cpp sc ../../mmult_test.cpp cas ../../mmult_test.cpp c {}}
 set SpecLanguage C
 set TVInFiles {bc {} c {} sc {} cas {} vhdl {} verilog {}}

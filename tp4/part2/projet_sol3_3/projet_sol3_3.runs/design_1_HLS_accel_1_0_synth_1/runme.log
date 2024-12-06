@@ -1,0 +1,17 @@
+
+*** Running vivado
+    with args -log design_1_HLS_accel_1_0.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_HLS_accel_1_0.tcl
+
+
+****** Vivado v2018.3 (64-bit)
+  **** SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+  **** IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+    ** Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+
+source design_1_HLS_accel_1_0.tcl -notrace
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Temp/code_de_depart_partie2/architecture_impl_sol3_3/hls_wrapped_mmult_prj/solution3_3/impl/ip'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.3/data/ip'.
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP design_1_HLS_accel_1_0, cache-ID = 48310665006f8fc1.
+config_ip_cache: Time (s): cpu = 00:00:04 ; elapsed = 00:00:07 . Memory (MB): peak = 434.297 ; gain = 72.148
+INFO: [Common 17-206] Exiting Vivado at Tue Dec  3 19:13:11 2024...

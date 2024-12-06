@@ -41,14 +41,14 @@ set SCTraceFileFormat vcd
 set SCTraceOption all
 set TargetInfo xc7z020:clg484:-1
 set SourceFiles {sc {} c ../../mmult_accel.cpp}
-set SourceFlags {sc {} c {{ }}}
-set DirectiveFile C:/Users/ombenv/Desktop/INF3610/tp4/part1/hls_architecture1/architecture_exploration/hls_mmult_prj/solution1_1/solution1_1.directive
-set TBFiles {verilog ../../mmult_test.cpp bc ../../mmult_test.cpp sc ../../mmult_test.cpp vhdl ../../mmult_test.cpp c {} cas ../../mmult_test.cpp}
+set SourceFlags {sc {} c {{}}}
+set DirectiveFile C:/Users/lexoi/OneDrive/Bureau/Automne2024/INF3610/lab2/code_de_depart/hls_architecture1/architecture_exploration/hls_mmult_prj/solution1_1/solution1_1.directive
+set TBFiles {verilog ../../mmult_test.cpp bc ../../mmult_test.cpp vhdl ../../mmult_test.cpp sc ../../mmult_test.cpp cas ../../mmult_test.cpp c {}}
 set SpecLanguage C
 set TVInFiles {bc {} c {} sc {} cas {} vhdl {} verilog {}}
 set TVOutFiles {bc {} c {} sc {} cas {} vhdl {} verilog {}}
-set TBTops {verilog {} bc {} sc {} vhdl {} c {} cas {}}
-set TBInstNames {verilog {} bc {} sc {} vhdl {} c {} cas {}}
+set TBTops {verilog {} bc {} vhdl {} sc {} cas {} c {}}
+set TBInstNames {verilog {} bc {} vhdl {} sc {} cas {} c {}}
 set XDCFiles {}
 set ExtraGlobalOptions {"area_timing" 1 "clock_gate" 1 "impl_flow" map "power_gate" 0}
 set TBTVFileNotFound {}

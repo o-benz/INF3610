@@ -1,0 +1,136 @@
+INFO: [HLS 200-10] Running 'C:/Xilinx/Vivado/2018.3/bin/unwrapped/win64.o/vivado_hls.exe'
+INFO: [HLS 200-10] For user 'lexoi' on host 'yacine' (Windows NT_amd64 version 6.2) on Wed Dec 04 04:53:22 -0500 2024
+INFO: [HLS 200-10] In directory 'C:/Users/lexoi/OneDrive/Bureau/Automne2024/INF3610/lab2/code_de_depart/hls_architecture3/architecture_exploration'
+INFO: [HLS 200-10] Opening project 'C:/Users/lexoi/OneDrive/Bureau/Automne2024/INF3610/lab2/code_de_depart/hls_architecture3/architecture_exploration/hls_mmult_prj'.
+INFO: [HLS 200-10] Adding design file 'mmult_accel.cpp' to the project
+INFO: [HLS 200-10] Adding test bench file 'mmult_test.cpp' to the project
+INFO: [HLS 200-10] Opening solution 'C:/Users/lexoi/OneDrive/Bureau/Automne2024/INF3610/lab2/code_de_depart/hls_architecture3/architecture_exploration/hls_mmult_prj/solution3_3'.
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020clg484-1'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file 'mmult_accel.cpp' ... 
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:00 ; elapsed = 00:00:11 . Memory (MB): peak = 103.320 ; gain = 19.051
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:00 ; elapsed = 00:00:11 . Memory (MB): peak = 103.320 ; gain = 19.051
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:00 ; elapsed = 00:00:11 . Memory (MB): peak = 104.465 ; gain = 20.195
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:00 ; elapsed = 00:00:12 . Memory (MB): peak = 104.723 ; gain = 20.453
+INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'L2' (mmult_accel.cpp:16) in function 'mmult_hw' for pipelining.
+INFO: [HLS 200-489] Unrolling loop 'L3' (mmult_accel.cpp:18) in function 'mmult_hw' completely with a factor of 140.
+INFO: [XFORM 203-101] Partitioning array 'a' (mmult_accel.cpp:10) in dimension 2 with a block factor 35.
+INFO: [XFORM 203-101] Partitioning array 'b' (mmult_accel.cpp:10) in dimension 1 with a block factor 35.
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:08 ; elapsed = 00:00:19 . Memory (MB): peak = 130.781 ; gain = 46.512
+INFO: [XFORM 203-541] Flattening a loop nest 'L1' (mmult_accel.cpp:15:3) in function 'mmult_hw'.
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:13 ; elapsed = 00:00:25 . Memory (MB): peak = 131.715 ; gain = 47.445
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'mmult_hw' ...
+WARNING: [SYN 201-107] Renaming port name 'mmult_hw/out' to 'mmult_hw/out_r' to avoid the conflict with HDL keywords or other object names.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'mmult_hw' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'L1_L2'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 2, Final II = 2, Depth = 568.
+WARNING: [SCHED 204-21] Estimated clock period (9.634ns) exceeds the target (target clock period: 10ns, clock uncertainty: 1.25ns, effective delay budget: 8.75ns).
+WARNING: [SCHED 204-21] The critical path in module 'mmult_hw' consists of the following:
+	'mul' operation of DSP[462] ('tmp_289', mmult_accel.cpp:22) [308]  (3.36 ns)
+	'add' operation of DSP[462] ('tmp_293', mmult_accel.cpp:22) [462]  (3.02 ns)
+	'getelementptr' operation ('out_addr', mmult_accel.cpp:22) [464]  (0 ns)
+	'store' operation (mmult_accel.cpp:22) of variable 'sum_1_138', mmult_accel.cpp:20 on array 'out_r' [1865]  (3.25 ns)
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111]  Elapsed time: 26.157 seconds; current allocated memory: 92.784 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111]  Elapsed time: 2.212 seconds; current allocated memory: 103.003 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'mmult_hw' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_0' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_1' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_2' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_3' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_4' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_5' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_6' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_7' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_8' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_9' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_10' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_11' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_12' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_13' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_14' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_15' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_16' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_17' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_18' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_19' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_20' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_21' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_22' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_23' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_24' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_25' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_26' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_27' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_28' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_29' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_30' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_31' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_32' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_33' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_34' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_0' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_1' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_2' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_3' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_4' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_5' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_6' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_7' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_8' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_9' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_10' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_11' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_12' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_13' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_14' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_15' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_16' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_17' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_18' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_19' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_20' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_21' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_22' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_23' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_24' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_25' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_26' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_27' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_28' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_29' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_30' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_31' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_32' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_33' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_34' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/out_r' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'mmult_hw' to 'ap_ctrl_hs'.
+INFO: [SYN 201-210] Renamed object name 'mmult_hw_hadd_16ns_16ns_16_4_no_dsp_1' to 'mmult_hw_hadd_16nbkb' due to the length limit 20
+INFO: [SYN 201-210] Renamed object name 'mmult_hw_hmul_16ns_16ns_16_4_no_dsp_1' to 'mmult_hw_hmul_16ncud' due to the length limit 20
+INFO: [SYN 201-210] Renamed object name 'mmult_hw_mac_muladd_8ns_9ns_8ns_16_1_1' to 'mmult_hw_mac_muladEe' due to the length limit 20
+INFO: [RTGEN 206-104] Estimated max fanout for 'mmult_hw' is 162188 from HDL expression: ((1'b0 == ap_block_pp0_stage0_11001) & (1'b1 == ap_CS_fsm_pp0_stage0))
+INFO: [RTGEN 206-100] Generating core module 'mmult_hw_hadd_16nbkb': 70 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'mmult_hw_hmul_16ncud': 70 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'mmult_hw_mac_muladEe': 1 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'mmult_hw'.
+INFO: [HLS 200-111]  Elapsed time: 24.247 seconds; current allocated memory: 139.649 MB.
+INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:53 ; elapsed = 00:01:22 . Memory (MB): peak = 244.688 ; gain = 160.418
+INFO: [SYSC 207-301] Generating SystemC RTL for mmult_hw.
+INFO: [VHDL 208-304] Generating VHDL RTL for mmult_hw.
+INFO: [VLOG 209-307] Generating Verilog RTL for mmult_hw.
+INFO: [HLS 200-112] Total elapsed time: 82.477 seconds; peak allocated memory: 139.649 MB.

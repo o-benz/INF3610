@@ -10,7 +10,8 @@ add_files -tb mmult_test.cpp -cflags "-DDB_DEBUG -Wno-unknown-pragmas"
 open_solution "solution4_2"
 set_part {xc7z020clg484-1}
 create_clock -period 10 -name default
-#source "./hls_wrapped_mmult_prj/solution4_2/directives.tcl"
+config_export -format ip_catalog
+source "./hls_wrapped_mmult_prj/solution4_2/directives.tcl"
 csim_design
 csynth_design
 cosim_design

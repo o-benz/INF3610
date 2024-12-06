@@ -1,84 +1,28 @@
-
-****** Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2018.3 (64-bit)
-  **** SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
-  **** IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
-    ** Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
-
-source C:/Logiciels/Xilinx/Vivado/2018.3/scripts/vivado_hls/hls.tcl -notrace
-INFO: [HLS 200-10] Running 'C:/Logiciels/Xilinx/Vivado/2018.3/bin/unwrapped/win64.o/vivado_hls.exe'
-INFO: [HLS 200-10] For user 'ombenv' on host 'l4708-11' (Windows NT_amd64 version 6.2) on Tue Dec 03 19:40:48 -0500 2024
-INFO: [HLS 200-10] In directory 'C:/Users/ombenv/Desktop/INF3610/tp4/part1/hls_architecture1/architecture_exploration'
-INFO: [HLS 200-10] Creating and opening project 'C:/Users/ombenv/Desktop/INF3610/tp4/part1/hls_architecture1/architecture_exploration/hls_mmult_prj'.
+INFO: [HLS 200-10] Running 'C:/Xilinx/Vivado/2018.3/bin/unwrapped/win64.o/vivado_hls.exe'
+INFO: [HLS 200-10] For user 'lexoi' on host 'yacine' (Windows NT_amd64 version 6.2) on Mon Dec 02 02:09:32 -0500 2024
+INFO: [HLS 200-10] In directory 'C:/Users/lexoi/OneDrive/Bureau/Automne2024/INF3610/lab2/code_de_depart/hls_architecture1/architecture_exploration'
+INFO: [HLS 200-10] Opening project 'C:/Users/lexoi/OneDrive/Bureau/Automne2024/INF3610/lab2/code_de_depart/hls_architecture1/architecture_exploration/hls_mmult_prj'.
 INFO: [HLS 200-10] Adding design file 'mmult_accel.cpp' to the project
 INFO: [HLS 200-10] Adding test bench file 'mmult_test.cpp' to the project
-INFO: [HLS 200-10] Creating and opening solution 'C:/Users/ombenv/Desktop/INF3610/tp4/part1/hls_architecture1/architecture_exploration/hls_mmult_prj/solution1_1'.
-INFO: [HLS 200-10] Setting target device to 'xc7z020clg484-1'
+INFO: [HLS 200-10] Opening solution 'C:/Users/lexoi/OneDrive/Bureau/Automne2024/INF3610/lab2/code_de_depart/hls_architecture1/architecture_exploration/hls_mmult_prj/solution1_4'.
 INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
-INFO: [SIM 211-2] *************** CSIM start ***************
-INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
-   Compiling ../../../../mmult_test.cpp in debug mode
-   Compiling ../../../../mmult_accel.cpp in debug mode
-   Generating csim.exe
-In file included from C:/Logiciels/Xilinx/Vivado/2018.3/include/floating_point_v7_0_bitacc_cmodel.h:143:0,
-                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/hls_fpo.h:186,
-                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/hls_half.h:44,
-                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/etc/ap_private.h:90,
-                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/ap_common.h:641,
-                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/ap_int.h:54,
-                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/ap_axi_sdata.h:86,
-                 from ../../../../mmult.h:3,
-                 from ../../../../mmult_test.cpp:4:
-C:/Logiciels/Xilinx/Vivado/2018.3/include/gmp.h:62:0: warning: "__GMP_LIBGMP_DLL" redefined
- #define __GMP_LIBGMP_DLL  0
- 
-In file included from C:/Logiciels/Xilinx/Vivado/2018.3/include/hls_fpo.h:186:0,
-                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/hls_half.h:44,
-                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/etc/ap_private.h:90,
-                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/ap_common.h:641,
-                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/ap_int.h:54,
-                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/ap_axi_sdata.h:86,
-                 from ../../../../mmult.h:3,
-                 from ../../../../mmult_test.cpp:4:
-C:/Logiciels/Xilinx/Vivado/2018.3/include/floating_point_v7_0_bitacc_cmodel.h:135:0: note: this is the location of the previous definition
- #define __GMP_LIBGMP_DLL 1
- 
-In file included from C:/Logiciels/Xilinx/Vivado/2018.3/include/floating_point_v7_0_bitacc_cmodel.h:143:0,
-                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/hls_fpo.h:186,
-                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/hls_half.h:44,
-                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/etc/ap_private.h:90,
-                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/ap_common.h:641,
-                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/ap_int.h:54,
-                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/ap_axi_sdata.h:86,
-                 from ../../../../mmult.h:3,
-                 from ../../../../mmult_accel.cpp:4:
-C:/Logiciels/Xilinx/Vivado/2018.3/include/gmp.h:62:0: warning: "__GMP_LIBGMP_DLL" redefined
- #define __GMP_LIBGMP_DLL  0
- 
-In file included from C:/Logiciels/Xilinx/Vivado/2018.3/include/hls_fpo.h:186:0,
-                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/hls_half.h:44,
-                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/etc/ap_private.h:90,
-                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/ap_common.h:641,
-                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/ap_int.h:54,
-                 from C:/Logiciels/Xilinx/Vivado/2018.3/include/ap_axi_sdata.h:86,
-                 from ../../../../mmult.h:3,
-                 from ../../../../mmult_accel.cpp:4:
-C:/Logiciels/Xilinx/Vivado/2018.3/include/floating_point_v7_0_bitacc_cmodel.h:135:0: note: this is the location of the previous definition
- #define __GMP_LIBGMP_DLL 1
- 
-NORMAL MODE
-Matrixes identical ... Test successful!
-INFO: [SIM 211-1] CSim done with 0 errors.
-INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-10] Setting target device to 'xc7z020clg484-1'
 INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
 INFO: [HLS 200-10] Analyzing design file 'mmult_accel.cpp' ... 
-INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:01 ; elapsed = 00:00:18 . Memory (MB): peak = 102.855 ; gain = 20.555
-INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:01 ; elapsed = 00:00:18 . Memory (MB): peak = 102.855 ; gain = 20.555
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:01 ; elapsed = 00:00:11 . Memory (MB): peak = 103.094 ; gain = 18.566
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:01 ; elapsed = 00:00:11 . Memory (MB): peak = 103.094 ; gain = 18.566
 INFO: [HLS 200-10] Starting code transformations ...
-INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:01 ; elapsed = 00:00:18 . Memory (MB): peak = 104.133 ; gain = 21.832
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:01 ; elapsed = 00:00:12 . Memory (MB): peak = 104.398 ; gain = 19.871
 INFO: [HLS 200-10] Checking synthesizability ...
-INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:01 ; elapsed = 00:00:18 . Memory (MB): peak = 104.391 ; gain = 22.090
-INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:01 ; elapsed = 00:00:18 . Memory (MB): peak = 126.320 ; gain = 44.020
-INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:01 ; elapsed = 00:00:19 . Memory (MB): peak = 126.320 ; gain = 44.020
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:01 ; elapsed = 00:00:12 . Memory (MB): peak = 104.652 ; gain = 20.125
+INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'L1' (mmult_accel.cpp:15) in function 'mmult_hw' for pipelining.
+INFO: [HLS 200-489] Unrolling loop 'L2' (mmult_accel.cpp:16) in function 'mmult_hw' completely with a factor of 21.
+INFO: [HLS 200-489] Unrolling loop 'L3' (mmult_accel.cpp:19) in function 'mmult_hw' completely with a factor of 21.
+INFO: [XFORM 203-101] Partitioning array 'a' (mmult_accel.cpp:10) in dimension 2 completely.
+INFO: [XFORM 203-101] Partitioning array 'b' (mmult_accel.cpp:10) in dimension 1 completely.
+INFO: [XFORM 203-101] Partitioning array 'b' (mmult_accel.cpp:10) in dimension 2 completely.
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:07 ; elapsed = 00:00:18 . Memory (MB): peak = 134.523 ; gain = 49.996
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:10 ; elapsed = 00:00:21 . Memory (MB): peak = 134.523 ; gain = 49.996
 INFO: [HLS 200-10] Starting hardware synthesis ...
 INFO: [HLS 200-10] Synthesizing 'mmult_hw' ...
 WARNING: [SYN 201-107] Renaming port name 'mmult_hw/out' to 'mmult_hw/out_r' to avoid the conflict with HDL keywords or other object names.
@@ -86,30 +30,493 @@ INFO: [HLS 200-10] -------------------------------------------------------------
 INFO: [HLS 200-42] -- Implementing module 'mmult_hw' 
 INFO: [HLS 200-10] ----------------------------------------------------------------
 INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'L1'.
+WARNING: [SCHED 204-69] Unable to schedule 'store' operation (mmult_accel.cpp:20) of variable 'sum_1_2_19', mmult_accel.cpp:19 on array 'out_r' due to limited memory ports. Please consider using a memory core with more ports or partitioning the array 'out_r'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 11, Depth = 121.
 INFO: [SCHED 204-11] Finished scheduling.
-INFO: [HLS 200-111]  Elapsed time: 18.63 seconds; current allocated memory: 77.120 MB.
-INFO: [HLS 200-434] Only 0 loops out of a total 3 loops have been pipelined in this design.
+INFO: [HLS 200-111]  Elapsed time: 75.556 seconds; current allocated memory: 95.301 MB.
 INFO: [BIND 205-100] Starting micro-architecture generation ...
 INFO: [BIND 205-101] Performing variable lifetime analysis.
 INFO: [BIND 205-101] Exploring resource sharing.
 INFO: [BIND 205-101] Binding ...
 INFO: [BIND 205-100] Finished micro-architecture generation.
-INFO: [HLS 200-111]  Elapsed time: 0.087 seconds; current allocated memory: 77.423 MB.
+INFO: [HLS 200-111]  Elapsed time: 11.338 seconds; current allocated memory: 106.309 MB.
 INFO: [HLS 200-10] ----------------------------------------------------------------
 INFO: [HLS 200-10] -- Generating RTL for module 'mmult_hw' 
 INFO: [HLS 200-10] ----------------------------------------------------------------
-INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a' to 'ap_memory'.
-INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_0' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_1' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_2' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_3' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_4' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_5' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_6' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_7' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_8' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_9' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_10' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_11' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_12' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_13' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_14' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_15' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_16' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_17' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_18' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_19' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/a_20' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_0_0' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_0_1' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_0_2' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_0_3' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_0_4' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_0_5' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_0_6' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_0_7' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_0_8' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_0_9' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_0_10' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_0_11' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_0_12' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_0_13' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_0_14' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_0_15' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_0_16' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_0_17' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_0_18' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_0_19' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_0_20' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_1_0' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_1_1' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_1_2' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_1_3' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_1_4' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_1_5' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_1_6' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_1_7' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_1_8' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_1_9' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_1_10' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_1_11' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_1_12' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_1_13' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_1_14' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_1_15' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_1_16' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_1_17' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_1_18' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_1_19' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_1_20' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_2_0' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_2_1' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_2_2' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_2_3' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_2_4' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_2_5' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_2_6' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_2_7' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_2_8' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_2_9' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_2_10' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_2_11' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_2_12' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_2_13' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_2_14' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_2_15' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_2_16' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_2_17' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_2_18' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_2_19' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_2_20' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_3_0' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_3_1' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_3_2' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_3_3' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_3_4' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_3_5' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_3_6' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_3_7' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_3_8' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_3_9' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_3_10' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_3_11' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_3_12' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_3_13' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_3_14' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_3_15' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_3_16' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_3_17' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_3_18' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_3_19' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_3_20' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_4_0' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_4_1' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_4_2' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_4_3' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_4_4' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_4_5' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_4_6' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_4_7' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_4_8' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_4_9' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_4_10' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_4_11' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_4_12' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_4_13' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_4_14' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_4_15' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_4_16' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_4_17' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_4_18' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_4_19' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_4_20' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_5_0' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_5_1' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_5_2' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_5_3' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_5_4' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_5_5' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_5_6' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_5_7' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_5_8' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_5_9' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_5_10' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_5_11' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_5_12' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_5_13' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_5_14' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_5_15' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_5_16' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_5_17' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_5_18' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_5_19' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_5_20' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_6_0' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_6_1' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_6_2' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_6_3' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_6_4' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_6_5' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_6_6' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_6_7' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_6_8' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_6_9' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_6_10' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_6_11' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_6_12' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_6_13' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_6_14' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_6_15' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_6_16' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_6_17' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_6_18' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_6_19' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_6_20' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_7_0' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_7_1' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_7_2' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_7_3' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_7_4' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_7_5' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_7_6' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_7_7' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_7_8' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_7_9' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_7_10' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_7_11' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_7_12' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_7_13' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_7_14' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_7_15' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_7_16' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_7_17' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_7_18' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_7_19' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_7_20' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_8_0' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_8_1' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_8_2' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_8_3' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_8_4' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_8_5' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_8_6' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_8_7' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_8_8' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_8_9' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_8_10' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_8_11' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_8_12' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_8_13' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_8_14' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_8_15' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_8_16' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_8_17' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_8_18' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_8_19' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_8_20' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_9_0' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_9_1' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_9_2' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_9_3' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_9_4' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_9_5' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_9_6' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_9_7' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_9_8' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_9_9' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_9_10' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_9_11' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_9_12' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_9_13' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_9_14' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_9_15' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_9_16' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_9_17' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_9_18' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_9_19' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_9_20' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_10_0' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_10_1' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_10_2' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_10_3' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_10_4' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_10_5' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_10_6' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_10_7' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_10_8' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_10_9' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_10_10' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_10_11' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_10_12' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_10_13' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_10_14' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_10_15' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_10_16' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_10_17' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_10_18' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_10_19' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_10_20' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_11_0' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_11_1' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_11_2' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_11_3' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_11_4' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_11_5' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_11_6' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_11_7' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_11_8' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_11_9' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_11_10' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_11_11' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_11_12' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_11_13' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_11_14' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_11_15' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_11_16' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_11_17' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_11_18' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_11_19' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_11_20' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_12_0' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_12_1' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_12_2' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_12_3' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_12_4' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_12_5' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_12_6' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_12_7' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_12_8' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_12_9' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_12_10' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_12_11' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_12_12' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_12_13' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_12_14' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_12_15' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_12_16' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_12_17' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_12_18' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_12_19' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_12_20' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_13_0' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_13_1' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_13_2' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_13_3' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_13_4' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_13_5' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_13_6' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_13_7' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_13_8' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_13_9' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_13_10' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_13_11' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_13_12' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_13_13' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_13_14' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_13_15' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_13_16' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_13_17' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_13_18' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_13_19' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_13_20' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_14_0' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_14_1' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_14_2' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_14_3' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_14_4' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_14_5' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_14_6' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_14_7' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_14_8' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_14_9' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_14_10' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_14_11' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_14_12' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_14_13' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_14_14' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_14_15' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_14_16' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_14_17' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_14_18' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_14_19' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_14_20' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_15_0' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_15_1' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_15_2' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_15_3' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_15_4' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_15_5' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_15_6' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_15_7' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_15_8' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_15_9' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_15_10' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_15_11' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_15_12' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_15_13' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_15_14' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_15_15' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_15_16' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_15_17' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_15_18' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_15_19' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_15_20' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_16_0' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_16_1' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_16_2' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_16_3' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_16_4' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_16_5' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_16_6' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_16_7' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_16_8' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_16_9' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_16_10' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_16_11' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_16_12' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_16_13' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_16_14' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_16_15' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_16_16' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_16_17' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_16_18' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_16_19' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_16_20' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_17_0' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_17_1' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_17_2' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_17_3' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_17_4' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_17_5' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_17_6' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_17_7' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_17_8' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_17_9' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_17_10' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_17_11' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_17_12' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_17_13' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_17_14' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_17_15' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_17_16' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_17_17' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_17_18' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_17_19' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_17_20' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_18_0' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_18_1' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_18_2' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_18_3' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_18_4' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_18_5' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_18_6' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_18_7' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_18_8' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_18_9' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_18_10' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_18_11' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_18_12' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_18_13' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_18_14' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_18_15' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_18_16' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_18_17' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_18_18' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_18_19' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_18_20' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_19_0' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_19_1' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_19_2' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_19_3' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_19_4' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_19_5' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_19_6' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_19_7' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_19_8' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_19_9' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_19_10' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_19_11' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_19_12' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_19_13' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_19_14' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_19_15' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_19_16' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_19_17' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_19_18' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_19_19' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_19_20' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_20_0' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_20_1' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_20_2' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_20_3' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_20_4' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_20_5' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_20_6' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_20_7' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_20_8' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_20_9' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_20_10' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_20_11' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_20_12' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_20_13' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_20_14' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_20_15' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_20_16' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_20_17' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_20_18' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_20_19' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/b_20_20' to 'ap_none'.
 INFO: [RTGEN 206-500] Setting interface mode on port 'mmult_hw/out_r' to 'ap_memory'.
 INFO: [RTGEN 206-500] Setting interface mode on function 'mmult_hw' to 'ap_ctrl_hs'.
 INFO: [SYN 201-210] Renamed object name 'mmult_hw_fadd_32ns_32ns_32_5_full_dsp_1' to 'mmult_hw_fadd_32nbkb' due to the length limit 20
 INFO: [SYN 201-210] Renamed object name 'mmult_hw_fmul_32ns_32ns_32_4_max_dsp_1' to 'mmult_hw_fmul_32ncud' due to the length limit 20
-INFO: [RTGEN 206-100] Generating core module 'mmult_hw_fadd_32nbkb': 1 instance(s).
-INFO: [RTGEN 206-100] Generating core module 'mmult_hw_fmul_32ncud': 1 instance(s).
+INFO: [RTGEN 206-104] Estimated max fanout for 'mmult_hw' is 8928 from HDL expression: ((1'b0 == ap_block_pp0_stage2_11001) & (1'b1 == ap_CS_fsm_pp0_stage2))
+INFO: [RTGEN 206-100] Generating core module 'mmult_hw_fadd_32nbkb': 41 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'mmult_hw_fmul_32ncud': 41 instance(s).
 INFO: [RTGEN 206-100] Finished creating RTL model for 'mmult_hw'.
-INFO: [HLS 200-111]  Elapsed time: 0.167 seconds; current allocated memory: 77.875 MB.
-INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:01 ; elapsed = 00:00:21 . Memory (MB): peak = 126.320 ; gain = 44.020
+INFO: [HLS 200-111]  Elapsed time: 23.068 seconds; current allocated memory: 115.767 MB.
+INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:01:51 ; elapsed = 00:02:28 . Memory (MB): peak = 218.875 ; gain = 134.348
 INFO: [SYSC 207-301] Generating SystemC RTL for mmult_hw.
 INFO: [VHDL 208-304] Generating VHDL RTL for mmult_hw.
 INFO: [VLOG 209-307] Generating Verilog RTL for mmult_hw.
-[2Kvivado_hls> [12C
+INFO: [HLS 200-112] Total elapsed time: 148.538 seconds; peak allocated memory: 115.767 MB.

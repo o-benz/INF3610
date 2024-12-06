@@ -7595,10 +7595,10 @@ void matrix_multiply_ref(T a[DIM][DIM], T b[DIM][DIM], T out[DIM][DIM])
 template <typename T, int DIM>
 void mmult_hw(T a[DIM][DIM], T b[DIM][DIM], T out[DIM][DIM])
 {
-_ssdm_SpecArrayPartition( a, 2, "COMPLETE", 0, "");
+_ssdm_SpecArrayPartition( a, 2, "BLOCK", 100, "");
 # 47 "./mmult.h"
 
-_ssdm_SpecArrayPartition( b, 1, "COMPLETE", 0, "");
+_ssdm_SpecArrayPartition( b, 1, "BLOCK", 100, "");
 # 47 "./mmult.h"
 
 _ssdm_InlineSelf(0, "");

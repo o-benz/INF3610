@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AutoPilot:ProjectResources xmlns:AutoPilot="com.autoesl.autopilot.ui.directiveView">
+  <sourceFile>
+    <directive functionName="mmult_hw" label="" functionLabel="">
+      <pragma name="ARRAY_PARTITION">
+        <option name="variable" value="a" positionalBoolean="4"/>
+        <option name="complete" value="" positionalBoolean="type"/>
+        <option name="dim" value="2"/>
+      </pragma>
+    </directive>
+    <directive functionName="mmult_hw" label="" functionLabel="">
+      <pragma name="ARRAY_PARTITION">
+        <option name="variable" value="b" positionalBoolean="4"/>
+        <option name="complete" value=" " positionalBoolean="type"/>
+        <option name="dim" value="1"/>
+      </pragma>
+    </directive>
+  </sourceFile>
+  <sourceFile name="mmult_accel.cpp">
+    <directive functionName="mmult_hw" label="L2" functionLabel=" ">
+      <pragma name="PIPELINE">
+        <option name="II" value="1"/>
+      </pragma>
+    </directive>
+  </sourceFile>
+</AutoPilot:ProjectResources>

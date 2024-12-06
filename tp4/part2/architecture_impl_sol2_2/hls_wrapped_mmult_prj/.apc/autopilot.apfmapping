@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
   <source>
-    <originFiles name="mmult_accel.cpp" path="C:\Temp\3610\2127936_2203907\Lab2\Lab2_p2\code_de_depart_partie2\architecture_impl_sol2_2\mmult_accel.cpp"/>
+    <originFiles name="mmult_accel.cpp" path="C:\part2\architecture_impl_sol2_2\mmult_accel.cpp"/>
   </source>
   <testbench>
-    <originFiles name="mmult_test.cpp" path="C:\Temp\3610\2127936_2203907\Lab2\Lab2_p2\code_de_depart_partie2\architecture_impl_sol2_2\mmult_test.cpp"/>
+    <originFiles name="mmult_test.cpp" path="C:\part2\architecture_impl_sol2_2\mmult_test.cpp"/>
   </testbench>
 </autopilotfilemapping:AutoPilotFileMapping>

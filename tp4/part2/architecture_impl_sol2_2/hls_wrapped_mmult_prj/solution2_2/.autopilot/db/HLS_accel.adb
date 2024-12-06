@@ -420,7 +420,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item class_id="10" tracking_level="0" version="0">
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second class_id="11" tracking_level="0" version="0">
                     <count>2</count>
                     <item_version>0</item_version>
@@ -475,7 +475,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -530,7 +530,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -585,7 +585,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -640,7 +640,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -695,7 +695,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -750,7 +750,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -805,7 +805,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -860,7 +860,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -915,7 +915,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -970,7 +970,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -1025,7 +1025,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -1080,7 +1080,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -1135,7 +1135,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -1190,7 +1190,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -1245,7 +1245,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -1300,7 +1300,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -1355,7 +1355,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -1410,7 +1410,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -1465,7 +1465,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -1520,7 +1520,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -1575,7 +1575,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -1630,7 +1630,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -1685,7 +1685,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -1740,7 +1740,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -1795,7 +1795,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -1850,7 +1850,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -1905,7 +1905,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -1960,7 +1960,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -2015,7 +2015,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -2070,7 +2070,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -2125,7 +2125,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -2180,7 +2180,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -2235,7 +2235,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -2290,7 +2290,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -2345,7 +2345,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -2400,7 +2400,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -2455,7 +2455,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -2510,7 +2510,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -2565,7 +2565,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -2620,7 +2620,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -2675,7 +2675,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -2730,7 +2730,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -2785,7 +2785,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -2840,7 +2840,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -2895,7 +2895,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -2950,7 +2950,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -3005,7 +3005,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -3060,7 +3060,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -3115,7 +3115,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -3170,7 +3170,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -3225,7 +3225,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -3280,7 +3280,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -3335,7 +3335,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -3390,7 +3390,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -3445,7 +3445,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -3500,7 +3500,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -3555,7 +3555,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -3610,7 +3610,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -3665,7 +3665,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -3720,7 +3720,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -3775,7 +3775,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -3830,7 +3830,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -3885,7 +3885,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -3940,7 +3940,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -3995,7 +3995,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -4050,7 +4050,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -4105,7 +4105,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -4160,7 +4160,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -4215,7 +4215,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -4270,7 +4270,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -4325,7 +4325,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -4380,7 +4380,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -4435,7 +4435,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -4490,7 +4490,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -4545,7 +4545,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -4600,7 +4600,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -4655,7 +4655,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -4710,7 +4710,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -4765,7 +4765,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -4820,7 +4820,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -4875,7 +4875,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -4930,7 +4930,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -4985,7 +4985,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -5040,7 +5040,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -5095,7 +5095,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -5150,7 +5150,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -5205,7 +5205,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -5260,7 +5260,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -5315,7 +5315,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -5370,7 +5370,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -5425,7 +5425,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -5480,7 +5480,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -5535,7 +5535,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -5590,7 +5590,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -5645,7 +5645,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -5700,7 +5700,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -5755,7 +5755,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -5810,7 +5810,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -5865,7 +5865,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -5920,7 +5920,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -5975,7 +5975,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -6030,7 +6030,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -6085,7 +6085,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -6140,7 +6140,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -6195,7 +6195,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -6250,7 +6250,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -6305,7 +6305,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -6360,7 +6360,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -6415,7 +6415,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -6507,7 +6507,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -6708,7 +6708,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -6764,7 +6764,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -6820,7 +6820,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -6877,7 +6877,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -6934,7 +6934,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -7064,7 +7064,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -7126,7 +7126,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -7288,7 +7288,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -7345,7 +7345,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -7401,7 +7401,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -7456,7 +7456,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -7513,7 +7513,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -7569,7 +7569,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -7624,7 +7624,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -7681,7 +7681,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -7737,7 +7737,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -7792,7 +7792,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -7849,7 +7849,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -7905,7 +7905,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -7960,7 +7960,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -8017,7 +8017,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -8073,7 +8073,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -8128,7 +8128,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -8185,7 +8185,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -8241,7 +8241,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -8296,7 +8296,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -8353,7 +8353,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -8409,7 +8409,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -8464,7 +8464,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -8521,7 +8521,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -8577,7 +8577,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -8632,7 +8632,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -8689,7 +8689,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -8745,7 +8745,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -8800,7 +8800,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -8857,7 +8857,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -8913,7 +8913,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -8968,7 +8968,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -9025,7 +9025,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -9081,7 +9081,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -9136,7 +9136,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -9193,7 +9193,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -9249,7 +9249,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -9304,7 +9304,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -9361,7 +9361,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -9417,7 +9417,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -9472,7 +9472,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -9529,7 +9529,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -9585,7 +9585,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -9640,7 +9640,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -9697,7 +9697,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -9753,7 +9753,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -9808,7 +9808,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -9865,7 +9865,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -9921,7 +9921,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -9976,7 +9976,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -10033,7 +10033,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -10089,7 +10089,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -10144,7 +10144,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -10201,7 +10201,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -10257,7 +10257,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -10312,7 +10312,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -10369,7 +10369,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -10425,7 +10425,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -10480,7 +10480,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -10537,7 +10537,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -10593,7 +10593,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -10648,7 +10648,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -10705,7 +10705,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -10761,7 +10761,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -10816,7 +10816,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -10873,7 +10873,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -10929,7 +10929,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -10984,7 +10984,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -11041,7 +11041,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -11097,7 +11097,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -11152,7 +11152,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -11209,7 +11209,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -11265,7 +11265,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -11320,7 +11320,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -11377,7 +11377,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -11433,7 +11433,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -11488,7 +11488,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -11545,7 +11545,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -11601,7 +11601,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -11656,7 +11656,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -11713,7 +11713,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -11769,7 +11769,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -11824,7 +11824,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -11881,7 +11881,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -11937,7 +11937,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -11992,7 +11992,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -12049,7 +12049,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -12105,7 +12105,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -12160,7 +12160,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -12217,7 +12217,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -12273,7 +12273,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -12328,7 +12328,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -12385,7 +12385,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -12441,7 +12441,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -12496,7 +12496,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -12553,7 +12553,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -12609,7 +12609,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -12664,7 +12664,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -12721,7 +12721,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -12777,7 +12777,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -12832,7 +12832,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -12889,7 +12889,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -12945,7 +12945,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -13000,7 +13000,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -13057,7 +13057,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -13113,7 +13113,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -13168,7 +13168,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -13225,7 +13225,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -13281,7 +13281,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -13336,7 +13336,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -13393,7 +13393,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -13449,7 +13449,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -13504,7 +13504,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -13561,7 +13561,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -13617,7 +13617,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -13672,7 +13672,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -13729,7 +13729,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -13785,7 +13785,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -13840,7 +13840,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -13897,7 +13897,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -13953,7 +13953,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -14008,7 +14008,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -14065,7 +14065,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -14121,7 +14121,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -14176,7 +14176,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -14233,7 +14233,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -14289,7 +14289,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -14344,7 +14344,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -14401,7 +14401,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -14457,7 +14457,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -14512,7 +14512,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -14569,7 +14569,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -14625,7 +14625,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -14680,7 +14680,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -14737,7 +14737,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -14793,7 +14793,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -14848,7 +14848,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -14905,7 +14905,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -14961,7 +14961,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -15016,7 +15016,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -15073,7 +15073,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -15129,7 +15129,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -15184,7 +15184,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -15241,7 +15241,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -15297,7 +15297,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -15352,7 +15352,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -15409,7 +15409,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -15465,7 +15465,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -15520,7 +15520,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -15577,7 +15577,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -15633,7 +15633,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -15688,7 +15688,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -15745,7 +15745,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -15801,7 +15801,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -15856,7 +15856,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -15913,7 +15913,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -15969,7 +15969,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -16024,7 +16024,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -16081,7 +16081,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -16137,7 +16137,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -16192,7 +16192,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -16249,7 +16249,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -16305,7 +16305,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -16360,7 +16360,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -16416,7 +16416,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -16471,7 +16471,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -16563,7 +16563,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -16764,7 +16764,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -16820,7 +16820,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -16876,7 +16876,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -16933,7 +16933,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -17065,7 +17065,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -17127,7 +17127,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -17182,7 +17182,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -17239,7 +17239,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -17296,7 +17296,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -17353,7 +17353,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -17410,7 +17410,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -17467,7 +17467,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -17524,7 +17524,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -17581,7 +17581,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -17638,7 +17638,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -17695,7 +17695,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -17752,7 +17752,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -17809,7 +17809,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -17866,7 +17866,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -17923,7 +17923,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -17980,7 +17980,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -18037,7 +18037,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -18094,7 +18094,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -18151,7 +18151,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -18208,7 +18208,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -18265,7 +18265,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -18322,7 +18322,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -18379,7 +18379,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -18436,7 +18436,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -18493,7 +18493,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -18550,7 +18550,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -18607,7 +18607,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -18664,7 +18664,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -18721,7 +18721,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -18778,7 +18778,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -18835,7 +18835,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -18892,7 +18892,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -18949,7 +18949,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -19006,7 +19006,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -19063,7 +19063,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -19120,7 +19120,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -19177,7 +19177,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -19234,7 +19234,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -19291,7 +19291,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -19348,7 +19348,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -19405,7 +19405,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -19462,7 +19462,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -19519,7 +19519,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -19576,7 +19576,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -19633,7 +19633,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -19690,7 +19690,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -19747,7 +19747,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -19804,7 +19804,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -19861,7 +19861,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -19918,7 +19918,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -19975,7 +19975,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -20032,7 +20032,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -20089,7 +20089,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -20146,7 +20146,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -20203,7 +20203,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -20260,7 +20260,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -20422,7 +20422,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -20478,7 +20478,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -20533,7 +20533,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -20589,7 +20589,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -20644,7 +20644,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -20700,7 +20700,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -20755,7 +20755,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -20811,7 +20811,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -20866,7 +20866,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -20922,7 +20922,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -20977,7 +20977,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -21033,7 +21033,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -21088,7 +21088,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -21144,7 +21144,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -21199,7 +21199,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -21255,7 +21255,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -21310,7 +21310,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -21366,7 +21366,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -21421,7 +21421,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -21477,7 +21477,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -21532,7 +21532,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -21588,7 +21588,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -21643,7 +21643,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -21699,7 +21699,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -21754,7 +21754,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -21810,7 +21810,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -21865,7 +21865,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -21921,7 +21921,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -21976,7 +21976,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -22032,7 +22032,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -22087,7 +22087,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -22143,7 +22143,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -22198,7 +22198,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -22254,7 +22254,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -22309,7 +22309,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -22365,7 +22365,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -22420,7 +22420,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -22476,7 +22476,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -22531,7 +22531,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -22587,7 +22587,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -22642,7 +22642,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -22698,7 +22698,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -22753,7 +22753,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -22809,7 +22809,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -22864,7 +22864,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -22920,7 +22920,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -22975,7 +22975,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -23031,7 +23031,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -23086,7 +23086,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -23142,7 +23142,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -23197,7 +23197,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -23253,7 +23253,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -23308,7 +23308,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -23364,7 +23364,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -23419,7 +23419,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -23475,7 +23475,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -23530,7 +23530,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -23586,7 +23586,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -23641,7 +23641,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -23697,7 +23697,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -23752,7 +23752,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -23808,7 +23808,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -23863,7 +23863,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -23919,7 +23919,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -23974,7 +23974,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -24030,7 +24030,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -24085,7 +24085,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -24141,7 +24141,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -24196,7 +24196,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -24252,7 +24252,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -24307,7 +24307,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -24363,7 +24363,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -24418,7 +24418,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -24474,7 +24474,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -24529,7 +24529,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -24585,7 +24585,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -24640,7 +24640,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -24696,7 +24696,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -24751,7 +24751,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -24807,7 +24807,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -24862,7 +24862,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -24918,7 +24918,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -24973,7 +24973,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -25029,7 +25029,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -25084,7 +25084,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -25140,7 +25140,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -25195,7 +25195,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -25251,7 +25251,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -25306,7 +25306,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -25362,7 +25362,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -25417,7 +25417,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -25473,7 +25473,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -25528,7 +25528,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -25584,7 +25584,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -25639,7 +25639,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -25695,7 +25695,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -25750,7 +25750,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -25806,7 +25806,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -25861,7 +25861,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -25917,7 +25917,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -25972,7 +25972,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -26028,7 +26028,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -26083,7 +26083,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -26139,7 +26139,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -26194,7 +26194,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -26250,7 +26250,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -26305,7 +26305,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -26361,7 +26361,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -26416,7 +26416,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -26472,7 +26472,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -26598,7 +26598,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -26806,7 +26806,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -26869,7 +26869,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -26932,7 +26932,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -26996,7 +26996,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -27060,7 +27060,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -27122,7 +27122,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -27184,7 +27184,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -27247,7 +27247,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -27311,7 +27311,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -27373,7 +27373,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -27437,7 +27437,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -27499,7 +27499,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -27563,7 +27563,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -27625,7 +27625,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -27689,7 +27689,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -27751,7 +27751,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -27815,7 +27815,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -27877,7 +27877,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -27941,7 +27941,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -28003,7 +28003,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -28067,7 +28067,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -28129,7 +28129,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -28193,7 +28193,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -28255,7 +28255,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -28319,7 +28319,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -28381,7 +28381,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -28445,7 +28445,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -28507,7 +28507,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -28571,7 +28571,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -28633,7 +28633,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -28697,7 +28697,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -28759,7 +28759,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -28823,7 +28823,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -28885,7 +28885,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -28949,7 +28949,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -29011,7 +29011,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -29075,7 +29075,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -29137,7 +29137,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -29201,7 +29201,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -29263,7 +29263,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -29327,7 +29327,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -29389,7 +29389,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -29453,7 +29453,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -29515,7 +29515,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -29579,7 +29579,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -29641,7 +29641,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -29705,7 +29705,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -29767,7 +29767,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -29831,7 +29831,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -29893,7 +29893,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -29957,7 +29957,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -30019,7 +30019,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -30083,7 +30083,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -30145,7 +30145,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -30209,7 +30209,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -30271,7 +30271,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -30335,7 +30335,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -30397,7 +30397,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -30461,7 +30461,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -30523,7 +30523,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -30587,7 +30587,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -30649,7 +30649,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -30713,7 +30713,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -30775,7 +30775,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -30839,7 +30839,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -30901,7 +30901,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -30965,7 +30965,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -31027,7 +31027,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -31091,7 +31091,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -31153,7 +31153,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -31217,7 +31217,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -31279,7 +31279,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -31343,7 +31343,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -31405,7 +31405,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -31469,7 +31469,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -31531,7 +31531,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -31595,7 +31595,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -31657,7 +31657,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -31721,7 +31721,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -31783,7 +31783,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -31847,7 +31847,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -31909,7 +31909,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -31973,7 +31973,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -32035,7 +32035,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -32099,7 +32099,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -32161,7 +32161,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -32225,7 +32225,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -32287,7 +32287,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -32351,7 +32351,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -32413,7 +32413,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -32477,7 +32477,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -32539,7 +32539,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -32603,7 +32603,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -32665,7 +32665,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -32729,7 +32729,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -32791,7 +32791,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -32855,7 +32855,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -32917,7 +32917,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -32981,7 +32981,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -33043,7 +33043,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -33107,7 +33107,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -33169,7 +33169,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -33233,7 +33233,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -33295,7 +33295,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -33359,7 +33359,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -33421,7 +33421,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -33485,7 +33485,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -33547,7 +33547,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -33611,7 +33611,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -33673,7 +33673,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -33737,7 +33737,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -33799,7 +33799,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -33863,7 +33863,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -33925,7 +33925,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -33989,7 +33989,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -34051,7 +34051,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -34113,7 +34113,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -34175,7 +34175,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -34238,7 +34238,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -34300,7 +34300,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -34364,7 +34364,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -34428,7 +34428,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -34490,7 +34490,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -34553,7 +34553,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -34616,7 +34616,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -34680,7 +34680,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -34742,7 +34742,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -34805,7 +34805,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -34868,7 +34868,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -34932,7 +34932,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -34994,7 +34994,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -35057,7 +35057,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -35120,7 +35120,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -35184,7 +35184,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -35246,7 +35246,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -35309,7 +35309,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -35372,7 +35372,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -35436,7 +35436,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -35498,7 +35498,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -35561,7 +35561,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -35624,7 +35624,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -35688,7 +35688,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -35750,7 +35750,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -35813,7 +35813,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -35876,7 +35876,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -35940,7 +35940,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -36002,7 +36002,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -36065,7 +36065,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -36128,7 +36128,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -36192,7 +36192,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -36254,7 +36254,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -36317,7 +36317,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -36380,7 +36380,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -36444,7 +36444,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -36506,7 +36506,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -36569,7 +36569,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -36632,7 +36632,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -36696,7 +36696,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -36758,7 +36758,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -36821,7 +36821,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -36884,7 +36884,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -36948,7 +36948,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -37010,7 +37010,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -37073,7 +37073,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -37136,7 +37136,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -37200,7 +37200,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -37262,7 +37262,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -37325,7 +37325,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -37388,7 +37388,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -37452,7 +37452,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -37514,7 +37514,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -37577,7 +37577,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -37640,7 +37640,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -37704,7 +37704,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -37766,7 +37766,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -37829,7 +37829,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -37892,7 +37892,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -37956,7 +37956,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -38018,7 +38018,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -38081,7 +38081,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -38144,7 +38144,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -38208,7 +38208,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -38270,7 +38270,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -38333,7 +38333,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -38396,7 +38396,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -38460,7 +38460,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -38522,7 +38522,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -38585,7 +38585,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -38648,7 +38648,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -38712,7 +38712,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -38774,7 +38774,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -38837,7 +38837,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -38900,7 +38900,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -38964,7 +38964,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -39026,7 +39026,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -39089,7 +39089,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -39152,7 +39152,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -39216,7 +39216,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -39278,7 +39278,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -39341,7 +39341,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -39404,7 +39404,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -39468,7 +39468,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -39530,7 +39530,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -39593,7 +39593,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -39656,7 +39656,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -39720,7 +39720,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -39782,7 +39782,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -39845,7 +39845,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -39908,7 +39908,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -39972,7 +39972,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -40034,7 +40034,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -40097,7 +40097,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -40160,7 +40160,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -40224,7 +40224,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -40286,7 +40286,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -40349,7 +40349,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -40412,7 +40412,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -40476,7 +40476,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -40538,7 +40538,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -40601,7 +40601,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -40664,7 +40664,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -40728,7 +40728,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -40790,7 +40790,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -40853,7 +40853,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -40916,7 +40916,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -40980,7 +40980,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -41042,7 +41042,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -41105,7 +41105,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -41168,7 +41168,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -41232,7 +41232,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -41294,7 +41294,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -41357,7 +41357,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -41420,7 +41420,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -41484,7 +41484,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -41546,7 +41546,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -41609,7 +41609,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -41672,7 +41672,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -41736,7 +41736,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -41798,7 +41798,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -41861,7 +41861,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -41924,7 +41924,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -41988,7 +41988,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -42050,7 +42050,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -42113,7 +42113,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -42176,7 +42176,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -42240,7 +42240,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -42302,7 +42302,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -42365,7 +42365,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -42428,7 +42428,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -42492,7 +42492,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -42554,7 +42554,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -42617,7 +42617,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -42680,7 +42680,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -42744,7 +42744,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -42806,7 +42806,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -42869,7 +42869,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -42932,7 +42932,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -42996,7 +42996,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -43058,7 +43058,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -43121,7 +43121,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -43184,7 +43184,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -43248,7 +43248,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -43310,7 +43310,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -43373,7 +43373,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -43436,7 +43436,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -43500,7 +43500,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -43562,7 +43562,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -43625,7 +43625,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -43688,7 +43688,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -43752,7 +43752,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -43814,7 +43814,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -43877,7 +43877,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -43940,7 +43940,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -44004,7 +44004,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -44066,7 +44066,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -44129,7 +44129,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -44192,7 +44192,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -44256,7 +44256,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -44318,7 +44318,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -44381,7 +44381,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -44444,7 +44444,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -44508,7 +44508,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -44570,7 +44570,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -44633,7 +44633,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -44696,7 +44696,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -44760,7 +44760,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -44822,7 +44822,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -44885,7 +44885,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -44948,7 +44948,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -45012,7 +45012,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -45074,7 +45074,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -45137,7 +45137,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -45200,7 +45200,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -45264,7 +45264,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -45326,7 +45326,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -45389,7 +45389,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -45452,7 +45452,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -45516,7 +45516,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -45578,7 +45578,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -45641,7 +45641,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -45704,7 +45704,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -45768,7 +45768,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -45830,7 +45830,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -45893,7 +45893,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -45956,7 +45956,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -46020,7 +46020,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -46082,7 +46082,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -46145,7 +46145,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -46208,7 +46208,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -46272,7 +46272,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -46334,7 +46334,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -46397,7 +46397,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -46460,7 +46460,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -46524,7 +46524,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -46586,7 +46586,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -46649,7 +46649,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -46712,7 +46712,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -46776,7 +46776,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -46838,7 +46838,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -46901,7 +46901,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -46964,7 +46964,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -47028,7 +47028,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -47090,7 +47090,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -47153,7 +47153,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -47216,7 +47216,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -47280,7 +47280,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -47342,7 +47342,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -47405,7 +47405,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -47468,7 +47468,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -47532,7 +47532,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -47594,7 +47594,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -47657,7 +47657,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -47720,7 +47720,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -47784,7 +47784,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -47846,7 +47846,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -47909,7 +47909,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -47972,7 +47972,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -48035,7 +48035,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -48132,7 +48132,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -48224,7 +48224,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -48425,7 +48425,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -48481,7 +48481,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -48537,7 +48537,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -48594,7 +48594,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -48651,7 +48651,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -48706,7 +48706,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -48762,7 +48762,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -48817,7 +48817,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -48873,7 +48873,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -48928,7 +48928,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -48984,7 +48984,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -49040,7 +49040,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -49095,7 +49095,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -49152,7 +49152,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -49208,7 +49208,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -49270,7 +49270,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -49332,7 +49332,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>3</count>
                     <item_version>0</item_version>
@@ -49408,7 +49408,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -49464,7 +49464,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>2</count>
                     <item_version>0</item_version>
@@ -49519,7 +49519,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+                  <first>C:\part2\architecture_impl_sol2_2</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>

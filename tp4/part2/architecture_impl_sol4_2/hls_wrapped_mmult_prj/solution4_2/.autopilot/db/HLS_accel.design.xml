@@ -55,10 +55,10 @@
 </PerformanceEstimates>
 <AreaEstimates>
 <Resources>
-<BRAM_18K>464</BRAM_18K>
+<BRAM_18K>264</BRAM_18K>
 <DSP48E>203</DSP48E>
-<FF>9323</FF>
-<LUT>8304</LUT>
+<FF>9413</FF>
+<LUT>5465</LUT>
 </Resources>
 </AreaEstimates>
 <InterfaceSummary>

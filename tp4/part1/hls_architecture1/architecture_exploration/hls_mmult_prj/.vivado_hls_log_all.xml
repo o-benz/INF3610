@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vivadoHLSLog:LogRoot xmlns:vivadoHLSLog="www.xilinx.com/vivadoHLSLog">
+  <errorLogs>
+    <logs>
+      <synLog/>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </errorLogs>
+  <warningLogs>
+    <logs>
+      <synLog>
+        <logs message="WARNING: [SCHED 204-69] Unable to schedule 'store' operation (mmult_accel.cpp:20) of variable 'sum_1_2_19', mmult_accel.cpp:19 on array 'out_r' due to limited memory ports. Please consider using a memory core with more ports or partitioning the array 'out_r'." projectName="hls_mmult_prj" solutionName="solution1_4" date="2024-12-02T02:10:45.211-0500" type="Warning"/>
+        <logs message="WARNING: [SYN 201-107] Renaming port name 'mmult_hw/out' to 'mmult_hw/out_r' to avoid the conflict with HDL keywords or other object names." projectName="hls_mmult_prj" solutionName="solution1_4" date="2024-12-02T02:09:54.286-0500" type="Warning"/>
+        <logs message="WARNING: [SCHED 204-21] The critical path in module 'mmult_hw' consists of the following:&#xD;&#xA;&#x9;'mul' operation of DSP[195] ('tmp', mmult_accel.cpp:20) [189]  (3.36 ns)&#xD;&#xA;&#x9;'add' operation of DSP[195] ('tmp_1', mmult_accel.cpp:20) [195]  (3.02 ns)&#xD;&#xA;&#x9;'getelementptr' operation ('out_addr', mmult_accel.cpp:20) [197]  (0 ns)&#xD;&#xA;&#x9;'store' operation (mmult_accel.cpp:20) of variable 'sum_1_40', mmult_accel.cpp:19 on array 'out_r' [450]  (3.25 ns)" projectName="hls_mmult_prj" solutionName="solution1_3" date="2024-11-28T03:28:55.574-0500" type="Warning"/>
+        <logs message="WARNING: [SCHED 204-21] Estimated clock period (9.634ns) exceeds the target (target clock period: 10ns, clock uncertainty: 1.25ns, effective delay budget: 8.75ns)." projectName="hls_mmult_prj" solutionName="solution1_3" date="2024-11-28T03:28:55.556-0500" type="Warning"/>
+        <logs message="WARNING: [SYN 201-107] Renaming port name 'mmult_hw/out' to 'mmult_hw/out_r' to avoid the conflict with HDL keywords or other object names." projectName="hls_mmult_prj" solutionName="solution1_3" date="2024-11-28T03:28:54.749-0500" type="Warning"/>
+        <logs message="WARNING: [SCHED 204-21] The critical path in module 'mmult_hw' consists of the following:&#xD;&#xA;&#x9;'mul' operation of DSP[195] ('tmp', mmult_accel.cpp:20) [189]  (3.36 ns)&#xD;&#xA;&#x9;'add' operation of DSP[195] ('tmp_1', mmult_accel.cpp:20) [195]  (3.02 ns)&#xD;&#xA;&#x9;'getelementptr' operation ('out_addr', mmult_accel.cpp:20) [197]  (0 ns)&#xD;&#xA;&#x9;'store' operation (mmult_accel.cpp:20) of variable 'sum_1_40', mmult_accel.cpp:19 on array 'out_r' [450]  (3.25 ns)" projectName="hls_mmult_prj" solutionName="solution1_2" date="2024-11-28T02:06:19.445-0500" type="Warning"/>
+        <logs message="WARNING: [SCHED 204-21] Estimated clock period (9.634ns) exceeds the target (target clock period: 10ns, clock uncertainty: 1.25ns, effective delay budget: 8.75ns)." projectName="hls_mmult_prj" solutionName="solution1_2" date="2024-11-28T02:06:19.417-0500" type="Warning"/>
+        <logs message="WARNING: [SYN 201-107] Renaming port name 'mmult_hw/out' to 'mmult_hw/out_r' to avoid the conflict with HDL keywords or other object names." projectName="hls_mmult_prj" solutionName="solution1_2" date="2024-11-28T02:06:18.560-0500" type="Warning"/>
+        <logs message="WARNING: [SYN 201-107] Renaming port name 'mmult_hw/out' to 'mmult_hw/out_r' to avoid the conflict with HDL keywords or other object names." projectName="hls_mmult_prj" solutionName="solution1_1" date="2024-11-28T02:00:57.886-0500" type="Warning"/>
+      </synLog>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </warningLogs>
+</vivadoHLSLog:LogRoot>

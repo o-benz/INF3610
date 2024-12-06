@@ -1,5 +1,5 @@
 // ==============================================================
-// File generated on Sun Dec 01 18:11:07 -0500 2024
+// File generated on Tue Dec 03 18:09:19 -0500 2024
 // Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2018.3 (64-bit)
 // SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
 // IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
@@ -7,7 +7,7 @@
 // ==============================================================
 #ifndef __HLS_accel_mac_muleOg__HH__
 #define __HLS_accel_mac_muleOg__HH__
-#include "simcore_mac_0.h"
+#include "simcore_mac_1.h"
 #include <systemc>
 
 template<
@@ -25,13 +25,13 @@ SC_MODULE(HLS_accel_mac_muleOg) {
 
 
 
-    simcore_mac_0<ID, 1, din0_WIDTH, din1_WIDTH, din2_WIDTH, dout_WIDTH> simcore_mac_0_U;
+    simcore_mac_1<ID, 1, din0_WIDTH, din1_WIDTH, din2_WIDTH, dout_WIDTH> simcore_mac_1_U;
 
-    SC_CTOR(HLS_accel_mac_muleOg):  simcore_mac_0_U ("simcore_mac_0_U") {
-        simcore_mac_0_U.din0(din0);
-        simcore_mac_0_U.din1(din1);
-        simcore_mac_0_U.din2(din2);
-        simcore_mac_0_U.dout(dout);
+    SC_CTOR(HLS_accel_mac_muleOg):  simcore_mac_1_U ("simcore_mac_1_U") {
+        simcore_mac_1_U.din0(din0);
+        simcore_mac_1_U.din1(din1);
+        simcore_mac_1_U.din2(din2);
+        simcore_mac_1_U.dout(dout);
 
     }
 

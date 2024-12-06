@@ -67,12 +67,12 @@ set rc [catch {
   create_msg_db init_design.pb
   set_param ips.enableSLRParameter 2
   reset_param project.defaultXPMLibraries 
-  open_checkpoint C:/Temp/code_de_depart_partie2/architecture_impl_sol2_2/hls_wrapped_mmult_prj/solution2_2/impl/verilog/project.runs/impl_1/bd_0_wrapper.dcp
-  set_property webtalk.parent_dir C:/Temp/code_de_depart_partie2/architecture_impl_sol2_2/hls_wrapped_mmult_prj/solution2_2/impl/verilog/project.cache/wt [current_project]
-  set_property parent.project_path C:/Temp/code_de_depart_partie2/architecture_impl_sol2_2/hls_wrapped_mmult_prj/solution2_2/impl/verilog/project.xpr [current_project]
-  set_property ip_repo_paths C:/Temp/code_de_depart_partie2/architecture_impl_sol2_2/hls_wrapped_mmult_prj/solution2_2/impl/ip [current_project]
+  open_checkpoint C:/part2/architecture_impl_sol2_2/hls_wrapped_mmult_prj/solution2_2/impl/verilog/project.runs/impl_1/bd_0_wrapper.dcp
+  set_property webtalk.parent_dir C:/part2/architecture_impl_sol2_2/hls_wrapped_mmult_prj/solution2_2/impl/verilog/project.cache/wt [current_project]
+  set_property parent.project_path C:/part2/architecture_impl_sol2_2/hls_wrapped_mmult_prj/solution2_2/impl/verilog/project.xpr [current_project]
+  set_property ip_repo_paths C:/part2/architecture_impl_sol2_2/hls_wrapped_mmult_prj/solution2_2/impl/ip [current_project]
   update_ip_catalog
-  set_property ip_output_repo C:/Temp/code_de_depart_partie2/architecture_impl_sol2_2/hls_wrapped_mmult_prj/solution2_2/impl/verilog/project.cache/ip [current_project]
+  set_property ip_output_repo C:/part2/architecture_impl_sol2_2/hls_wrapped_mmult_prj/solution2_2/impl/verilog/project.cache/ip [current_project]
   set_property ip_cache_permissions {read write} [current_project]
   set_property XPM_LIBRARIES XPM_MEMORY [current_project]
   close_msg_db -file init_design.pb

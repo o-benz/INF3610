@@ -17,9 +17,8 @@ create_clock -period 10 -name default
 # (insérez ici vos directives)
 set_directive_inline "mmult_hw"
 set_directive_pipeline -II 2 "mmult_hw/L2"
-set_directive_array_partition -type block -factor 26 -dim 2 "mmult_hw" a
-set_directive_array_partition -type block -factor 26 -dim 1 "mmult_hw" b
-set_directive_array_partition -type complete -dim 1 "mmult_hw" out
+set_directive_array_partition -type block -factor 14 -dim 2 "mmult_hw" a
+set_directive_array_partition -type block -factor 14 -dim 1 "mmult_hw" b
 set_directive_resource -core HAddSub_nodsp "mmult_hw" sum
 set_directive_resource -core HMul_nodsp "mmult_hw" temp
 # A completer

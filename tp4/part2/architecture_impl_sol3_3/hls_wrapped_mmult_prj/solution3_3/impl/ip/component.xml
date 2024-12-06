@@ -755,7 +755,7 @@ resolve_type immediate dependency {} format string minimum {} maximum {}} value 
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>viewChecksum</spirit:name>
-            <spirit:value>70d2ea53</spirit:value>
+            <spirit:value>562b246e</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -774,7 +774,7 @@ resolve_type immediate dependency {} format string minimum {} maximum {}} value 
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>viewChecksum</spirit:name>
-            <spirit:value>575c520d</spirit:value>
+            <spirit:value>2b1eb686</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -793,7 +793,7 @@ resolve_type immediate dependency {} format string minimum {} maximum {}} value 
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>viewChecksum</spirit:name>
-            <spirit:value>c7c4e3c2</spirit:value>
+            <spirit:value>0d8584c2</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -812,7 +812,7 @@ resolve_type immediate dependency {} format string minimum {} maximum {}} value 
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>viewChecksum</spirit:name>
-            <spirit:value>c0428556</spirit:value>
+            <spirit:value>d76d0256</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -826,7 +826,7 @@ resolve_type immediate dependency {} format string minimum {} maximum {}} value 
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>viewChecksum</spirit:name>
-            <spirit:value>ce7a44b6</spirit:value>
+            <spirit:value>e015841e</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -862,7 +862,7 @@ resolve_type immediate dependency {} format string minimum {} maximum {}} value 
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>viewChecksum</spirit:name>
-            <spirit:value>294879dd</spirit:value>
+            <spirit:value>faf601b6</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -1521,7 +1521,11 @@ resolve_type immediate dependency {} format string minimum {} maximum {}} value 
         <spirit:userFileType>USED_IN_out_of_context</spirit:userFileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>hdl/verilog/HLS_accel_a.v</spirit:name>
+        <spirit:name>hdl/verilog/HLS_accel_a_0.v</spirit:name>
+        <spirit:fileType>verilogSource</spirit:fileType>
+      </spirit:file>
+      <spirit:file>
+        <spirit:name>hdl/verilog/HLS_accel_a_13.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
@@ -1537,15 +1541,15 @@ resolve_type immediate dependency {} format string minimum {} maximum {}} value 
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
+        <spirit:name>hdl/verilog/HLS_accel_mac_muldEe.v</spirit:name>
+        <spirit:fileType>verilogSource</spirit:fileType>
+      </spirit:file>
+      <spirit:file>
         <spirit:name>hdl/verilog/HLS_accel_mac_muleOg.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>hdl/verilog/HLS_accel_mux_546dEe.v</spirit:name>
-        <spirit:fileType>verilogSource</spirit:fileType>
-      </spirit:file>
-      <spirit:file>
-        <spirit:name>hdl/verilog/HLS_accel_out_0.v</spirit:name>
+        <spirit:name>hdl/verilog/HLS_accel_out.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
@@ -1566,7 +1570,12 @@ resolve_type immediate dependency {} format string minimum {} maximum {}} value 
     <spirit:fileSet>
       <spirit:name>xilinx_verilogbehavioralsimulation_view_fileset</spirit:name>
       <spirit:file>
-        <spirit:name>hdl/verilog/HLS_accel_a.v</spirit:name>
+        <spirit:name>hdl/verilog/HLS_accel_a_0.v</spirit:name>
+        <spirit:fileType>verilogSource</spirit:fileType>
+        <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
+      </spirit:file>
+      <spirit:file>
+        <spirit:name>hdl/verilog/HLS_accel_a_13.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
@@ -1586,17 +1595,17 @@ resolve_type immediate dependency {} format string minimum {} maximum {}} value 
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
       <spirit:file>
+        <spirit:name>hdl/verilog/HLS_accel_mac_muldEe.v</spirit:name>
+        <spirit:fileType>verilogSource</spirit:fileType>
+        <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
+      </spirit:file>
+      <spirit:file>
         <spirit:name>hdl/verilog/HLS_accel_mac_muleOg.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>hdl/verilog/HLS_accel_mux_546dEe.v</spirit:name>
-        <spirit:fileType>verilogSource</spirit:fileType>
-        <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
-      </spirit:file>
-      <spirit:file>
-        <spirit:name>hdl/verilog/HLS_accel_out_0.v</spirit:name>
+        <spirit:name>hdl/verilog/HLS_accel_out.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
@@ -1642,7 +1651,11 @@ resolve_type immediate dependency {} format string minimum {} maximum {}} value 
         <spirit:userFileType>USED_IN_out_of_context</spirit:userFileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>hdl/vhdl/HLS_accel_a.vhd</spirit:name>
+        <spirit:name>hdl/vhdl/HLS_accel_a_0.vhd</spirit:name>
+        <spirit:fileType>vhdlSource</spirit:fileType>
+      </spirit:file>
+      <spirit:file>
+        <spirit:name>hdl/vhdl/HLS_accel_a_13.vhd</spirit:name>
         <spirit:fileType>vhdlSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
@@ -1658,21 +1671,21 @@ resolve_type immediate dependency {} format string minimum {} maximum {}} value 
         <spirit:fileType>vhdlSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
+        <spirit:name>hdl/vhdl/HLS_accel_mac_muldEe.vhd</spirit:name>
+        <spirit:fileType>vhdlSource</spirit:fileType>
+      </spirit:file>
+      <spirit:file>
         <spirit:name>hdl/vhdl/HLS_accel_mac_muleOg.vhd</spirit:name>
         <spirit:fileType>vhdlSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>hdl/vhdl/HLS_accel_mux_546dEe.vhd</spirit:name>
-        <spirit:fileType>vhdlSource</spirit:fileType>
-      </spirit:file>
-      <spirit:file>
-        <spirit:name>hdl/vhdl/HLS_accel_out_0.vhd</spirit:name>
+        <spirit:name>hdl/vhdl/HLS_accel_out.vhd</spirit:name>
         <spirit:fileType>vhdlSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
         <spirit:name>hdl/vhdl/HLS_accel.vhd</spirit:name>
         <spirit:fileType>vhdlSource</spirit:fileType>
-        <spirit:userFileType>CHECKSUM_a1731939</spirit:userFileType>
+        <spirit:userFileType>CHECKSUM_4f19123e</spirit:userFileType>
       </spirit:file>
     </spirit:fileSet>
     <spirit:fileSet>
@@ -1688,7 +1701,12 @@ resolve_type immediate dependency {} format string minimum {} maximum {}} value 
     <spirit:fileSet>
       <spirit:name>xilinx_vhdlbehavioralsimulation_view_fileset</spirit:name>
       <spirit:file>
-        <spirit:name>hdl/vhdl/HLS_accel_a.vhd</spirit:name>
+        <spirit:name>hdl/vhdl/HLS_accel_a_0.vhd</spirit:name>
+        <spirit:fileType>vhdlSource</spirit:fileType>
+        <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
+      </spirit:file>
+      <spirit:file>
+        <spirit:name>hdl/vhdl/HLS_accel_a_13.vhd</spirit:name>
         <spirit:fileType>vhdlSource</spirit:fileType>
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
@@ -1708,17 +1726,17 @@ resolve_type immediate dependency {} format string minimum {} maximum {}} value 
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
       <spirit:file>
+        <spirit:name>hdl/vhdl/HLS_accel_mac_muldEe.vhd</spirit:name>
+        <spirit:fileType>vhdlSource</spirit:fileType>
+        <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
+      </spirit:file>
+      <spirit:file>
         <spirit:name>hdl/vhdl/HLS_accel_mac_muleOg.vhd</spirit:name>
         <spirit:fileType>vhdlSource</spirit:fileType>
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>hdl/vhdl/HLS_accel_mux_546dEe.vhd</spirit:name>
-        <spirit:fileType>vhdlSource</spirit:fileType>
-        <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
-      </spirit:file>
-      <spirit:file>
-        <spirit:name>hdl/vhdl/HLS_accel_out_0.vhd</spirit:name>
+        <spirit:name>hdl/vhdl/HLS_accel_out.vhd</spirit:name>
         <spirit:fileType>vhdlSource</spirit:fileType>
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
@@ -1842,7 +1860,7 @@ resolve_type immediate dependency {} format string minimum {} maximum {}} value 
     </spirit:parameter>
     <spirit:parameter>
       <spirit:name>latency</spirit:name>
-      <spirit:value spirit:id="PARAM_VALUE.latency" spirit:order="5">87685</spirit:value>
+      <spirit:value spirit:id="PARAM_VALUE.latency" spirit:order="5">14811</spirit:value>
     </spirit:parameter>
     <spirit:parameter>
       <spirit:name>II</spirit:name>
@@ -1859,17 +1877,17 @@ resolve_type immediate dependency {} format string minimum {} maximum {}} value 
       </xilinx:taxonomies>
       <xilinx:displayName>Hls_accel</xilinx:displayName>
       <xilinx:definitionSource>HLS</xilinx:definitionSource>
-      <xilinx:coreRevision>2113847051</xilinx:coreRevision>
-      <xilinx:coreCreationDateTime>2024-12-01T23:11:19Z</xilinx:coreCreationDateTime>
+      <xilinx:coreRevision>2113849929</xilinx:coreRevision>
+      <xilinx:coreCreationDateTime>2024-12-03T23:09:34Z</xilinx:coreCreationDateTime>
     </xilinx:coreExtensions>
     <xilinx:packagingInfo>
       <xilinx:xilinxVersion>2018.3</xilinx:xilinxVersion>
       <xilinx:checksum xilinx:scope="busInterfaces" xilinx:value="f7178e66"/>
       <xilinx:checksum xilinx:scope="memoryMaps" xilinx:value="df45e9ab"/>
-      <xilinx:checksum xilinx:scope="fileGroups" xilinx:value="03145be8"/>
+      <xilinx:checksum xilinx:scope="fileGroups" xilinx:value="fa3300cf"/>
       <xilinx:checksum xilinx:scope="ports" xilinx:value="664d353c"/>
       <xilinx:checksum xilinx:scope="hdlParameters" xilinx:value="29db3f49"/>
-      <xilinx:checksum xilinx:scope="parameters" xilinx:value="e8156a07"/>
+      <xilinx:checksum xilinx:scope="parameters" xilinx:value="9ebb98d5"/>
     </xilinx:packagingInfo>
   </spirit:vendorExtensions>
 </spirit:component>

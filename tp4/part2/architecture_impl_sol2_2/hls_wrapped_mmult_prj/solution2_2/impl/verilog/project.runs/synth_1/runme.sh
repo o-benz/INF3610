@@ -24,7 +24,7 @@ else
 fi
 export LD_LIBRARY_PATH
 
-HD_PWD='C:/Temp/code_de_depart_partie2/architecture_impl_sol2_2/hls_wrapped_mmult_prj/solution2_2/impl/verilog/project.runs/synth_1'
+HD_PWD='C:/part2/architecture_impl_sol2_2/hls_wrapped_mmult_prj/solution2_2/impl/verilog/project.runs/synth_1'
 cd "$HD_PWD"
 
 HD_LOG=runme.log

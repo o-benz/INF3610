@@ -1,0 +1,23 @@
+<AutoPilot:solution xmlns:AutoPilot="com.autoesl.autopilot.solution">
+    <config>
+        <config_compile blackbox=""/>
+        <schedule model="mmult_hw"/>
+    </config>
+    <name>
+        <value string="solution2_1"/>
+    </name>
+    <project>
+        <value string="hls_mmult_prj"/>
+    </project>
+    <targetInfo>
+        <TargetInfo value="xc7z020:clg484:-1"/>
+    </targetInfo>
+    <libraryList>
+        <library value="xilinx/zynq/zynq" name="DefaultPlatform"/>
+        <library value="xilinx/zynq/zynq_fpv6" name="DefaultPlatform"/>
+    </libraryList>
+    <clockList>
+        <clock name="default" default="false" period="10"/>
+    </clockList>
+</AutoPilot:solution>
+

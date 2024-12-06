@@ -1,0 +1,299 @@
+
+
+================================================================
+== Vivado HLS Report for 'mmult_hw'
+================================================================
+* Date:           Mon Dec  2 03:59:27 2024
+
+* Version:        2018.3 (Build 2405991 on Thu Dec 06 23:56:15 MST 2018)
+* Project:        hls_mmult_prj
+* Solution:       solution2_1
+* Product family: zynq
+* Target device:  xc7z020clg484-1
+
+
+================================================================
+== Performance Estimates
+================================================================
++ Timing (ns): 
+    * Summary: 
+    +--------+-------+----------+------------+
+    |  Clock | Target| Estimated| Uncertainty|
+    +--------+-------+----------+------------+
+    |ap_clk  |  10.00|     7.614|        1.25|
+    +--------+-------+----------+------------+
+
++ Latency (clock cycles): 
+    * Summary: 
+    +--------+--------+--------+--------+---------+
+    |     Latency     |     Interval    | Pipeline|
+    |   min  |   max  |   min  |   max  |   Type  |
+    +--------+--------+--------+--------+---------+
+    |  818581|  818581|  818581|  818581|   none  |
+    +--------+--------+--------+--------+---------+
+
+    + Detail: 
+        * Instance: 
+        N/A
+
+        * Loop: 
+        +----------+--------+--------+----------+-----------+-----------+------+----------+
+        |          |     Latency     | Iteration|  Initiation Interval  | Trip |          |
+        | Loop Name|   min  |   max  |  Latency |  achieved |   target  | Count| Pipelined|
+        +----------+--------+--------+----------+-----------+-----------+------+----------+
+        |- L1      |  818580|  818580|     19490|          -|          -|    42|    no    |
+        | + L2     |   19488|   19488|       464|          -|          -|    42|    no    |
+        |  ++ L3   |     462|     462|        11|          -|          -|    42|    no    |
+        +----------+--------+--------+----------+-----------+-----------+------+----------+
+
+============================================================
++ Verbose Summary: Synthesis Manager
+============================================================
+InlineROM: 1
+ExposeGlobal: 0
+============================================================
++ Verbose Summary: CDFG Model
+============================================================
+IsTopModel: 1
+ResetActiveHigh: 1
+IsCombinational: 0
+IsDatapathOnly: 0
+HasWiredReturn: 1
+HasMFsm: 0
+HasVarLatency: 1
+IsPipeline: 0
+IsRtlPipelined: 0
+IsInstanceOverlapped: 0
+IsDontTouch: 0
+HasImplIP: 0
+IsGatedGlobalClock: 0
+
+
+============================================================
++ Verbose Summary: Schedule
+============================================================
+* Number of FSM states : 14
+* Pipeline : 0
+* Dataflow Pipeline: 0
+
+* FSM state transitions: 
+1 --> 
+	2  / true
+2 --> 
+	3  / (!exitcond2)
+3 --> 
+	4  / (!exitcond1)
+	2  / (exitcond1)
+4 --> 
+	5  / (!exitcond)
+	3  / (exitcond)
+5 --> 
+	6  / true
+6 --> 
+	7  / true
+7 --> 
+	8  / true
+8 --> 
+	9  / true
+9 --> 
+	10  / true
+10 --> 
+	11  / true
+11 --> 
+	12  / true
+12 --> 
+	13  / true
+13 --> 
+	14  / true
+14 --> 
+	4  / true
+
+* FSM state operations: 
+
+State 1 <SV = 0> <Delay = 1.76>
+ST_1 : Operation 15 [1/1] (0.00ns)   --->   "call void (...)* @_ssdm_op_SpecBitsMap([1764 x half]* %a) nounwind, !map !7"   --->   Operation 15 'specbitsmap' <Predicate = true> <Delay = 0.00>
+ST_1 : Operation 16 [1/1] (0.00ns)   --->   "call void (...)* @_ssdm_op_SpecBitsMap([1764 x half]* %b) nounwind, !map !13"   --->   Operation 16 'specbitsmap' <Predicate = true> <Delay = 0.00>
+ST_1 : Operation 17 [1/1] (0.00ns)   --->   "call void (...)* @_ssdm_op_SpecBitsMap([1764 x half]* %out_r) nounwind, !map !17"   --->   Operation 17 'specbitsmap' <Predicate = true> <Delay = 0.00>
+ST_1 : Operation 18 [1/1] (0.00ns)   --->   "call void (...)* @_ssdm_op_SpecTopModule([9 x i8]* @mmult_hw_str) nounwind"   --->   Operation 18 'spectopmodule' <Predicate = true> <Delay = 0.00>
+ST_1 : Operation 19 [1/1] (1.76ns)   --->   "br label %1" [mmult_accel.cpp:15]   --->   Operation 19 'br' <Predicate = true> <Delay = 1.76>
+
+State 2 <SV = 1> <Delay = 1.82>
+ST_2 : Operation 20 [1/1] (0.00ns)   --->   "%ia = phi i6 [ 0, %0 ], [ %ia_1, %8 ]"   --->   Operation 20 'phi' 'ia' <Predicate = true> <Delay = 0.00>
+ST_2 : Operation 21 [1/1] (0.00ns)   --->   "%phi_mul1 = phi i11 [ 0, %0 ], [ %next_mul2, %8 ]"   --->   Operation 21 'phi' 'phi_mul1' <Predicate = true> <Delay = 0.00>
+ST_2 : Operation 22 [1/1] (1.63ns)   --->   "%next_mul2 = add i11 %phi_mul1, 42"   --->   Operation 22 'add' 'next_mul2' <Predicate = true> <Delay = 1.63> <Core = "AddSub">   --->   Core 14 'AddSub' <Latency = 0> <II = 1> <Delay = 1.63> <FuncUnit> <Opcode : 'add' 'sub'> <InPorts = 2> <OutPorts = 1>
+ST_2 : Operation 23 [1/1] (1.42ns)   --->   "%exitcond2 = icmp eq i6 %ia, -22" [mmult_accel.cpp:15]   --->   Operation 23 'icmp' 'exitcond2' <Predicate = true> <Delay = 1.42> <Core = "Cmp">   --->   Core 25 'Cmp' <Latency = 0> <II = 1> <Delay = 1.42> <FuncUnit> <Opcode : 'icmp'> <InPorts = 2> <OutPorts = 1>
+ST_2 : Operation 24 [1/1] (0.00ns)   --->   "%empty = call i32 (...)* @_ssdm_op_SpecLoopTripCount(i64 42, i64 42, i64 42) nounwind"   --->   Operation 24 'speclooptripcount' 'empty' <Predicate = true> <Delay = 0.00>
+ST_2 : Operation 25 [1/1] (1.82ns)   --->   "%ia_1 = add i6 %ia, 1" [mmult_accel.cpp:15]   --->   Operation 25 'add' 'ia_1' <Predicate = true> <Delay = 1.82> <Core = "AddSub">   --->   Core 14 'AddSub' <Latency = 0> <II = 1> <Delay = 1.63> <FuncUnit> <Opcode : 'add' 'sub'> <InPorts = 2> <OutPorts = 1>
+ST_2 : Operation 26 [1/1] (0.00ns)   --->   "br i1 %exitcond2, label %9, label %2" [mmult_accel.cpp:15]   --->   Operation 26 'br' <Predicate = true> <Delay = 0.00>
+ST_2 : Operation 27 [1/1] (0.00ns)   --->   "call void (...)* @_ssdm_op_SpecLoopName([3 x i8]* @p_str) nounwind" [mmult_accel.cpp:16]   --->   Operation 27 'specloopname' <Predicate = (!exitcond2)> <Delay = 0.00>
+ST_2 : Operation 28 [1/1] (0.00ns)   --->   "%tmp_1 = call i32 (...)* @_ssdm_op_SpecRegionBegin([3 x i8]* @p_str) nounwind" [mmult_accel.cpp:16]   --->   Operation 28 'specregionbegin' 'tmp_1' <Predicate = (!exitcond2)> <Delay = 0.00>
+ST_2 : Operation 29 [1/1] (1.76ns)   --->   "br label %3" [mmult_accel.cpp:16]   --->   Operation 29 'br' <Predicate = (!exitcond2)> <Delay = 1.76>
+ST_2 : Operation 30 [1/1] (0.00ns)   --->   "ret void" [mmult_accel.cpp:26]   --->   Operation 30 'ret' <Predicate = (exitcond2)> <Delay = 0.00>
+
+State 3 <SV = 2> <Delay = 1.82>
+ST_3 : Operation 31 [1/1] (0.00ns)   --->   "%ib = phi i6 [ 0, %2 ], [ %ib_1, %7 ]"   --->   Operation 31 'phi' 'ib' <Predicate = true> <Delay = 0.00>
+ST_3 : Operation 32 [1/1] (1.42ns)   --->   "%exitcond1 = icmp eq i6 %ib, -22" [mmult_accel.cpp:16]   --->   Operation 32 'icmp' 'exitcond1' <Predicate = true> <Delay = 1.42> <Core = "Cmp">   --->   Core 25 'Cmp' <Latency = 0> <II = 1> <Delay = 1.42> <FuncUnit> <Opcode : 'icmp'> <InPorts = 2> <OutPorts = 1>
+ST_3 : Operation 33 [1/1] (0.00ns)   --->   "%empty_2 = call i32 (...)* @_ssdm_op_SpecLoopTripCount(i64 42, i64 42, i64 42) nounwind"   --->   Operation 33 'speclooptripcount' 'empty_2' <Predicate = true> <Delay = 0.00>
+ST_3 : Operation 34 [1/1] (1.82ns)   --->   "%ib_1 = add i6 %ib, 1" [mmult_accel.cpp:16]   --->   Operation 34 'add' 'ib_1' <Predicate = true> <Delay = 1.82> <Core = "AddSub">   --->   Core 14 'AddSub' <Latency = 0> <II = 1> <Delay = 1.63> <FuncUnit> <Opcode : 'add' 'sub'> <InPorts = 2> <OutPorts = 1>
+ST_3 : Operation 35 [1/1] (0.00ns)   --->   "br i1 %exitcond1, label %8, label %4" [mmult_accel.cpp:16]   --->   Operation 35 'br' <Predicate = true> <Delay = 0.00>
+ST_3 : Operation 36 [1/1] (0.00ns)   --->   "call void (...)* @_ssdm_op_SpecLoopName([3 x i8]* @p_str1) nounwind" [mmult_accel.cpp:17]   --->   Operation 36 'specloopname' <Predicate = (!exitcond1)> <Delay = 0.00>
+ST_3 : Operation 37 [1/1] (0.00ns)   --->   "%tmp_3 = call i32 (...)* @_ssdm_op_SpecRegionBegin([3 x i8]* @p_str1) nounwind" [mmult_accel.cpp:17]   --->   Operation 37 'specregionbegin' 'tmp_3' <Predicate = (!exitcond1)> <Delay = 0.00>
+ST_3 : Operation 38 [1/1] (0.00ns)   --->   "%tmp_2_cast = zext i6 %ib to i11" [mmult_accel.cpp:22]   --->   Operation 38 'zext' 'tmp_2_cast' <Predicate = (!exitcond1)> <Delay = 0.00>
+ST_3 : Operation 39 [1/1] (1.63ns)   --->   "%tmp_7 = add i11 %phi_mul1, %tmp_2_cast" [mmult_accel.cpp:22]   --->   Operation 39 'add' 'tmp_7' <Predicate = (!exitcond1)> <Delay = 1.63> <Core = "AddSub">   --->   Core 14 'AddSub' <Latency = 0> <II = 1> <Delay = 1.63> <FuncUnit> <Opcode : 'add' 'sub'> <InPorts = 2> <OutPorts = 1>
+ST_3 : Operation 40 [1/1] (0.00ns)   --->   "%tmp_7_cast = zext i11 %tmp_7 to i64" [mmult_accel.cpp:22]   --->   Operation 40 'zext' 'tmp_7_cast' <Predicate = (!exitcond1)> <Delay = 0.00>
+ST_3 : Operation 41 [1/1] (0.00ns)   --->   "%out_addr = getelementptr [1764 x half]* %out_r, i64 0, i64 %tmp_7_cast" [mmult_accel.cpp:22]   --->   Operation 41 'getelementptr' 'out_addr' <Predicate = (!exitcond1)> <Delay = 0.00>
+ST_3 : Operation 42 [1/1] (1.76ns)   --->   "br label %5" [mmult_accel.cpp:20]   --->   Operation 42 'br' <Predicate = (!exitcond1)> <Delay = 1.76>
+ST_3 : Operation 43 [1/1] (0.00ns)   --->   "%empty_5 = call i32 (...)* @_ssdm_op_SpecRegionEnd([3 x i8]* @p_str, i32 %tmp_1) nounwind" [mmult_accel.cpp:23]   --->   Operation 43 'specregionend' 'empty_5' <Predicate = (exitcond1)> <Delay = 0.00>
+ST_3 : Operation 44 [1/1] (0.00ns)   --->   "br label %1" [mmult_accel.cpp:15]   --->   Operation 44 'br' <Predicate = (exitcond1)> <Delay = 0.00>
+
+State 4 <SV = 3> <Delay = 4.89>
+ST_4 : Operation 45 [1/1] (0.00ns)   --->   "%sum = phi half [ 0x0, %4 ], [ %sum_1, %6 ]"   --->   Operation 45 'phi' 'sum' <Predicate = true> <Delay = 0.00>
+ST_4 : Operation 46 [1/1] (0.00ns)   --->   "%id = phi i6 [ 0, %4 ], [ %id_1, %6 ]"   --->   Operation 46 'phi' 'id' <Predicate = true> <Delay = 0.00>
+ST_4 : Operation 47 [1/1] (0.00ns)   --->   "%phi_mul = phi i11 [ 0, %4 ], [ %next_mul, %6 ]"   --->   Operation 47 'phi' 'phi_mul' <Predicate = true> <Delay = 0.00>
+ST_4 : Operation 48 [1/1] (1.42ns)   --->   "%exitcond = icmp eq i6 %id, -22" [mmult_accel.cpp:20]   --->   Operation 48 'icmp' 'exitcond' <Predicate = true> <Delay = 1.42> <Core = "Cmp">   --->   Core 25 'Cmp' <Latency = 0> <II = 1> <Delay = 1.42> <FuncUnit> <Opcode : 'icmp'> <InPorts = 2> <OutPorts = 1>
+ST_4 : Operation 49 [1/1] (0.00ns)   --->   "%empty_3 = call i32 (...)* @_ssdm_op_SpecLoopTripCount(i64 42, i64 42, i64 42) nounwind"   --->   Operation 49 'speclooptripcount' 'empty_3' <Predicate = true> <Delay = 0.00>
+ST_4 : Operation 50 [1/1] (1.82ns)   --->   "%id_1 = add i6 %id, 1" [mmult_accel.cpp:20]   --->   Operation 50 'add' 'id_1' <Predicate = true> <Delay = 1.82> <Core = "AddSub">   --->   Core 14 'AddSub' <Latency = 0> <II = 1> <Delay = 1.63> <FuncUnit> <Opcode : 'add' 'sub'> <InPorts = 2> <OutPorts = 1>
+ST_4 : Operation 51 [1/1] (0.00ns)   --->   "br i1 %exitcond, label %7, label %6" [mmult_accel.cpp:20]   --->   Operation 51 'br' <Predicate = true> <Delay = 0.00>
+ST_4 : Operation 52 [1/1] (0.00ns)   --->   "%tmp_4_cast = zext i6 %id to i11" [mmult_accel.cpp:21]   --->   Operation 52 'zext' 'tmp_4_cast' <Predicate = (!exitcond)> <Delay = 0.00>
+ST_4 : Operation 53 [1/1] (1.63ns)   --->   "%tmp_8 = add i11 %phi_mul1, %tmp_4_cast" [mmult_accel.cpp:21]   --->   Operation 53 'add' 'tmp_8' <Predicate = (!exitcond)> <Delay = 1.63> <Core = "AddSub">   --->   Core 14 'AddSub' <Latency = 0> <II = 1> <Delay = 1.63> <FuncUnit> <Opcode : 'add' 'sub'> <InPorts = 2> <OutPorts = 1>
+ST_4 : Operation 54 [1/1] (0.00ns)   --->   "%tmp_8_cast = zext i11 %tmp_8 to i64" [mmult_accel.cpp:21]   --->   Operation 54 'zext' 'tmp_8_cast' <Predicate = (!exitcond)> <Delay = 0.00>
+ST_4 : Operation 55 [1/1] (0.00ns)   --->   "%a_addr = getelementptr [1764 x half]* %a, i64 0, i64 %tmp_8_cast" [mmult_accel.cpp:21]   --->   Operation 55 'getelementptr' 'a_addr' <Predicate = (!exitcond)> <Delay = 0.00>
+ST_4 : Operation 56 [1/1] (1.63ns)   --->   "%next_mul = add i11 %phi_mul, 42"   --->   Operation 56 'add' 'next_mul' <Predicate = (!exitcond)> <Delay = 1.63> <Core = "AddSub">   --->   Core 14 'AddSub' <Latency = 0> <II = 1> <Delay = 1.63> <FuncUnit> <Opcode : 'add' 'sub'> <InPorts = 2> <OutPorts = 1>
+ST_4 : Operation 57 [1/1] (1.63ns)   --->   "%tmp_s = add i11 %phi_mul, %tmp_2_cast" [mmult_accel.cpp:21]   --->   Operation 57 'add' 'tmp_s' <Predicate = (!exitcond)> <Delay = 1.63> <Core = "AddSub">   --->   Core 14 'AddSub' <Latency = 0> <II = 1> <Delay = 1.63> <FuncUnit> <Opcode : 'add' 'sub'> <InPorts = 2> <OutPorts = 1>
+ST_4 : Operation 58 [1/1] (0.00ns)   --->   "%tmp_10_cast = zext i11 %tmp_s to i64" [mmult_accel.cpp:21]   --->   Operation 58 'zext' 'tmp_10_cast' <Predicate = (!exitcond)> <Delay = 0.00>
+ST_4 : Operation 59 [1/1] (0.00ns)   --->   "%b_addr = getelementptr [1764 x half]* %b, i64 0, i64 %tmp_10_cast" [mmult_accel.cpp:21]   --->   Operation 59 'getelementptr' 'b_addr' <Predicate = (!exitcond)> <Delay = 0.00>
+ST_4 : Operation 60 [2/2] (3.25ns)   --->   "%a_load = load half* %a_addr, align 2" [mmult_accel.cpp:21]   --->   Operation 60 'load' 'a_load' <Predicate = (!exitcond)> <Delay = 3.25> <Core = "RAM">   --->   Core 37 'RAM' <Latency = 1> <II = 1> <Delay = 3.25> <Storage> <Opcode : 'load' 'store'> <Ports = 2> <Width = 16> <Depth = 1764> <RAM>
+ST_4 : Operation 61 [2/2] (3.25ns)   --->   "%b_load = load half* %b_addr, align 2" [mmult_accel.cpp:21]   --->   Operation 61 'load' 'b_load' <Predicate = (!exitcond)> <Delay = 3.25> <Core = "RAM">   --->   Core 37 'RAM' <Latency = 1> <II = 1> <Delay = 3.25> <Storage> <Opcode : 'load' 'store'> <Ports = 2> <Width = 16> <Depth = 1764> <RAM>
+ST_4 : Operation 62 [1/1] (3.25ns)   --->   "store half %sum, half* %out_addr, align 2" [mmult_accel.cpp:22]   --->   Operation 62 'store' <Predicate = (exitcond)> <Delay = 3.25> <Core = "RAM">   --->   Core 37 'RAM' <Latency = 1> <II = 1> <Delay = 3.25> <Storage> <Opcode : 'load' 'store'> <Ports = 2> <Width = 16> <Depth = 1764> <RAM>
+ST_4 : Operation 63 [1/1] (0.00ns)   --->   "%empty_4 = call i32 (...)* @_ssdm_op_SpecRegionEnd([3 x i8]* @p_str1, i32 %tmp_3) nounwind" [mmult_accel.cpp:23]   --->   Operation 63 'specregionend' 'empty_4' <Predicate = (exitcond)> <Delay = 0.00>
+ST_4 : Operation 64 [1/1] (0.00ns)   --->   "br label %3" [mmult_accel.cpp:16]   --->   Operation 64 'br' <Predicate = (exitcond)> <Delay = 0.00>
+
+State 5 <SV = 4> <Delay = 3.25>
+ST_5 : Operation 65 [1/2] (3.25ns)   --->   "%a_load = load half* %a_addr, align 2" [mmult_accel.cpp:21]   --->   Operation 65 'load' 'a_load' <Predicate = true> <Delay = 3.25> <Core = "RAM">   --->   Core 37 'RAM' <Latency = 1> <II = 1> <Delay = 3.25> <Storage> <Opcode : 'load' 'store'> <Ports = 2> <Width = 16> <Depth = 1764> <RAM>
+ST_5 : Operation 66 [1/2] (3.25ns)   --->   "%b_load = load half* %b_addr, align 2" [mmult_accel.cpp:21]   --->   Operation 66 'load' 'b_load' <Predicate = true> <Delay = 3.25> <Core = "RAM">   --->   Core 37 'RAM' <Latency = 1> <II = 1> <Delay = 3.25> <Storage> <Opcode : 'load' 'store'> <Ports = 2> <Width = 16> <Depth = 1764> <RAM>
+
+State 6 <SV = 5> <Delay = 6.86>
+ST_6 : Operation 67 [4/4] (6.86ns)   --->   "%tmp_5 = fmul half %a_load, %b_load" [mmult_accel.cpp:21]   --->   Operation 67 'hmul' 'tmp_5' <Predicate = true> <Delay = 6.86> <Core = "HMul">   --->   Core 90 'HMul' <Latency = 3> <II = 1> <Delay = 6.86> <FuncUnit> <Opcode : 'hmul'> <InPorts = 2> <OutPorts = 1>
+
+State 7 <SV = 6> <Delay = 6.86>
+ST_7 : Operation 68 [3/4] (6.86ns)   --->   "%tmp_5 = fmul half %a_load, %b_load" [mmult_accel.cpp:21]   --->   Operation 68 'hmul' 'tmp_5' <Predicate = true> <Delay = 6.86> <Core = "HMul">   --->   Core 90 'HMul' <Latency = 3> <II = 1> <Delay = 6.86> <FuncUnit> <Opcode : 'hmul'> <InPorts = 2> <OutPorts = 1>
+
+State 8 <SV = 7> <Delay = 6.86>
+ST_8 : Operation 69 [2/4] (6.86ns)   --->   "%tmp_5 = fmul half %a_load, %b_load" [mmult_accel.cpp:21]   --->   Operation 69 'hmul' 'tmp_5' <Predicate = true> <Delay = 6.86> <Core = "HMul">   --->   Core 90 'HMul' <Latency = 3> <II = 1> <Delay = 6.86> <FuncUnit> <Opcode : 'hmul'> <InPorts = 2> <OutPorts = 1>
+
+State 9 <SV = 8> <Delay = 6.86>
+ST_9 : Operation 70 [1/4] (6.86ns)   --->   "%tmp_5 = fmul half %a_load, %b_load" [mmult_accel.cpp:21]   --->   Operation 70 'hmul' 'tmp_5' <Predicate = true> <Delay = 6.86> <Core = "HMul">   --->   Core 90 'HMul' <Latency = 3> <II = 1> <Delay = 6.86> <FuncUnit> <Opcode : 'hmul'> <InPorts = 2> <OutPorts = 1>
+
+State 10 <SV = 9> <Delay = 7.61>
+ST_10 : Operation 71 [5/5] (7.61ns)   --->   "%sum_1 = fadd half %sum, %tmp_5" [mmult_accel.cpp:21]   --->   Operation 71 'hadd' 'sum_1' <Predicate = true> <Delay = 7.61> <Core = "HAddSub">   --->   Core 89 'HAddSub' <Latency = 4> <II = 1> <Delay = 7.61> <FuncUnit> <Opcode : 'hadd' 'hsub'> <InPorts = 2> <OutPorts = 1>
+
+State 11 <SV = 10> <Delay = 7.61>
+ST_11 : Operation 72 [4/5] (7.61ns)   --->   "%sum_1 = fadd half %sum, %tmp_5" [mmult_accel.cpp:21]   --->   Operation 72 'hadd' 'sum_1' <Predicate = true> <Delay = 7.61> <Core = "HAddSub">   --->   Core 89 'HAddSub' <Latency = 4> <II = 1> <Delay = 7.61> <FuncUnit> <Opcode : 'hadd' 'hsub'> <InPorts = 2> <OutPorts = 1>
+
+State 12 <SV = 11> <Delay = 7.61>
+ST_12 : Operation 73 [3/5] (7.61ns)   --->   "%sum_1 = fadd half %sum, %tmp_5" [mmult_accel.cpp:21]   --->   Operation 73 'hadd' 'sum_1' <Predicate = true> <Delay = 7.61> <Core = "HAddSub">   --->   Core 89 'HAddSub' <Latency = 4> <II = 1> <Delay = 7.61> <FuncUnit> <Opcode : 'hadd' 'hsub'> <InPorts = 2> <OutPorts = 1>
+
+State 13 <SV = 12> <Delay = 7.61>
+ST_13 : Operation 74 [2/5] (7.61ns)   --->   "%sum_1 = fadd half %sum, %tmp_5" [mmult_accel.cpp:21]   --->   Operation 74 'hadd' 'sum_1' <Predicate = true> <Delay = 7.61> <Core = "HAddSub">   --->   Core 89 'HAddSub' <Latency = 4> <II = 1> <Delay = 7.61> <FuncUnit> <Opcode : 'hadd' 'hsub'> <InPorts = 2> <OutPorts = 1>
+
+State 14 <SV = 13> <Delay = 7.61>
+ST_14 : Operation 75 [1/1] (0.00ns)   --->   "call void (...)* @_ssdm_op_SpecLoopName([3 x i8]* @p_str2) nounwind" [mmult_accel.cpp:21]   --->   Operation 75 'specloopname' <Predicate = true> <Delay = 0.00>
+ST_14 : Operation 76 [1/5] (7.61ns)   --->   "%sum_1 = fadd half %sum, %tmp_5" [mmult_accel.cpp:21]   --->   Operation 76 'hadd' 'sum_1' <Predicate = true> <Delay = 7.61> <Core = "HAddSub">   --->   Core 89 'HAddSub' <Latency = 4> <II = 1> <Delay = 7.61> <FuncUnit> <Opcode : 'hadd' 'hsub'> <InPorts = 2> <OutPorts = 1>
+ST_14 : Operation 77 [1/1] (0.00ns)   --->   "br label %5" [mmult_accel.cpp:20]   --->   Operation 77 'br' <Predicate = true> <Delay = 0.00>
+
+
+============================================================
++ Verbose Summary: Timing violations
+============================================================
+Target clock period: 10ns, clock uncertainty: 1.25ns.
+
+ <State 1>: 1.77ns
+The critical path consists of the following:
+	multiplexor before 'phi' operation ('ia') with incoming values : ('ia', mmult_accel.cpp:15) [10]  (1.77 ns)
+
+ <State 2>: 1.83ns
+The critical path consists of the following:
+	'phi' operation ('ia') with incoming values : ('ia', mmult_accel.cpp:15) [10]  (0 ns)
+	'add' operation ('ia', mmult_accel.cpp:15) [15]  (1.83 ns)
+
+ <State 3>: 1.83ns
+The critical path consists of the following:
+	'phi' operation ('ib') with incoming values : ('ib', mmult_accel.cpp:16) [22]  (0 ns)
+	'add' operation ('ib', mmult_accel.cpp:16) [25]  (1.83 ns)
+
+ <State 4>: 4.89ns
+The critical path consists of the following:
+	'phi' operation ('id') with incoming values : ('id', mmult_accel.cpp:20) [37]  (0 ns)
+	'add' operation ('tmp_8', mmult_accel.cpp:21) [46]  (1.64 ns)
+	'getelementptr' operation ('a_addr', mmult_accel.cpp:21) [48]  (0 ns)
+	'load' operation ('a_load', mmult_accel.cpp:21) on array 'a' [53]  (3.25 ns)
+
+ <State 5>: 3.25ns
+The critical path consists of the following:
+	'load' operation ('a_load', mmult_accel.cpp:21) on array 'a' [53]  (3.25 ns)
+
+ <State 6>: 6.87ns
+The critical path consists of the following:
+	'hmul' operation ('tmp_5', mmult_accel.cpp:21) [55]  (6.87 ns)
+
+ <State 7>: 6.87ns
+The critical path consists of the following:
+	'hmul' operation ('tmp_5', mmult_accel.cpp:21) [55]  (6.87 ns)
+
+ <State 8>: 6.87ns
+The critical path consists of the following:
+	'hmul' operation ('tmp_5', mmult_accel.cpp:21) [55]  (6.87 ns)
+
+ <State 9>: 6.87ns
+The critical path consists of the following:
+	'hmul' operation ('tmp_5', mmult_accel.cpp:21) [55]  (6.87 ns)
+
+ <State 10>: 7.61ns
+The critical path consists of the following:
+	'hadd' operation ('sum', mmult_accel.cpp:21) [56]  (7.61 ns)
+
+ <State 11>: 7.61ns
+The critical path consists of the following:
+	'hadd' operation ('sum', mmult_accel.cpp:21) [56]  (7.61 ns)
+
+ <State 12>: 7.61ns
+The critical path consists of the following:
+	'hadd' operation ('sum', mmult_accel.cpp:21) [56]  (7.61 ns)
+
+ <State 13>: 7.61ns
+The critical path consists of the following:
+	'hadd' operation ('sum', mmult_accel.cpp:21) [56]  (7.61 ns)
+
+ <State 14>: 7.61ns
+The critical path consists of the following:
+	'hadd' operation ('sum', mmult_accel.cpp:21) [56]  (7.61 ns)
+
+
+============================================================
++ Verbose Summary: Binding
+============================================================
+N/A
+* FSMD analyzer results:
+  - Output states:
+ - Input state : 
+  - Chain level:
+	State 1
+	State 2
+	State 3
+	State 4
+	State 5
+	State 6
+	State 7
+	State 8
+	State 9
+	State 10
+	State 11
+	State 12
+	State 13
+	State 14
+
+
+============================================================
++ Verbose Summary: Datapath Resource usage 
+============================================================
+N/A

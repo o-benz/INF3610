@@ -48,11 +48,11 @@
 
 
 // IP VLNV: xilinx.com:hls:HLS_accel:1.0
-// IP Revision: 2113847032
+// IP Revision: 2113850502
 
 (* X_CORE_INFO = "HLS_accel,Vivado 2018.3" *)
 (* CHECK_LICENSE_TYPE = "bd_0_hls_inst_0,HLS_accel,{}" *)
-(* CORE_GENERATION_INFO = "bd_0_hls_inst_0,HLS_accel,{x_ipProduct=Vivado 2018.3,x_ipVendor=xilinx.com,x_ipLibrary=hls,x_ipName=HLS_accel,x_ipVersion=1.0,x_ipCoreRevision=2113847032,x_ipLanguage=VERILOG,x_ipSimLanguage=MIXED,C_S_AXI_CONTROL_BUS_ADDR_WIDTH=4,C_S_AXI_CONTROL_BUS_DATA_WIDTH=32}" *)
+(* CORE_GENERATION_INFO = "bd_0_hls_inst_0,HLS_accel,{x_ipProduct=Vivado 2018.3,x_ipVendor=xilinx.com,x_ipLibrary=hls,x_ipName=HLS_accel,x_ipVersion=1.0,x_ipCoreRevision=2113850502,x_ipLanguage=VERILOG,x_ipSimLanguage=MIXED,C_S_AXI_CONTROL_BUS_ADDR_WIDTH=4,C_S_AXI_CONTROL_BUS_DATA_WIDTH=32}" *)
 (* IP_DEFINITION_SOURCE = "HLS" *)
 (* DowngradeIPIdentifiedWarnings = "yes" *)
 module bd_0_hls_inst_0 (

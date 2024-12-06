@@ -13,6 +13,7 @@
     "Speed": "-1"
   },
   "HlsSolution": {
+    "Config": ["config_export -format=ip_catalog"],
     "DirectiveTcl": [
       "set_directive_inline mmult_hw ",
       "set_directive_array_partition mmult_hw ",
@@ -21,8 +22,8 @@
     ],
     "DirectiveInfo": [
       "inline mmult_hw {} {}",
-      "array_partition mmult_hw {{partition positionBooleanCmd} {variable positionBooleanTextRequiredb} {complete positionBoolean0type} {dim 1}} {}",
-      "array_partition mmult_hw {{partition positionBooleanCmd} {variable positionBooleanTextRequireda} {complete positionBoolean0type} {dim 2}} {}",
+      "array_partition mmult_hw {{partition positionBooleanCmd} {variable positionBooleanTextRequiredb} {block positionBoolean0type} {factor 100} {dim 1}} {}",
+      "array_partition mmult_hw {{partition positionBooleanCmd} {variable positionBooleanTextRequireda} {block positionBoolean0type} {factor 100} {dim 2}} {}",
       "pipeline mmult_hw\/L2 {{II 1}} {}"
     ]
   },
@@ -684,10 +685,10 @@
           }
         ],
         "Area": {
-          "BRAM_18K": "464",
+          "BRAM_18K": "264",
           "DSP48E": "203",
-          "FF": "9323",
-          "LUT": "8304"
+          "FF": "9413",
+          "LUT": "5465"
         }
       }}
   },
@@ -701,7 +702,7 @@
   },
   "GenData": {
     "DataVersion": "0.1",
-    "Time": "2024-12-01 21:10:04 -0500",
+    "Time": "2024-12-03 19:01:31 -0500",
     "ToolName": "vivado_hls",
     "ToolVersion": "2018.3"
   }

@@ -82,7 +82,7 @@
       "impl\/misc\/HLS_accel_ap_hadd_3_full_dsp_16_ip.tcl",
       "impl\/misc\/HLS_accel_ap_hmul_2_max_dsp_16_ip.tcl"
     ],
-    "DesignXml": "C:\/Temp\/code_de_depart_partie2\/architecture_impl_sol2_2\/hls_wrapped_mmult_prj\/solution2_2\/.autopilot\/db\/HLS_accel.design.xml"
+    "DesignXml": "C:\/part2\/architecture_impl_sol2_2\/hls_wrapped_mmult_prj\/solution2_2\/.autopilot\/db\/HLS_accel.design.xml"
   },
   "SubcoreInfo": {
     "HasXpmMemory": false,
@@ -717,7 +717,7 @@
   },
   "GenData": {
     "DataVersion": "0.1",
-    "Time": "2024-12-01 17:51:59 -0500",
+    "Time": "2024-12-04 03:42:27 -0500",
     "ToolName": "vivado_hls",
     "ToolVersion": "2018.3"
   }

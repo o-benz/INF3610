@@ -112,7 +112,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item class_id="10" tracking_level="0" version="0">
-                  <first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+                  <first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
                   <second class_id="11" tracking_level="0" version="0">
                     <count>1</count>
                     <item_version>0</item_version>
@@ -269,7 +269,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+                  <first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -318,7 +318,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+                  <first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -367,7 +367,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+                  <first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -417,7 +417,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+                  <first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -502,7 +502,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+                  <first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -551,7 +551,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+                  <first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -600,7 +600,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+                  <first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -650,7 +650,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+                  <first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -698,7 +698,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+                  <first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -747,7 +747,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+                  <first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -795,7 +795,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+                  <first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -845,7 +845,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+                  <first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1004,7 +1004,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+                  <first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1053,7 +1053,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+                  <first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1102,7 +1102,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+                  <first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1152,7 +1152,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+                  <first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1200,7 +1200,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+                  <first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1249,7 +1249,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+                  <first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1297,7 +1297,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+                  <first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1382,7 +1382,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+                  <first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1431,7 +1431,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+                  <first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1479,7 +1479,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+                  <first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1529,7 +1529,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+                  <first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1577,7 +1577,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+                  <first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1625,7 +1625,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+                  <first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1674,7 +1674,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+                  <first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1723,7 +1723,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+                  <first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1771,7 +1771,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+                  <first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1820,7 +1820,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+                  <first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1868,7 +1868,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+                  <first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1916,7 +1916,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+                  <first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>

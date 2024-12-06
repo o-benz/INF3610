@@ -1,10 +1,10 @@
 -- Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
 -- --------------------------------------------------------------------------------
 -- Tool Version: Vivado v.2018.3 (win64) Build 2405991 Thu Dec  6 23:38:27 MST 2018
--- Date        : Sun Dec  1 17:55:46 2024
--- Host        : LAPTOP-G11L2QA5 running 64-bit major release  (build 9200)
+-- Date        : Wed Dec  4 03:48:05 2024
+-- Host        : Yacine running 64-bit major release  (build 9200)
 -- Command     : write_vhdl -force -mode synth_stub
---               c:/Temp/code_de_depart_partie2/architecture_impl_sol2_2/hls_wrapped_mmult_prj/solution2_2/impl/verilog/project.srcs/sources_1/bd/bd_0/ip/bd_0_hls_inst_0/bd_0_hls_inst_0_stub.vhdl
+--               c:/part2/architecture_impl_sol2_2/hls_wrapped_mmult_prj/solution2_2/impl/verilog/project.srcs/sources_1/bd/bd_0/ip/bd_0_hls_inst_0/bd_0_hls_inst_0_stub.vhdl
 -- Design      : bd_0_hls_inst_0
 -- Purpose     : Stub declaration of top-level module interface
 -- Device      : xc7z020clg484-1

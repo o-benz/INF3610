@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="mmult_accel.cpp" path="C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration\mmult_accel.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="mmult_test.cpp" path="C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration\mmult_test.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

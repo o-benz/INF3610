@@ -105,14 +105,14 @@
 						<id>8</id>
 						<name></name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</fileDirectory>
+						<fileDirectory>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</fileDirectory>
 						<lineNumber>14</lineNumber>
 						<contextFuncName>mmult_hw</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item class_id="10" tracking_level="0" version="0">
-								<first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+								<first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
 								<second class_id="11" tracking_level="0" version="0">
 									<count>1</count>
 									<item_version>0</item_version>
@@ -262,14 +262,14 @@
 						<id>13</id>
 						<name>exitcond2</name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</fileDirectory>
+						<fileDirectory>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</fileDirectory>
 						<lineNumber>14</lineNumber>
 						<contextFuncName>mmult_hw</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+								<first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -311,14 +311,14 @@
 						<id>15</id>
 						<name>ia_1</name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</fileDirectory>
+						<fileDirectory>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</fileDirectory>
 						<lineNumber>14</lineNumber>
 						<contextFuncName>mmult_hw</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+								<first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -360,14 +360,14 @@
 						<id>16</id>
 						<name></name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</fileDirectory>
+						<fileDirectory>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</fileDirectory>
 						<lineNumber>14</lineNumber>
 						<contextFuncName>mmult_hw</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+								<first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -410,14 +410,14 @@
 						<id>20</id>
 						<name></name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</fileDirectory>
+						<fileDirectory>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</fileDirectory>
 						<lineNumber>15</lineNumber>
 						<contextFuncName>mmult_hw</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+								<first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -495,14 +495,14 @@
 						<id>23</id>
 						<name>exitcond1</name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</fileDirectory>
+						<fileDirectory>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</fileDirectory>
 						<lineNumber>15</lineNumber>
 						<contextFuncName>mmult_hw</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+								<first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -544,14 +544,14 @@
 						<id>25</id>
 						<name>ib_1</name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</fileDirectory>
+						<fileDirectory>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</fileDirectory>
 						<lineNumber>15</lineNumber>
 						<contextFuncName>mmult_hw</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+								<first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -593,14 +593,14 @@
 						<id>26</id>
 						<name></name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</fileDirectory>
+						<fileDirectory>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</fileDirectory>
 						<lineNumber>15</lineNumber>
 						<contextFuncName>mmult_hw</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+								<first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -643,14 +643,14 @@
 						<id>30</id>
 						<name>tmp_2_cast</name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</fileDirectory>
+						<fileDirectory>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</fileDirectory>
 						<lineNumber>20</lineNumber>
 						<contextFuncName>mmult_hw</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+								<first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -691,14 +691,14 @@
 						<id>31</id>
 						<name>tmp_7</name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</fileDirectory>
+						<fileDirectory>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</fileDirectory>
 						<lineNumber>20</lineNumber>
 						<contextFuncName>mmult_hw</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+								<first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -740,14 +740,14 @@
 						<id>32</id>
 						<name>tmp_7_cast</name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</fileDirectory>
+						<fileDirectory>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</fileDirectory>
 						<lineNumber>20</lineNumber>
 						<contextFuncName>mmult_hw</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+								<first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -788,14 +788,14 @@
 						<id>33</id>
 						<name>out_addr</name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</fileDirectory>
+						<fileDirectory>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</fileDirectory>
 						<lineNumber>20</lineNumber>
 						<contextFuncName>mmult_hw</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+								<first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -838,14 +838,14 @@
 						<id>34</id>
 						<name></name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</fileDirectory>
+						<fileDirectory>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</fileDirectory>
 						<lineNumber>18</lineNumber>
 						<contextFuncName>mmult_hw</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+								<first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -997,14 +997,14 @@
 						<id>39</id>
 						<name>exitcond</name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</fileDirectory>
+						<fileDirectory>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</fileDirectory>
 						<lineNumber>18</lineNumber>
 						<contextFuncName>mmult_hw</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+								<first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1046,14 +1046,14 @@
 						<id>41</id>
 						<name>id_1</name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</fileDirectory>
+						<fileDirectory>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</fileDirectory>
 						<lineNumber>18</lineNumber>
 						<contextFuncName>mmult_hw</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+								<first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1095,14 +1095,14 @@
 						<id>42</id>
 						<name></name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</fileDirectory>
+						<fileDirectory>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</fileDirectory>
 						<lineNumber>18</lineNumber>
 						<contextFuncName>mmult_hw</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+								<first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1145,14 +1145,14 @@
 						<id>45</id>
 						<name>tmp_4_cast</name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</fileDirectory>
+						<fileDirectory>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</fileDirectory>
 						<lineNumber>19</lineNumber>
 						<contextFuncName>mmult_hw</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+								<first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1193,14 +1193,14 @@
 						<id>46</id>
 						<name>tmp_8</name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</fileDirectory>
+						<fileDirectory>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</fileDirectory>
 						<lineNumber>19</lineNumber>
 						<contextFuncName>mmult_hw</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+								<first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1242,14 +1242,14 @@
 						<id>47</id>
 						<name>tmp_8_cast</name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</fileDirectory>
+						<fileDirectory>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</fileDirectory>
 						<lineNumber>19</lineNumber>
 						<contextFuncName>mmult_hw</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+								<first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1290,14 +1290,14 @@
 						<id>48</id>
 						<name>a_addr</name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</fileDirectory>
+						<fileDirectory>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</fileDirectory>
 						<lineNumber>19</lineNumber>
 						<contextFuncName>mmult_hw</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+								<first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1375,14 +1375,14 @@
 						<id>50</id>
 						<name>tmp_s</name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</fileDirectory>
+						<fileDirectory>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</fileDirectory>
 						<lineNumber>19</lineNumber>
 						<contextFuncName>mmult_hw</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+								<first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1424,14 +1424,14 @@
 						<id>51</id>
 						<name>tmp_10_cast</name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</fileDirectory>
+						<fileDirectory>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</fileDirectory>
 						<lineNumber>19</lineNumber>
 						<contextFuncName>mmult_hw</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+								<first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1472,14 +1472,14 @@
 						<id>52</id>
 						<name>b_addr</name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</fileDirectory>
+						<fileDirectory>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</fileDirectory>
 						<lineNumber>19</lineNumber>
 						<contextFuncName>mmult_hw</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+								<first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1522,14 +1522,14 @@
 						<id>53</id>
 						<name>a_load</name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</fileDirectory>
+						<fileDirectory>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</fileDirectory>
 						<lineNumber>19</lineNumber>
 						<contextFuncName>mmult_hw</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+								<first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1570,14 +1570,14 @@
 						<id>54</id>
 						<name>b_load</name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</fileDirectory>
+						<fileDirectory>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</fileDirectory>
 						<lineNumber>19</lineNumber>
 						<contextFuncName>mmult_hw</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+								<first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1618,14 +1618,14 @@
 						<id>55</id>
 						<name>tmp_5</name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</fileDirectory>
+						<fileDirectory>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</fileDirectory>
 						<lineNumber>19</lineNumber>
 						<contextFuncName>mmult_hw</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+								<first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1667,14 +1667,14 @@
 						<id>56</id>
 						<name>sum_1</name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</fileDirectory>
+						<fileDirectory>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</fileDirectory>
 						<lineNumber>19</lineNumber>
 						<contextFuncName>mmult_hw</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+								<first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1716,14 +1716,14 @@
 						<id>57</id>
 						<name></name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</fileDirectory>
+						<fileDirectory>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</fileDirectory>
 						<lineNumber>18</lineNumber>
 						<contextFuncName>mmult_hw</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+								<first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1764,14 +1764,14 @@
 						<id>59</id>
 						<name></name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</fileDirectory>
+						<fileDirectory>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</fileDirectory>
 						<lineNumber>20</lineNumber>
 						<contextFuncName>mmult_hw</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+								<first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1813,14 +1813,14 @@
 						<id>61</id>
 						<name></name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</fileDirectory>
+						<fileDirectory>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</fileDirectory>
 						<lineNumber>15</lineNumber>
 						<contextFuncName>mmult_hw</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+								<first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1861,14 +1861,14 @@
 						<id>64</id>
 						<name></name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</fileDirectory>
+						<fileDirectory>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</fileDirectory>
 						<lineNumber>14</lineNumber>
 						<contextFuncName>mmult_hw</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+								<first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1909,14 +1909,14 @@
 						<id>66</id>
 						<name></name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</fileDirectory>
+						<fileDirectory>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</fileDirectory>
 						<lineNumber>23</lineNumber>
 						<contextFuncName>mmult_hw</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Users\ombenv\Desktop\INF3610\tp4\part1\hls_architecture1\architecture_exploration</first>
+								<first>C:\Users\lexoi\OneDrive\Bureau\Automne2024\INF3610\lab2\code_de_depart\hls_architecture1\architecture_exploration</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>

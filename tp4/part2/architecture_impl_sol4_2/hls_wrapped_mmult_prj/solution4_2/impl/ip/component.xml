@@ -752,7 +752,7 @@ resolve_type immediate dependency {} format string minimum {} maximum {}} value 
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>viewChecksum</spirit:name>
-            <spirit:value>705354af</spirit:value>
+            <spirit:value>fdfb5418</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -768,7 +768,7 @@ resolve_type immediate dependency {} format string minimum {} maximum {}} value 
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>viewChecksum</spirit:name>
-            <spirit:value>f1c3cbdb</spirit:value>
+            <spirit:value>e38e5af7</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -784,7 +784,7 @@ resolve_type immediate dependency {} format string minimum {} maximum {}} value 
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>viewChecksum</spirit:name>
-            <spirit:value>9fe81811</spirit:value>
+            <spirit:value>8ffdf195</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -800,7 +800,7 @@ resolve_type immediate dependency {} format string minimum {} maximum {}} value 
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>viewChecksum</spirit:name>
-            <spirit:value>3b5a73d2</spirit:value>
+            <spirit:value>c17e4651</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -814,7 +814,7 @@ resolve_type immediate dependency {} format string minimum {} maximum {}} value 
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>viewChecksum</spirit:name>
-            <spirit:value>97dfcf6b</spirit:value>
+            <spirit:value>1d5e8c75</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -850,7 +850,7 @@ resolve_type immediate dependency {} format string minimum {} maximum {}} value 
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>viewChecksum</spirit:name>
-            <spirit:value>f3d464d2</spirit:value>
+            <spirit:value>dd8f6ad1</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -1601,7 +1601,7 @@ resolve_type immediate dependency {} format string minimum {} maximum {}} value 
       <spirit:file>
         <spirit:name>hdl/vhdl/HLS_accel.vhd</spirit:name>
         <spirit:fileType>vhdlSource</spirit:fileType>
-        <spirit:userFileType>CHECKSUM_9fa34232</spirit:userFileType>
+        <spirit:userFileType>CHECKSUM_35eef6fc</spirit:userFileType>
       </spirit:file>
     </spirit:fileSet>
     <spirit:fileSet>
@@ -1753,14 +1753,14 @@ resolve_type immediate dependency {} format string minimum {} maximum {}} value 
       </xilinx:taxonomies>
       <xilinx:displayName>Hls_accel</xilinx:displayName>
       <xilinx:definitionSource>HLS</xilinx:definitionSource>
-      <xilinx:coreRevision>2113847230</xilinx:coreRevision>
-      <xilinx:coreCreationDateTime>2024-12-02T02:10:19Z</xilinx:coreCreationDateTime>
+      <xilinx:coreRevision>2113849981</xilinx:coreRevision>
+      <xilinx:coreCreationDateTime>2024-12-04T00:01:39Z</xilinx:coreCreationDateTime>
     </xilinx:coreExtensions>
     <xilinx:packagingInfo>
       <xilinx:xilinxVersion>2018.3</xilinx:xilinxVersion>
       <xilinx:checksum xilinx:scope="busInterfaces" xilinx:value="f7178e66"/>
       <xilinx:checksum xilinx:scope="memoryMaps" xilinx:value="df45e9ab"/>
-      <xilinx:checksum xilinx:scope="fileGroups" xilinx:value="98b7bb2b"/>
+      <xilinx:checksum xilinx:scope="fileGroups" xilinx:value="11e1d05e"/>
       <xilinx:checksum xilinx:scope="ports" xilinx:value="664d353c"/>
       <xilinx:checksum xilinx:scope="hdlParameters" xilinx:value="29db3f49"/>
       <xilinx:checksum xilinx:scope="parameters" xilinx:value="b6c2739d"/>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vivadoHLSLog:LogRoot xmlns:vivadoHLSLog="www.xilinx.com/vivadoHLSLog">
+  <errorLogs>
+    <logs>
+      <synLog/>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </errorLogs>
+  <warningLogs>
+    <logs>
+      <synLog>
+        <logs message="WARNING: [SCHED 204-21] The critical path in module 'mmult_hw' consists of the following:&#xD;&#xA;&#x9;'mul' operation of DSP[243] ('tmp', mmult_accel.cpp:22) [237]  (3.36 ns)&#xD;&#xA;&#x9;'add' operation of DSP[243] ('tmp_1', mmult_accel.cpp:22) [243]  (3.02 ns)&#xD;&#xA;&#x9;'getelementptr' operation ('out_addr', mmult_accel.cpp:22) [245]  (0 ns)&#xD;&#xA;&#x9;'store' operation (mmult_accel.cpp:22) of variable 'sum_1_52', mmult_accel.cpp:21 on array 'out_r' [570]  (3.25 ns)" projectName="hls_mmult_prj" solutionName="solution2_2" date="2024-12-04T01:20:23.317-0500" type="Warning"/>
+        <logs message="WARNING: [SCHED 204-21] Estimated clock period (9.634ns) exceeds the target (target clock period: 10ns, clock uncertainty: 1.25ns, effective delay budget: 8.75ns)." projectName="hls_mmult_prj" solutionName="solution2_2" date="2024-12-04T01:20:23.287-0500" type="Warning"/>
+        <logs message="WARNING: [SYN 201-107] Renaming port name 'mmult_hw/out' to 'mmult_hw/out_r' to avoid the conflict with HDL keywords or other object names." projectName="hls_mmult_prj" solutionName="solution2_2" date="2024-12-04T01:20:22.475-0500" type="Warning"/>
+        <logs message="WARNING: [SCHED 204-69] Unable to schedule 'load' operation ('b_0_load_8', mmult_accel.cpp:21) on array 'b_0' due to limited memory ports. Please consider using a memory core with more ports or partitioning the array 'b_0'." projectName="hls_mmult_prj" solutionName="solution2_3" date="2024-12-03T02:46:37.308-0500" type="Warning"/>
+        <logs message="WARNING: [SYN 201-107] Renaming port name 'mmult_hw/out' to 'mmult_hw/out_r' to avoid the conflict with HDL keywords or other object names." projectName="hls_mmult_prj" solutionName="solution2_3" date="2024-12-03T02:46:30.507-0500" type="Warning"/>
+        <logs message="WARNING: [XFORM 203-503] Ignored partial unroll directive for loop 'L3' (mmult_accel.cpp:21) because its parent loop or function is pipelined." projectName="hls_mmult_prj" solutionName="solution2_3" date="2024-12-03T02:46:27.812-0500" type="Warning"/>
+        <logs message="WARNING: [SYN 201-107] Renaming port name 'mmult_hw/out' to 'mmult_hw/out_r' to avoid the conflict with HDL keywords or other object names." projectName="hls_mmult_prj" solutionName="solution2_1" date="2024-12-02T03:59:27.020-0500" type="Warning"/>
+      </synLog>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </warningLogs>
+</vivadoHLSLog:LogRoot>

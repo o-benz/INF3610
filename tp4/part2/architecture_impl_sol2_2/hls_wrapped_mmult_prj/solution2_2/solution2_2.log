@@ -1,5 +1,5 @@
 ==============================================================
-File generated on Sun Dec 01 16:58:18 -0500 2024
+File generated on Wed Dec 04 01:30:30 -0500 2024
 Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2018.3 (64-bit)
 SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
 IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
@@ -9,17 +9,211 @@ INFO: [HLS 200-10] Setting target device to 'xc7z020clg484-1'
 INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
 INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
 INFO: [HLS 200-10] Analyzing design file 'mmult_accel.cpp' ... 
-INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:01 ; elapsed = 00:00:09 . Memory (MB): peak = 102.684 ; gain = 17.766
-INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:01 ; elapsed = 00:00:09 . Memory (MB): peak = 102.684 ; gain = 17.766
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:01 ; elapsed = 00:00:11 . Memory (MB): peak = 102.414 ; gain = 17.785
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:01 ; elapsed = 00:00:11 . Memory (MB): peak = 102.414 ; gain = 17.785
 INFO: [HLS 200-10] Starting code transformations ...
 INFO: [XFORM 203-603] Inlining function 'pop_stream<decimal16, 4, 5, 5>' into 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' (./mmult.h:150).
 INFO: [XFORM 203-603] Inlining function 'pop_stream<decimal16, 4, 5, 5>' into 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' (./mmult.h:140).
 INFO: [XFORM 203-603] Inlining function 'mmult_hw<decimal16, 54>' into 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' (./mmult.h:154).
 INFO: [XFORM 203-603] Inlining function 'push_stream<decimal16, 4, 5, 5>' into 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' (./mmult.h:162).
 INFO: [XFORM 203-603] Inlining function 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' into 'HLS_accel' (mmult_accel.cpp:26).
-INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:04 ; elapsed = 00:00:13 . Memory (MB): peak = 110.926 ; gain = 26.008
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:07 ; elapsed = 00:00:18 . Memory (MB): peak = 110.906 ; gain = 26.277
 INFO: [HLS 200-10] Checking synthesizability ...
-INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:04 ; elapsed = 00:00:14 . Memory (MB): peak = 111.613 ; gain = 26.695
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:08 ; elapsed = 00:00:19 . Memory (MB): peak = 111.684 ; gain = 27.055
+WARNING: [XFORM 203-1103] Ignored data pack directive on non-struct variable 'OUTPUT_STREAM.data.V' (mmult_accel.cpp:19).
+WARNING: [XFORM 203-1103] Ignored data pack directive on non-struct variable 'INPUT_STREAM.data.V' (mmult_accel.cpp:19).
+INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'L2' (./mmult.h:55) in function 'HLS_accel' for pipelining.
+INFO: [HLS 200-489] Unrolling loop 'L3' (./mmult.h:59) in function 'HLS_accel' completely with a factor of 54.
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:09 ; elapsed = 00:00:20 . Memory (MB): peak = 135.020 ; gain = 50.391
+INFO: [XFORM 203-541] Flattening a loop nest 'Loop-1' (./mmult.h:135:13) in function 'HLS_accel'.
+INFO: [XFORM 203-541] Flattening a loop nest 'Loop-2' (./mmult.h:145:14) in function 'HLS_accel'.
+INFO: [XFORM 203-541] Flattening a loop nest 'L1' (./mmult.h:54:3) in function 'HLS_accel'.
+INFO: [XFORM 203-541] Flattening a loop nest 'Loop-4' (./mmult.h:157:15) in function 'HLS_accel'.
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:10 ; elapsed = 00:00:21 . Memory (MB): peak = 135.980 ; gain = 51.352
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'HLS_accel' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'HLS_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'Loop 1'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 1, Depth = 2.
+INFO: [SCHED 204-61] Pipelining loop 'Loop 2'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 1, Depth = 2.
+INFO: [SCHED 204-61] Pipelining loop 'L1_L2'.
+WARNING: [SCHED 204-69] Unable to schedule 'load' operation ('b_load_2', ./mmult.h:59->./mmult.h:154->mmult_accel.cpp:26) on array 'b', ./mmult.h:129->mmult_accel.cpp:26 due to limited memory ports. Please consider using a memory core with more ports or partitioning the array 'b'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 27, Depth = 278.
+INFO: [SCHED 204-61] Pipelining loop 'Loop 4'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 1, Depth = 4.
+WARNING: [SCHED 204-21] Estimated clock period (9.634ns) exceeds the target (target clock period: 10ns, clock uncertainty: 1.25ns, effective delay budget: 8.75ns).
+WARNING: [SCHED 204-21] The critical path in module 'HLS_accel' consists of the following:
+	'mul' operation of DSP[57] ('tmp', ./mmult.h:140->mmult_accel.cpp:26) [50]  (3.36 ns)
+	'add' operation of DSP[57] ('tmp_1', ./mmult.h:140->mmult_accel.cpp:26) [57]  (3.02 ns)
+	'getelementptr' operation ('a_addr', ./mmult.h:140->mmult_accel.cpp:26) [59]  (0 ns)
+	'store' operation (./mmult.h:140->mmult_accel.cpp:26) of variable 'ret', ./mmult.h:81->./mmult.h:140->mmult_accel.cpp:26 on array 'a', ./mmult.h:128->mmult_accel.cpp:26 [60]  (3.25 ns)
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111]  Elapsed time: 22.881 seconds; current allocated memory: 93.050 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111]  Elapsed time: 1.723 seconds; current allocated memory: 96.790 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'HLS_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/INPUT_STREAM_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/INPUT_STREAM_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/INPUT_STREAM_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/INPUT_STREAM_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/INPUT_STREAM_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/INPUT_STREAM_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/INPUT_STREAM_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/OUTPUT_STREAM_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/OUTPUT_STREAM_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/OUTPUT_STREAM_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/OUTPUT_STREAM_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/OUTPUT_STREAM_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/OUTPUT_STREAM_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/OUTPUT_STREAM_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on function 'HLS_accel' to 's_axilite & ap_ctrl_hs'.
+INFO: [RTGEN 206-100] Bundling port 'return' to AXI-Lite port CONTROL_BUS.
+INFO: [SYN 201-210] Renamed object name 'HLS_accel_hadd_16ns_16ns_16_5_full_dsp_1' to 'HLS_accel_hadd_16bkb' due to the length limit 20
+INFO: [SYN 201-210] Renamed object name 'HLS_accel_hmul_16ns_16ns_16_4_max_dsp_1' to 'HLS_accel_hmul_16cud' due to the length limit 20
+INFO: [SYN 201-210] Renamed object name 'HLS_accel_mac_muladd_6ns_7ns_6ns_12_1_1' to 'HLS_accel_mac_muldEe' due to the length limit 20
+INFO: [RTGEN 206-100] Generating core module 'HLS_accel_hadd_16bkb': 2 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'HLS_accel_hmul_16cud': 2 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'HLS_accel_mac_muldEe': 4 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'HLS_accel'.
+INFO: [HLS 200-111]  Elapsed time: 2.491 seconds; current allocated memory: 102.760 MB.
+INFO: [RTMG 210-278] Implementing memory 'HLS_accel_a_ram (RAM)' using block RAMs.
+INFO: [RTMG 210-278] Implementing memory 'HLS_accel_out_ram (RAM)' using block RAMs.
+INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:20 ; elapsed = 00:00:39 . Memory (MB): peak = 168.828 ; gain = 84.199
+INFO: [SYSC 207-301] Generating SystemC RTL for HLS_accel.
+INFO: [VHDL 208-304] Generating VHDL RTL for HLS_accel.
+INFO: [VLOG 209-307] Generating Verilog RTL for HLS_accel.
+WARNING: [HLS 200-483] The 'export_design -evaluate verilog' command is deprecated and will be removed in a future release. Use 'export_design -flow impl -rtl verilog' as its replacement.
+INFO: [IMPL 213-8] Exporting RTL as a Vivado IP.
+ERROR: [IMPL 213-28] Failed to generate IP.
+INFO: [HLS 200-112] Total elapsed time: 73.929 seconds; peak allocated memory: 102.760 MB.
+INFO: [Common 17-206] Exiting vivado_hls at Wed Dec  4 01:31:43 2024...
+==============================================================
+File generated on Wed Dec 04 01:46:08 -0500 2024
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2018.3 (64-bit)
+SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020clg484-1'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file 'mmult_accel.cpp' ... 
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:01 ; elapsed = 00:00:11 . Memory (MB): peak = 105.734 ; gain = 21.012
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:01 ; elapsed = 00:00:11 . Memory (MB): peak = 105.734 ; gain = 21.012
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [XFORM 203-603] Inlining function 'pop_stream<decimal16, 4, 5, 5>' into 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' (./mmult.h:150).
+INFO: [XFORM 203-603] Inlining function 'pop_stream<decimal16, 4, 5, 5>' into 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' (./mmult.h:140).
+INFO: [XFORM 203-603] Inlining function 'mmult_hw<decimal16, 54>' into 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' (./mmult.h:154).
+INFO: [XFORM 203-603] Inlining function 'push_stream<decimal16, 4, 5, 5>' into 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' (./mmult.h:162).
+INFO: [XFORM 203-603] Inlining function 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' into 'HLS_accel' (mmult_accel.cpp:26).
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:06 ; elapsed = 00:00:17 . Memory (MB): peak = 111.008 ; gain = 26.285
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:07 ; elapsed = 00:00:17 . Memory (MB): peak = 111.492 ; gain = 26.770
+WARNING: [XFORM 203-1103] Ignored data pack directive on non-struct variable 'OUTPUT_STREAM.data.V' (mmult_accel.cpp:19).
+WARNING: [XFORM 203-1103] Ignored data pack directive on non-struct variable 'INPUT_STREAM.data.V' (mmult_accel.cpp:19).
+INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'L2' (./mmult.h:55) in function 'HLS_accel' for pipelining.
+INFO: [HLS 200-489] Unrolling loop 'L3' (./mmult.h:59) in function 'HLS_accel' completely with a factor of 54.
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:08 ; elapsed = 00:00:18 . Memory (MB): peak = 135.309 ; gain = 50.586
+INFO: [XFORM 203-541] Flattening a loop nest 'Loop-1' (./mmult.h:135:13) in function 'HLS_accel'.
+INFO: [XFORM 203-541] Flattening a loop nest 'Loop-2' (./mmult.h:145:14) in function 'HLS_accel'.
+INFO: [XFORM 203-541] Flattening a loop nest 'L1' (./mmult.h:54:3) in function 'HLS_accel'.
+INFO: [XFORM 203-541] Flattening a loop nest 'Loop-4' (./mmult.h:157:15) in function 'HLS_accel'.
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:09 ; elapsed = 00:00:19 . Memory (MB): peak = 136.125 ; gain = 51.402
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'HLS_accel' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'HLS_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'Loop 1'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 1, Depth = 2.
+INFO: [SCHED 204-61] Pipelining loop 'Loop 2'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 1, Depth = 2.
+INFO: [SCHED 204-61] Pipelining loop 'L1_L2'.
+WARNING: [SCHED 204-69] Unable to schedule 'load' operation ('b_load_2', ./mmult.h:59->./mmult.h:154->mmult_accel.cpp:26) on array 'b', ./mmult.h:129->mmult_accel.cpp:26 due to limited memory ports. Please consider using a memory core with more ports or partitioning the array 'b'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 27, Depth = 278.
+INFO: [SCHED 204-61] Pipelining loop 'Loop 4'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 1, Depth = 4.
+WARNING: [SCHED 204-21] Estimated clock period (9.634ns) exceeds the target (target clock period: 10ns, clock uncertainty: 1.25ns, effective delay budget: 8.75ns).
+WARNING: [SCHED 204-21] The critical path in module 'HLS_accel' consists of the following:
+	'mul' operation of DSP[57] ('tmp', ./mmult.h:140->mmult_accel.cpp:26) [50]  (3.36 ns)
+	'add' operation of DSP[57] ('tmp_1', ./mmult.h:140->mmult_accel.cpp:26) [57]  (3.02 ns)
+	'getelementptr' operation ('a_addr', ./mmult.h:140->mmult_accel.cpp:26) [59]  (0 ns)
+	'store' operation (./mmult.h:140->mmult_accel.cpp:26) of variable 'ret', ./mmult.h:81->./mmult.h:140->mmult_accel.cpp:26 on array 'a', ./mmult.h:128->mmult_accel.cpp:26 [60]  (3.25 ns)
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111]  Elapsed time: 21.183 seconds; current allocated memory: 93.131 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111]  Elapsed time: 1.751 seconds; current allocated memory: 96.869 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'HLS_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/INPUT_STREAM_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/INPUT_STREAM_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/INPUT_STREAM_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/INPUT_STREAM_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/INPUT_STREAM_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/INPUT_STREAM_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/INPUT_STREAM_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/OUTPUT_STREAM_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/OUTPUT_STREAM_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/OUTPUT_STREAM_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/OUTPUT_STREAM_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/OUTPUT_STREAM_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/OUTPUT_STREAM_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/OUTPUT_STREAM_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on function 'HLS_accel' to 's_axilite & ap_ctrl_hs'.
+INFO: [RTGEN 206-100] Bundling port 'return' to AXI-Lite port CONTROL_BUS.
+INFO: [SYN 201-210] Renamed object name 'HLS_accel_hadd_16ns_16ns_16_5_full_dsp_1' to 'HLS_accel_hadd_16bkb' due to the length limit 20
+INFO: [SYN 201-210] Renamed object name 'HLS_accel_hmul_16ns_16ns_16_4_max_dsp_1' to 'HLS_accel_hmul_16cud' due to the length limit 20
+INFO: [SYN 201-210] Renamed object name 'HLS_accel_mac_muladd_6ns_7ns_6ns_12_1_1' to 'HLS_accel_mac_muldEe' due to the length limit 20
+INFO: [RTGEN 206-100] Generating core module 'HLS_accel_hadd_16bkb': 2 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'HLS_accel_hmul_16cud': 2 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'HLS_accel_mac_muldEe': 4 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'HLS_accel'.
+INFO: [HLS 200-111]  Elapsed time: 2.252 seconds; current allocated memory: 102.813 MB.
+INFO: [RTMG 210-278] Implementing memory 'HLS_accel_a_ram (RAM)' using block RAMs.
+INFO: [RTMG 210-278] Implementing memory 'HLS_accel_out_ram (RAM)' using block RAMs.
+INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:17 ; elapsed = 00:00:35 . Memory (MB): peak = 168.438 ; gain = 83.715
+INFO: [SYSC 207-301] Generating SystemC RTL for HLS_accel.
+INFO: [VHDL 208-304] Generating VHDL RTL for HLS_accel.
+INFO: [VLOG 209-307] Generating Verilog RTL for HLS_accel.
+INFO: [HLS 200-112] Total elapsed time: 35.395 seconds; peak allocated memory: 102.813 MB.
+==============================================================
+File generated on Wed Dec 04 01:51:29 -0500 2024
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2018.3 (64-bit)
+SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020clg484-1'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file 'mmult_accel.cpp' ... 
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:01 ; elapsed = 00:00:10 . Memory (MB): peak = 105.957 ; gain = 21.652
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:01 ; elapsed = 00:00:10 . Memory (MB): peak = 105.957 ; gain = 21.652
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [XFORM 203-603] Inlining function 'pop_stream<decimal16, 4, 5, 5>' into 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' (./mmult.h:150).
+INFO: [XFORM 203-603] Inlining function 'pop_stream<decimal16, 4, 5, 5>' into 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' (./mmult.h:140).
+INFO: [XFORM 203-603] Inlining function 'mmult_hw<decimal16, 54>' into 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' (./mmult.h:154).
+INFO: [XFORM 203-603] Inlining function 'push_stream<decimal16, 4, 5, 5>' into 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' (./mmult.h:162).
+INFO: [XFORM 203-603] Inlining function 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' into 'HLS_accel' (mmult_accel.cpp:26).
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:07 ; elapsed = 00:00:17 . Memory (MB): peak = 111.066 ; gain = 26.762
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:08 ; elapsed = 00:00:18 . Memory (MB): peak = 112.121 ; gain = 27.816
 WARNING: [XFORM 203-1103] Ignored data pack directive on non-struct variable 'OUTPUT_STREAM.data.V' (mmult_accel.cpp:19).
 WARNING: [XFORM 203-1103] Ignored data pack directive on non-struct variable 'INPUT_STREAM.data.V' (mmult_accel.cpp:19).
 INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'L2' (./mmult.h:55) in function 'HLS_accel' for pipelining.
@@ -28,12 +222,12 @@ WARNING: [XFORM 203-104] Completely partitioning array 'a' (./mmult.h:128) acces
 INFO: [XFORM 203-101] Partitioning array 'a' (./mmult.h:128) in dimension 2 completely.
 WARNING: [XFORM 203-104] Completely partitioning array 'b' (./mmult.h:129) accessed through non-constant indices on dimension 1 (./mmult.h:150:15), which may result in long runtime and suboptimal QoR due to large multiplexers. Please consider wrapping the array access into a function or using a register file core instead.
 INFO: [XFORM 203-101] Partitioning array 'b' (./mmult.h:129) in dimension 1 completely.
-INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:04 ; elapsed = 00:00:15 . Memory (MB): peak = 137.879 ; gain = 52.961
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:09 ; elapsed = 00:00:19 . Memory (MB): peak = 138.355 ; gain = 54.051
 INFO: [XFORM 203-541] Flattening a loop nest 'Loop-1' (./mmult.h:135:13) in function 'HLS_accel'.
 INFO: [XFORM 203-541] Flattening a loop nest 'Loop-2' (./mmult.h:145:14) in function 'HLS_accel'.
 INFO: [XFORM 203-541] Flattening a loop nest 'L1' (./mmult.h:54:3) in function 'HLS_accel'.
 INFO: [XFORM 203-541] Flattening a loop nest 'Loop-4' (./mmult.h:157:15) in function 'HLS_accel'.
-INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:05 ; elapsed = 00:00:16 . Memory (MB): peak = 139.277 ; gain = 54.359
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:11 ; elapsed = 00:00:21 . Memory (MB): peak = 139.445 ; gain = 55.141
 INFO: [HLS 200-10] Starting hardware synthesis ...
 INFO: [HLS 200-10] Synthesizing 'HLS_accel' ...
 INFO: [HLS 200-10] ----------------------------------------------------------------
@@ -55,13 +249,13 @@ WARNING: [SCHED 204-21] The critical path in module 'HLS_accel' consists of the 
 	'getelementptr' operation ('out_addr', ./mmult.h:60->./mmult.h:154->mmult_accel.cpp:26) [756]  (0 ns)
 	'store' operation (./mmult.h:60->./mmult.h:154->mmult_accel.cpp:26) of variable 'sum_52', ./mmult.h:59->./mmult.h:154->mmult_accel.cpp:26 on array 'out', ./mmult.h:130->mmult_accel.cpp:26 [973]  (3.25 ns)
 INFO: [SCHED 204-11] Finished scheduling.
-INFO: [HLS 200-111]  Elapsed time: 16.687 seconds; current allocated memory: 99.038 MB.
+INFO: [HLS 200-111]  Elapsed time: 22.655 seconds; current allocated memory: 99.167 MB.
 INFO: [BIND 205-100] Starting micro-architecture generation ...
 INFO: [BIND 205-101] Performing variable lifetime analysis.
 INFO: [BIND 205-101] Exploring resource sharing.
 INFO: [BIND 205-101] Binding ...
 INFO: [BIND 205-100] Finished micro-architecture generation.
-INFO: [HLS 200-111]  Elapsed time: 1.137 seconds; current allocated memory: 115.005 MB.
+INFO: [HLS 200-111]  Elapsed time: 2.325 seconds; current allocated memory: 115.131 MB.
 INFO: [HLS 200-10] ----------------------------------------------------------------
 INFO: [HLS 200-10] -- Generating RTL for module 'HLS_accel' 
 INFO: [HLS 200-10] ----------------------------------------------------------------
@@ -89,20 +283,16 @@ INFO: [RTGEN 206-100] Generating core module 'HLS_accel_hadd_16bkb': 54 instance
 INFO: [RTGEN 206-100] Generating core module 'HLS_accel_hmul_16cud': 54 instance(s).
 INFO: [RTGEN 206-100] Generating core module 'HLS_accel_mac_muldEe': 3 instance(s).
 INFO: [RTGEN 206-100] Finished creating RTL model for 'HLS_accel'.
-INFO: [HLS 200-111]  Elapsed time: 2.368 seconds; current allocated memory: 128.802 MB.
+INFO: [HLS 200-111]  Elapsed time: 4.882 seconds; current allocated memory: 128.932 MB.
 INFO: [RTMG 210-278] Implementing memory 'HLS_accel_a_0_ram (RAM)' using distributed RAMs.
 INFO: [RTMG 210-278] Implementing memory 'HLS_accel_out_ram (RAM)' using block RAMs.
-INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:09 ; elapsed = 00:00:24 . Memory (MB): peak = 202.918 ; gain = 118.000
+INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:24 ; elapsed = 00:00:44 . Memory (MB): peak = 203.160 ; gain = 118.855
 INFO: [SYSC 207-301] Generating SystemC RTL for HLS_accel.
 INFO: [VHDL 208-304] Generating VHDL RTL for HLS_accel.
 INFO: [VLOG 209-307] Generating Verilog RTL for HLS_accel.
-WARNING: [HLS 200-483] The 'export_design -evaluate verilog' command is deprecated and will be removed in a future release. Use 'export_design -flow impl -rtl verilog' as its replacement.
-INFO: [IMPL 213-8] Exporting RTL as a Vivado IP.
-ERROR: [IMPL 213-28] Failed to generate IP.
-INFO: [HLS 200-112] Total elapsed time: 38.039 seconds; peak allocated memory: 128.802 MB.
-INFO: [Common 17-206] Exiting vivado_hls at Sun Dec  1 16:58:56 2024...
+INFO: [HLS 200-112] Total elapsed time: 43.763 seconds; peak allocated memory: 128.932 MB.
 ==============================================================
-File generated on Sun Dec 01 17:22:51 -0500 2024
+File generated on Wed Dec 04 01:54:03 -0500 2024
 Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2018.3 (64-bit)
 SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
 IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
@@ -112,17 +302,17 @@ INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
 INFO: [HLS 200-10] Setting target device to 'xc7z020clg484-1'
 INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
 INFO: [HLS 200-10] Analyzing design file 'mmult_accel.cpp' ... 
-INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:01 ; elapsed = 00:00:07 . Memory (MB): peak = 105.348 ; gain = 20.375
-INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:01 ; elapsed = 00:00:07 . Memory (MB): peak = 105.348 ; gain = 20.375
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:02 ; elapsed = 00:00:10 . Memory (MB): peak = 105.266 ; gain = 20.570
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:02 ; elapsed = 00:00:10 . Memory (MB): peak = 105.266 ; gain = 20.570
 INFO: [HLS 200-10] Starting code transformations ...
 INFO: [XFORM 203-603] Inlining function 'pop_stream<decimal16, 4, 5, 5>' into 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' (./mmult.h:150).
 INFO: [XFORM 203-603] Inlining function 'pop_stream<decimal16, 4, 5, 5>' into 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' (./mmult.h:140).
 INFO: [XFORM 203-603] Inlining function 'mmult_hw<decimal16, 54>' into 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' (./mmult.h:154).
 INFO: [XFORM 203-603] Inlining function 'push_stream<decimal16, 4, 5, 5>' into 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' (./mmult.h:162).
 INFO: [XFORM 203-603] Inlining function 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' into 'HLS_accel' (mmult_accel.cpp:26).
-INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:04 ; elapsed = 00:00:11 . Memory (MB): peak = 111.223 ; gain = 26.250
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:07 ; elapsed = 00:00:16 . Memory (MB): peak = 110.945 ; gain = 26.250
 INFO: [HLS 200-10] Checking synthesizability ...
-INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:04 ; elapsed = 00:00:12 . Memory (MB): peak = 112.336 ; gain = 27.363
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:08 ; elapsed = 00:00:17 . Memory (MB): peak = 111.922 ; gain = 27.227
 WARNING: [XFORM 203-1103] Ignored data pack directive on non-struct variable 'OUTPUT_STREAM.data.V' (mmult_accel.cpp:19).
 WARNING: [XFORM 203-1103] Ignored data pack directive on non-struct variable 'INPUT_STREAM.data.V' (mmult_accel.cpp:19).
 INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'L2' (./mmult.h:55) in function 'HLS_accel' for pipelining.
@@ -131,12 +321,12 @@ WARNING: [XFORM 203-104] Completely partitioning array 'a' (./mmult.h:128) acces
 INFO: [XFORM 203-101] Partitioning array 'a' (./mmult.h:128) in dimension 2 completely.
 WARNING: [XFORM 203-104] Completely partitioning array 'b' (./mmult.h:129) accessed through non-constant indices on dimension 1 (./mmult.h:150:15), which may result in long runtime and suboptimal QoR due to large multiplexers. Please consider wrapping the array access into a function or using a register file core instead.
 INFO: [XFORM 203-101] Partitioning array 'b' (./mmult.h:129) in dimension 1 completely.
-INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:05 ; elapsed = 00:00:13 . Memory (MB): peak = 138.508 ; gain = 53.535
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:09 ; elapsed = 00:00:18 . Memory (MB): peak = 138.934 ; gain = 54.238
 INFO: [XFORM 203-541] Flattening a loop nest 'Loop-1' (./mmult.h:135:13) in function 'HLS_accel'.
 INFO: [XFORM 203-541] Flattening a loop nest 'Loop-2' (./mmult.h:145:14) in function 'HLS_accel'.
 INFO: [XFORM 203-541] Flattening a loop nest 'L1' (./mmult.h:54:3) in function 'HLS_accel'.
 INFO: [XFORM 203-541] Flattening a loop nest 'Loop-4' (./mmult.h:157:15) in function 'HLS_accel'.
-INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:06 ; elapsed = 00:00:14 . Memory (MB): peak = 139.254 ; gain = 54.281
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:10 ; elapsed = 00:00:19 . Memory (MB): peak = 139.223 ; gain = 54.527
 INFO: [HLS 200-10] Starting hardware synthesis ...
 INFO: [HLS 200-10] Synthesizing 'HLS_accel' ...
 INFO: [HLS 200-10] ----------------------------------------------------------------
@@ -158,13 +348,13 @@ WARNING: [SCHED 204-21] The critical path in module 'HLS_accel' consists of the 
 	'getelementptr' operation ('out_addr', ./mmult.h:60->./mmult.h:154->mmult_accel.cpp:26) [756]  (0 ns)
 	'store' operation (./mmult.h:60->./mmult.h:154->mmult_accel.cpp:26) of variable 'sum_52', ./mmult.h:59->./mmult.h:154->mmult_accel.cpp:26 on array 'out', ./mmult.h:130->mmult_accel.cpp:26 [973]  (3.25 ns)
 INFO: [SCHED 204-11] Finished scheduling.
-INFO: [HLS 200-111]  Elapsed time: 14.561 seconds; current allocated memory: 99.173 MB.
+INFO: [HLS 200-111]  Elapsed time: 20.542 seconds; current allocated memory: 99.220 MB.
 INFO: [BIND 205-100] Starting micro-architecture generation ...
 INFO: [BIND 205-101] Performing variable lifetime analysis.
 INFO: [BIND 205-101] Exploring resource sharing.
 INFO: [BIND 205-101] Binding ...
 INFO: [BIND 205-100] Finished micro-architecture generation.
-INFO: [HLS 200-111]  Elapsed time: 1.547 seconds; current allocated memory: 115.139 MB.
+INFO: [HLS 200-111]  Elapsed time: 2.052 seconds; current allocated memory: 115.187 MB.
 INFO: [HLS 200-10] ----------------------------------------------------------------
 INFO: [HLS 200-10] -- Generating RTL for module 'HLS_accel' 
 INFO: [HLS 200-10] ----------------------------------------------------------------
@@ -192,20 +382,20 @@ INFO: [RTGEN 206-100] Generating core module 'HLS_accel_hadd_16bkb': 54 instance
 INFO: [RTGEN 206-100] Generating core module 'HLS_accel_hmul_16cud': 54 instance(s).
 INFO: [RTGEN 206-100] Generating core module 'HLS_accel_mac_muldEe': 3 instance(s).
 INFO: [RTGEN 206-100] Finished creating RTL model for 'HLS_accel'.
-INFO: [HLS 200-111]  Elapsed time: 2.61 seconds; current allocated memory: 128.951 MB.
+INFO: [HLS 200-111]  Elapsed time: 4.712 seconds; current allocated memory: 129.021 MB.
 INFO: [RTMG 210-278] Implementing memory 'HLS_accel_a_0_ram (RAM)' using distributed RAMs.
 INFO: [RTMG 210-278] Implementing memory 'HLS_accel_out_ram (RAM)' using block RAMs.
-INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:10 ; elapsed = 00:00:23 . Memory (MB): peak = 203.477 ; gain = 118.504
+INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:22 ; elapsed = 00:00:39 . Memory (MB): peak = 203.340 ; gain = 118.645
 INFO: [SYSC 207-301] Generating SystemC RTL for HLS_accel.
 INFO: [VHDL 208-304] Generating VHDL RTL for HLS_accel.
 INFO: [VLOG 209-307] Generating Verilog RTL for HLS_accel.
 WARNING: [HLS 200-483] The 'export_design -evaluate verilog' command is deprecated and will be removed in a future release. Use 'export_design -flow impl -rtl verilog' as its replacement.
 INFO: [IMPL 213-8] Exporting RTL as a Vivado IP.
 ERROR: [IMPL 213-28] Failed to generate IP.
-INFO: [HLS 200-112] Total elapsed time: 33.421 seconds; peak allocated memory: 128.951 MB.
-INFO: [Common 17-206] Exiting vivado_hls at Sun Dec  1 17:23:24 2024...
+INFO: [HLS 200-112] Total elapsed time: 66.513 seconds; peak allocated memory: 129.021 MB.
+INFO: [Common 17-206] Exiting vivado_hls at Wed Dec  4 01:55:09 2024...
 ==============================================================
-File generated on Sun Dec 01 17:34:48 -0500 2024
+File generated on Wed Dec 04 01:57:41 -0500 2024
 Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2018.3 (64-bit)
 SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
 IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
@@ -215,17 +405,17 @@ INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
 INFO: [HLS 200-10] Setting target device to 'xc7z020clg484-1'
 INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
 INFO: [HLS 200-10] Analyzing design file 'mmult_accel.cpp' ... 
-INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:01 ; elapsed = 00:00:07 . Memory (MB): peak = 106.082 ; gain = 21.312
-INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:01 ; elapsed = 00:00:07 . Memory (MB): peak = 106.082 ; gain = 21.312
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:02 ; elapsed = 00:00:09 . Memory (MB): peak = 105.535 ; gain = 20.711
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:02 ; elapsed = 00:00:09 . Memory (MB): peak = 105.535 ; gain = 20.711
 INFO: [HLS 200-10] Starting code transformations ...
 INFO: [XFORM 203-603] Inlining function 'pop_stream<decimal16, 4, 5, 5>' into 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' (./mmult.h:150).
 INFO: [XFORM 203-603] Inlining function 'pop_stream<decimal16, 4, 5, 5>' into 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' (./mmult.h:140).
 INFO: [XFORM 203-603] Inlining function 'mmult_hw<decimal16, 54>' into 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' (./mmult.h:154).
 INFO: [XFORM 203-603] Inlining function 'push_stream<decimal16, 4, 5, 5>' into 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' (./mmult.h:162).
 INFO: [XFORM 203-603] Inlining function 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' into 'HLS_accel' (mmult_accel.cpp:26).
-INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:05 ; elapsed = 00:00:12 . Memory (MB): peak = 111.094 ; gain = 26.324
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:07 ; elapsed = 00:00:15 . Memory (MB): peak = 111.180 ; gain = 26.355
 INFO: [HLS 200-10] Checking synthesizability ...
-INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:05 ; elapsed = 00:00:13 . Memory (MB): peak = 111.840 ; gain = 27.070
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:07 ; elapsed = 00:00:16 . Memory (MB): peak = 112.176 ; gain = 27.352
 WARNING: [XFORM 203-1103] Ignored data pack directive on non-struct variable 'OUTPUT_STREAM.data.V' (mmult_accel.cpp:19).
 WARNING: [XFORM 203-1103] Ignored data pack directive on non-struct variable 'INPUT_STREAM.data.V' (mmult_accel.cpp:19).
 INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'L2' (./mmult.h:55) in function 'HLS_accel' for pipelining.
@@ -234,12 +424,12 @@ WARNING: [XFORM 203-104] Completely partitioning array 'a' (./mmult.h:128) acces
 INFO: [XFORM 203-101] Partitioning array 'a' (./mmult.h:128) in dimension 2 completely.
 WARNING: [XFORM 203-104] Completely partitioning array 'b' (./mmult.h:129) accessed through non-constant indices on dimension 1 (./mmult.h:150:15), which may result in long runtime and suboptimal QoR due to large multiplexers. Please consider wrapping the array access into a function or using a register file core instead.
 INFO: [XFORM 203-101] Partitioning array 'b' (./mmult.h:129) in dimension 1 completely.
-INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:06 ; elapsed = 00:00:14 . Memory (MB): peak = 138.559 ; gain = 53.789
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:08 ; elapsed = 00:00:17 . Memory (MB): peak = 138.535 ; gain = 53.711
 INFO: [XFORM 203-541] Flattening a loop nest 'Loop-1' (./mmult.h:135:13) in function 'HLS_accel'.
 INFO: [XFORM 203-541] Flattening a loop nest 'Loop-2' (./mmult.h:145:14) in function 'HLS_accel'.
 INFO: [XFORM 203-541] Flattening a loop nest 'L1' (./mmult.h:54:3) in function 'HLS_accel'.
 INFO: [XFORM 203-541] Flattening a loop nest 'Loop-4' (./mmult.h:157:15) in function 'HLS_accel'.
-INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:07 ; elapsed = 00:00:15 . Memory (MB): peak = 139.156 ; gain = 54.387
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:10 ; elapsed = 00:00:18 . Memory (MB): peak = 139.379 ; gain = 54.555
 INFO: [HLS 200-10] Starting hardware synthesis ...
 INFO: [HLS 200-10] Synthesizing 'HLS_accel' ...
 INFO: [HLS 200-10] ----------------------------------------------------------------
@@ -261,13 +451,13 @@ WARNING: [SCHED 204-21] The critical path in module 'HLS_accel' consists of the 
 	'getelementptr' operation ('out_addr', ./mmult.h:60->./mmult.h:154->mmult_accel.cpp:26) [756]  (0 ns)
 	'store' operation (./mmult.h:60->./mmult.h:154->mmult_accel.cpp:26) of variable 'sum_52', ./mmult.h:59->./mmult.h:154->mmult_accel.cpp:26 on array 'out', ./mmult.h:130->mmult_accel.cpp:26 [973]  (3.25 ns)
 INFO: [SCHED 204-11] Finished scheduling.
-INFO: [HLS 200-111]  Elapsed time: 15.67 seconds; current allocated memory: 99.128 MB.
+INFO: [HLS 200-111]  Elapsed time: 19.143 seconds; current allocated memory: 99.110 MB.
 INFO: [BIND 205-100] Starting micro-architecture generation ...
 INFO: [BIND 205-101] Performing variable lifetime analysis.
 INFO: [BIND 205-101] Exploring resource sharing.
 INFO: [BIND 205-101] Binding ...
 INFO: [BIND 205-100] Finished micro-architecture generation.
-INFO: [HLS 200-111]  Elapsed time: 1.455 seconds; current allocated memory: 115.094 MB.
+INFO: [HLS 200-111]  Elapsed time: 1.734 seconds; current allocated memory: 115.076 MB.
 INFO: [HLS 200-10] ----------------------------------------------------------------
 INFO: [HLS 200-10] -- Generating RTL for module 'HLS_accel' 
 INFO: [HLS 200-10] ----------------------------------------------------------------
@@ -295,20 +485,20 @@ INFO: [RTGEN 206-100] Generating core module 'HLS_accel_hadd_16bkb': 54 instance
 INFO: [RTGEN 206-100] Generating core module 'HLS_accel_hmul_16cud': 54 instance(s).
 INFO: [RTGEN 206-100] Generating core module 'HLS_accel_mac_muldEe': 3 instance(s).
 INFO: [RTGEN 206-100] Finished creating RTL model for 'HLS_accel'.
-INFO: [HLS 200-111]  Elapsed time: 2.683 seconds; current allocated memory: 128.891 MB.
+INFO: [HLS 200-111]  Elapsed time: 3.806 seconds; current allocated memory: 128.925 MB.
 INFO: [RTMG 210-278] Implementing memory 'HLS_accel_a_0_ram (RAM)' using distributed RAMs.
 INFO: [RTMG 210-278] Implementing memory 'HLS_accel_out_ram (RAM)' using block RAMs.
-INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:13 ; elapsed = 00:00:24 . Memory (MB): peak = 202.910 ; gain = 118.141
+INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:19 ; elapsed = 00:00:31 . Memory (MB): peak = 202.543 ; gain = 117.719
 INFO: [SYSC 207-301] Generating SystemC RTL for HLS_accel.
 INFO: [VHDL 208-304] Generating VHDL RTL for HLS_accel.
 INFO: [VLOG 209-307] Generating Verilog RTL for HLS_accel.
 WARNING: [HLS 200-483] The 'export_design -evaluate verilog' command is deprecated and will be removed in a future release. Use 'export_design -flow impl -rtl verilog' as its replacement.
 INFO: [IMPL 213-8] Exporting RTL as a Vivado IP.
 ERROR: [IMPL 213-28] Failed to generate IP.
-INFO: [HLS 200-112] Total elapsed time: 37.915 seconds; peak allocated memory: 128.891 MB.
-INFO: [Common 17-206] Exiting vivado_hls at Sun Dec  1 17:35:25 2024...
+INFO: [HLS 200-112] Total elapsed time: 48.478 seconds; peak allocated memory: 128.925 MB.
+INFO: [Common 17-206] Exiting vivado_hls at Wed Dec  4 01:58:28 2024...
 ==============================================================
-File generated on Sun Dec 01 17:51:41 -0500 2024
+File generated on Wed Dec 04 02:19:44 -0500 2024
 Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2018.3 (64-bit)
 SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
 IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
@@ -318,17 +508,17 @@ INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
 INFO: [HLS 200-10] Setting target device to 'xc7z020clg484-1'
 INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
 INFO: [HLS 200-10] Analyzing design file 'mmult_accel.cpp' ... 
-INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:01 ; elapsed = 00:00:06 . Memory (MB): peak = 106.250 ; gain = 21.422
-INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:01 ; elapsed = 00:00:06 . Memory (MB): peak = 106.250 ; gain = 21.422
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:02 ; elapsed = 00:00:09 . Memory (MB): peak = 105.477 ; gain = 20.973
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:02 ; elapsed = 00:00:09 . Memory (MB): peak = 105.477 ; gain = 20.973
 INFO: [HLS 200-10] Starting code transformations ...
 INFO: [XFORM 203-603] Inlining function 'pop_stream<decimal16, 4, 5, 5>' into 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' (./mmult.h:150).
 INFO: [XFORM 203-603] Inlining function 'pop_stream<decimal16, 4, 5, 5>' into 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' (./mmult.h:140).
 INFO: [XFORM 203-603] Inlining function 'mmult_hw<decimal16, 54>' into 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' (./mmult.h:154).
 INFO: [XFORM 203-603] Inlining function 'push_stream<decimal16, 4, 5, 5>' into 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' (./mmult.h:162).
 INFO: [XFORM 203-603] Inlining function 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' into 'HLS_accel' (mmult_accel.cpp:26).
-INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:04 ; elapsed = 00:00:10 . Memory (MB): peak = 111.180 ; gain = 26.352
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:06 ; elapsed = 00:00:15 . Memory (MB): peak = 110.887 ; gain = 26.383
 INFO: [HLS 200-10] Checking synthesizability ...
-INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:05 ; elapsed = 00:00:10 . Memory (MB): peak = 111.867 ; gain = 27.039
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:07 ; elapsed = 00:00:15 . Memory (MB): peak = 111.836 ; gain = 27.332
 WARNING: [XFORM 203-1103] Ignored data pack directive on non-struct variable 'OUTPUT_STREAM.data.V' (mmult_accel.cpp:19).
 WARNING: [XFORM 203-1103] Ignored data pack directive on non-struct variable 'INPUT_STREAM.data.V' (mmult_accel.cpp:19).
 INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'L2' (./mmult.h:55) in function 'HLS_accel' for pipelining.
@@ -337,12 +527,12 @@ WARNING: [XFORM 203-104] Completely partitioning array 'a' (./mmult.h:128) acces
 INFO: [XFORM 203-101] Partitioning array 'a' (./mmult.h:128) in dimension 2 completely.
 WARNING: [XFORM 203-104] Completely partitioning array 'b' (./mmult.h:129) accessed through non-constant indices on dimension 1 (./mmult.h:150:15), which may result in long runtime and suboptimal QoR due to large multiplexers. Please consider wrapping the array access into a function or using a register file core instead.
 INFO: [XFORM 203-101] Partitioning array 'b' (./mmult.h:129) in dimension 1 completely.
-INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:05 ; elapsed = 00:00:11 . Memory (MB): peak = 138.715 ; gain = 53.887
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:08 ; elapsed = 00:00:16 . Memory (MB): peak = 138.367 ; gain = 53.863
 INFO: [XFORM 203-541] Flattening a loop nest 'Loop-1' (./mmult.h:135:13) in function 'HLS_accel'.
 INFO: [XFORM 203-541] Flattening a loop nest 'Loop-2' (./mmult.h:145:14) in function 'HLS_accel'.
 INFO: [XFORM 203-541] Flattening a loop nest 'L1' (./mmult.h:54:3) in function 'HLS_accel'.
 INFO: [XFORM 203-541] Flattening a loop nest 'Loop-4' (./mmult.h:157:15) in function 'HLS_accel'.
-INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:06 ; elapsed = 00:00:12 . Memory (MB): peak = 139.227 ; gain = 54.398
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:09 ; elapsed = 00:00:17 . Memory (MB): peak = 138.664 ; gain = 54.160
 INFO: [HLS 200-10] Starting hardware synthesis ...
 INFO: [HLS 200-10] Synthesizing 'HLS_accel' ...
 INFO: [HLS 200-10] ----------------------------------------------------------------
@@ -364,13 +554,197 @@ WARNING: [SCHED 204-21] The critical path in module 'HLS_accel' consists of the 
 	'getelementptr' operation ('out_addr', ./mmult.h:60->./mmult.h:154->mmult_accel.cpp:26) [756]  (0 ns)
 	'store' operation (./mmult.h:60->./mmult.h:154->mmult_accel.cpp:26) of variable 'sum_52', ./mmult.h:59->./mmult.h:154->mmult_accel.cpp:26 on array 'out', ./mmult.h:130->mmult_accel.cpp:26 [973]  (3.25 ns)
 INFO: [SCHED 204-11] Finished scheduling.
-INFO: [HLS 200-111]  Elapsed time: 12.616 seconds; current allocated memory: 99.130 MB.
+INFO: [HLS 200-111]  Elapsed time: 18.296 seconds; current allocated memory: 99.112 MB.
 INFO: [BIND 205-100] Starting micro-architecture generation ...
 INFO: [BIND 205-101] Performing variable lifetime analysis.
 INFO: [BIND 205-101] Exploring resource sharing.
 INFO: [BIND 205-101] Binding ...
 INFO: [BIND 205-100] Finished micro-architecture generation.
-INFO: [HLS 200-111]  Elapsed time: 1.027 seconds; current allocated memory: 115.096 MB.
+INFO: [HLS 200-111]  Elapsed time: 1.453 seconds; current allocated memory: 115.094 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'HLS_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/INPUT_STREAM_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/INPUT_STREAM_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/INPUT_STREAM_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/INPUT_STREAM_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/INPUT_STREAM_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/INPUT_STREAM_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/INPUT_STREAM_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/OUTPUT_STREAM_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/OUTPUT_STREAM_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/OUTPUT_STREAM_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/OUTPUT_STREAM_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/OUTPUT_STREAM_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/OUTPUT_STREAM_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/OUTPUT_STREAM_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on function 'HLS_accel' to 's_axilite & ap_ctrl_hs'.
+INFO: [RTGEN 206-100] Bundling port 'return' to AXI-Lite port CONTROL_BUS.
+INFO: [SYN 201-210] Renamed object name 'HLS_accel_hadd_16ns_16ns_16_5_full_dsp_1' to 'HLS_accel_hadd_16bkb' due to the length limit 20
+INFO: [SYN 201-210] Renamed object name 'HLS_accel_hmul_16ns_16ns_16_4_max_dsp_1' to 'HLS_accel_hmul_16cud' due to the length limit 20
+INFO: [SYN 201-210] Renamed object name 'HLS_accel_mac_muladd_6ns_7ns_6ns_12_1_1' to 'HLS_accel==============================================================
+File generated on Wed Dec 04 03:24:26 -0500 2024
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2018.3 (64-bit)
+SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020clg484-1'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file 'mmult_accel.cpp' ... 
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:02 ; elapsed = 00:00:12 . Memory (MB): peak = 105.605 ; gain = 21.000
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:02 ; elapsed = 00:00:12 . Memory (MB): peak = 105.605 ; gain = 21.000
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [XFORM 203-603] Inlining function 'pop_stream<decimal16, 4, 5, 5>' into 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' (./mmult.h:150).
+INFO: [XFORM 203-603] Inlining function 'pop_stream<decimal16, 4, 5, 5>' into 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' (./mmult.h:140).
+INFO: [XFORM 203-603] Inlining function 'mmult_hw<decimal16, 54>' into 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' (./mmult.h:154).
+INFO: [XFORM 203-603] Inlining function 'push_stream<decimal16, 4, 5, 5>' into 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' (./mmult.h:162).
+INFO: [XFORM 203-603] Inlining function 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' into 'HLS_accel' (mmult_accel.cpp:26).
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:06 ; elapsed = 00:00:17 . Memory (MB): peak = 110.984 ; gain = 26.379
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:07 ; elapsed = 00:00:18 . Memory (MB): peak = 112.105 ; gain = 27.500
+WARNING: [XFORM 203-1103] Ignored data pack directive on non-struct variable 'OUTPUT_STREAM.data.V' (mmult_accel.cpp:19).
+WARNING: [XFORM 203-1103] Ignored data pack directive on non-struct variable 'INPUT_STREAM.data.V' (mmult_accel.cpp:19).
+INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'L2' (./mmult.h:55) in function 'HLS_accel' for pipelining.
+INFO: [HLS 200-489] Unrolling loop 'L3' (./mmult.h:59) in function 'HLS_accel' completely with a factor of 54.
+WARNING: [XFORM 203-104] Completely partitioning array 'a' (./mmult.h:128) accessed through non-constant indices on dimension 2 (./mmult.h:140:14), which may result in long runtime and suboptimal QoR due to large multiplexers. Please consider wrapping the array access into a function or using a register file core instead.
+INFO: [XFORM 203-101] Partitioning array 'a' (./mmult.h:128) in dimension 2 completely.
+WARNING: [XFORM 203-104] Completely partitioning array 'b' (./mmult.h:129) accessed through non-constant indices on dimension 1 (./mmult.h:150:15), which may result in long runtime and suboptimal QoR due to large multiplexers. Please consider wrapping the array access into a function or using a register file core instead.
+INFO: [XFORM 203-101] Partitioning array 'b' (./mmult.h:129) in dimension 1 completely.
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:08 ; elapsed = 00:00:19 . Memory (MB): peak = 138.520 ; gain = 53.914
+INFO: [XFORM 203-541] Flattening a loop nest 'Loop-1' (./mmult.h:135:13) in function 'HLS_accel'.
+INFO: [XFORM 203-541] Flattening a loop nest 'Loop-2' (./mmult.h:145:14) in function 'HLS_accel'.
+INFO: [XFORM 203-541] Flattening a loop nest 'L1' (./mmult.h:54:3) in function 'HLS_accel'.
+INFO: [XFORM 203-541] Flattening a loop nest 'Loop-4' (./mmult.h:157:15) in function 'HLS_accel'.
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:09 ; elapsed = 00:00:20 . Memory (MB): peak = 139.180 ; gain = 54.574
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'HLS_accel' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'HLS_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'Loop 1'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 1, Depth = 1.
+INFO: [SCHED 204-61] Pipelining loop 'Loop 2'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 1, Depth = 1.
+INFO: [SCHED 204-61] Pipelining loop 'L1_L2'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 1, Depth = 277.
+INFO: [SCHED 204-61] Pipelining loop 'Loop 4'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 1, Depth = 4.
+WARNING: [SCHED 204-21] Estimated clock period (9.634ns) exceeds the target (target clock period: 10ns, clock uncertainty: 1.25ns, effective delay budget: 8.75ns).
+WARNING: [SCHED 204-21] The critical path in module 'HLS_accel' consists of the following:
+	'mul' operation of DSP[754] ('tmp', ./mmult.h:60->./mmult.h:154->mmult_accel.cpp:26) [640]  (3.36 ns)
+	'add' operation of DSP[754] ('tmp_1', ./mmult.h:60->./mmult.h:154->mmult_accel.cpp:26) [754]  (3.02 ns)
+	'getelementptr' operation ('out_addr', ./mmult.h:60->./mmult.h:154->mmult_accel.cpp:26) [756]  (0 ns)
+	'store' operation (./mmult.h:60->./mmult.h:154->mmult_accel.cpp:26) of variable 'sum_52', ./mmult.h:59->./mmult.h:154->mmult_accel.cpp:26 on array 'out', ./mmult.h:130->mmult_accel.cpp:26 [973]  (3.25 ns)
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111]  Elapsed time: 21.297 seconds; current allocated memory: 99.054 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111]  Elapsed time: 1.506 seconds; current allocated memory: 115.019 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'HLS_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/INPUT_STREAM_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/INPUT_STREAM_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/INPUT_STREAM_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/INPUT_STREAM_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/INPUT_STREAM_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/INPUT_STREAM_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/INPUT_STREAM_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/OUTPUT_STREAM_data_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/OUTPUT_STREAM_keep_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/OUTPUT_STREAM_strb_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/OUTPUT_STREAM_user_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/OUTPUT_STREAM_last_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/OUTPUT_STREAM_id_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on port 'HLS_accel/OUTPUT_STREAM_dest_V' to 'axis' (register, both mode).
+INFO: [RTGEN 206-500] Setting interface mode on function 'HLS_accel' to 's_axilite & ap_ctrl_hs'.
+INFO: [RTGEN 206-100] Bundling port 'return' to AXI-Lite port CONTROL_BUS.
+INFO: [SYN 201-210] Renamed object name 'HLS_accel_hadd_16ns_16ns_16_5_full_dsp_1' to 'HLS_accel_hadd_16bkb' due to the length limit 20
+INFO: [SYN 201-210] Renamed object name 'HLS_accel_hmul_16ns_16ns_16_4_max_dsp_1' to 'HLS_accel_hmul_16cud' due to the length limit 20
+INFO: [SYN 201-210] Renamed object name 'HLS_accel_mac_muladd_6ns_7ns_6ns_12_1_1' to 'HLS_accel_mac_muldEe' due to the length limit 20
+INFO: [RTGEN 206-104] Estimated max fanout for 'HLS_accel' is 37226 from HDL expression: (1'b0 == ap_block_pp2_stage0_11001)
+INFO: [RTGEN 206-100] Generating core module 'HLS_accel_hadd_16bkb': 54 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'HLS_accel_hmul_16cud': 54 instance(s).
+INFO: [RTGEN 206-100] Generating core module 'HLS_accel_mac_muldEe': 3 instance(s).
+INFO: [RTGEN 206-100] Finished creating RTL model for 'HLS_accel'.
+INFO: [HLS 200-111]  Elapsed time: 2.961 seconds; current allocated memory: 128.820 MB.
+INFO: [RTMG 210-278] Implementing memory 'HLS_accel_a_0_ram (RAM)' using distributed RAMs.
+INFO: [RTMG 210-278] Implementing memory 'HLS_accel_out_ram (RAM)' using block RAMs.
+INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:00:17 ; elapsed = 00:00:32 . Memory (MB): peak = 203.148 ; gain = 118.543
+INFO: [SYSC 207-301] Generating SystemC RTL for HLS_accel.
+INFO: [VHDL 208-304] Generating VHDL RTL for HLS_accel.
+INFO: [VLOG 209-307] Generating Verilog RTL for HLS_accel.
+INFO: [HLS 200-112] Total elapsed time: 31.74 seconds; peak allocated memory: 128.820 MB.
+==============================================================
+File generated on Wed Dec 04 03:41:55 -0500 2024
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2018.3 (64-bit)
+SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020clg484-1'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file 'mmult_accel.cpp' ... 
+INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:00:01 ; elapsed = 00:00:10 . Memory (MB): peak = 105.496 ; gain = 20.660
+INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:00:01 ; elapsed = 00:00:10 . Memory (MB): peak = 105.496 ; gain = 20.660
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [XFORM 203-603] Inlining function 'pop_stream<decimal16, 4, 5, 5>' into 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' (./mmult.h:150).
+INFO: [XFORM 203-603] Inlining function 'pop_stream<decimal16, 4, 5, 5>' into 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' (./mmult.h:140).
+INFO: [XFORM 203-603] Inlining function 'mmult_hw<decimal16, 54>' into 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' (./mmult.h:154).
+INFO: [XFORM 203-603] Inlining function 'push_stream<decimal16, 4, 5, 5>' into 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' (./mmult.h:162).
+INFO: [XFORM 203-603] Inlining function 'wrapped_mmult_hw<decimal16, 54, 2916, 4, 5, 5>' into 'HLS_accel' (mmult_accel.cpp:26).
+INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:00:07 ; elapsed = 00:00:16 . Memory (MB): peak = 111.078 ; gain = 26.242
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:00:08 ; elapsed = 00:00:17 . Memory (MB): peak = 111.969 ; gain = 27.133
+WARNING: [XFORM 203-1103] Ignored data pack directive on non-struct variable 'OUTPUT_STREAM.data.V' (mmult_accel.cpp:19).
+WARNING: [XFORM 203-1103] Ignored data pack directive on non-struct variable 'INPUT_STREAM.data.V' (mmult_accel.cpp:19).
+INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'L2' (./mmult.h:55) in function 'HLS_accel' for pipelining.
+INFO: [HLS 200-489] Unrolling loop 'L3' (./mmult.h:59) in function 'HLS_accel' completely with a factor of 54.
+WARNING: [XFORM 203-104] Completely partitioning array 'a' (./mmult.h:128) accessed through non-constant indices on dimension 2 (./mmult.h:140:14), which may result in long runtime and suboptimal QoR due to large multiplexers. Please consider wrapping the array access into a function or using a register file core instead.
+INFO: [XFORM 203-101] Partitioning array 'a' (./mmult.h:128) in dimension 2 completely.
+WARNING: [XFORM 203-104] Completely partitioning array 'b' (./mmult.h:129) accessed through non-constant indices on dimension 1 (./mmult.h:150:15), which may result in long runtime and suboptimal QoR due to large multiplexers. Please consider wrapping the array access into a function or using a register file core instead.
+INFO: [XFORM 203-101] Partitioning array 'b' (./mmult.h:129) in dimension 1 completely.
+INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:00:09 ; elapsed = 00:00:18 . Memory (MB): peak = 138.699 ; gain = 53.863
+INFO: [XFORM 203-541] Flattening a loop nest 'Loop-1' (./mmult.h:135:13) in function 'HLS_accel'.
+INFO: [XFORM 203-541] Flattening a loop nest 'Loop-2' (./mmult.h:145:14) in function 'HLS_accel'.
+INFO: [XFORM 203-541] Flattening a loop nest 'L1' (./mmult.h:54:3) in function 'HLS_accel'.
+INFO: [XFORM 203-541] Flattening a loop nest 'Loop-4' (./mmult.h:157:15) in function 'HLS_accel'.
+INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:00:10 ; elapsed = 00:00:19 . Memory (MB): peak = 138.906 ; gain = 54.070
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'HLS_accel' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'HLS_accel' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'Loop 1'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 1, Depth = 1.
+INFO: [SCHED 204-61] Pipelining loop 'Loop 2'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 1, Depth = 1.
+INFO: [SCHED 204-61] Pipelining loop 'L1_L2'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 1, Depth = 277.
+INFO: [SCHED 204-61] Pipelining loop 'Loop 4'.
+INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 1, Depth = 4.
+WARNING: [SCHED 204-21] Estimated clock period (9.634ns) exceeds the target (target clock period: 10ns, clock uncertainty: 1.25ns, effective delay budget: 8.75ns).
+WARNING: [SCHED 204-21] The critical path in module 'HLS_accel' consists of the following:
+	'mul' operation of DSP[754] ('tmp', ./mmult.h:60->./mmult.h:154->mmult_accel.cpp:26) [640]  (3.36 ns)
+	'add' operation of DSP[754] ('tmp_1', ./mmult.h:60->./mmult.h:154->mmult_accel.cpp:26) [754]  (3.02 ns)
+	'getelementptr' operation ('out_addr', ./mmult.h:60->./mmult.h:154->mmult_accel.cpp:26) [756]  (0 ns)
+	'store' operation (./mmult.h:60->./mmult.h:154->mmult_accel.cpp:26) of variable 'sum_52', ./mmult.h:59->./mmult.h:154->mmult_accel.cpp:26 on array 'out', ./mmult.h:130->mmult_accel.cpp:26 [973]  (3.25 ns)
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111]  Elapsed time: 20.787 seconds; current allocated memory: 99.127 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111]  Elapsed time: 1.699 seconds; current allocated memory: 115.094 MB.
 INFO: [HLS 200-10] ----------------------------------------------------------------
 INFO: [HLS 200-10] -- Generating RTL for module 'HLS_accel' 
 INFO: [HLS 200-10] ----------------------------------------------------------------

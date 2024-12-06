@@ -1,0 +1,11 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+   Compiling ../../../../mmult_test.cpp in debug mode
+   Compiling ../../../../mmult_accel.cpp in debug mode
+   Generating csim.exe
+NORMAL MODE
+
+Matrixes identical ... Test successful!
+
+INFO: [SIM 1] CSim done with 0 errors.
+INFO: [SIM 3] *************** CSIM finish ***************

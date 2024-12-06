@@ -245,10 +245,10 @@ set ID 207
 set hasByteEnable 0
 set MemName HLS_accel_a_0
 set CoreName ap_simcore_mem
-set PortList { 2 3 }
+set PortList { 2 1 }
 set DataWd 16
-set AddrRange 200
-set AddrWd 8
+set AddrRange 400
+set AddrWd 9
 set impl_style block
 set TrueReset 0
 set HasInitializer 0

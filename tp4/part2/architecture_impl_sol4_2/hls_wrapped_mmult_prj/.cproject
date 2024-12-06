@@ -59,6 +59,8 @@
                                     									
                                     <listOptionValue builtIn="false" value="C:/Xilinx/Vivado/2018.3/win64/tools/systemc/include"/>
                                     									
+                                    <listOptionValue builtIn="false" value="C:/Temp/code_de_depart_partie2/architecture_impl_sol4_2"/>
+                                    									
                                     <listOptionValue builtIn="false" value="C:/Xilinx/Vivado/2018.3/include/etc"/>
                                     								
                                 </option>
@@ -92,6 +94,8 @@
                                     <listOptionValue builtIn="false" value="C:/Xilinx/Vivado/2018.3/include/ap_sysc"/>
                                     									
                                     <listOptionValue builtIn="false" value="C:/Xilinx/Vivado/2018.3/win64/tools/systemc/include"/>
+                                    									
+                                    <listOptionValue builtIn="false" value="C:/Temp/code_de_depart_partie2/architecture_impl_sol4_2"/>
                                     									
                                     <listOptionValue builtIn="false" value="C:/Xilinx/Vivado/2018.3/include/etc"/>
                                     								
@@ -169,8 +173,6 @@
                             							
                             <option id="gnu.cpp.compiler.option.include.paths.1410133085" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" valueType="includePath">
                                 								
-                                <listOptionValue builtIn="false" value="C:/Temp/3610/2127936_2203907/Lab2/Lab2_p2/code_de_depart_partie2/architecture_impl_sol4_2"/>
-                                								
                                 <listOptionValue builtIn="false" value="C:/Xilinx/Vivado/2018.3/include"/>
                                 								
                                 <listOptionValue builtIn="false" value="C:/Xilinx/Vivado/2018.3/win64/tools/auto_cc/include"/>
@@ -178,6 +180,8 @@
                                 <listOptionValue builtIn="false" value="C:/Xilinx/Vivado/2018.3/include/ap_sysc"/>
                                 								
                                 <listOptionValue builtIn="false" value="C:/Xilinx/Vivado/2018.3/win64/tools/systemc/include"/>
+                                								
+                                <listOptionValue builtIn="false" value="C:/Temp/code_de_depart_partie2/architecture_impl_sol4_2"/>
                                 								
                                 <listOptionValue builtIn="false" value="C:/Xilinx/Vivado/2018.3/include/etc"/>
                                 							
@@ -203,8 +207,6 @@
                             							
                             <option id="gnu.cpp.compiler.option.include.paths.637893133" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" valueType="includePath">
                                 								
-                                <listOptionValue builtIn="false" value="C:/Temp/3610/2127936_2203907/Lab2/Lab2_p2/code_de_depart_partie2/architecture_impl_sol4_2"/>
-                                								
                                 <listOptionValue builtIn="false" value="C:/Xilinx/Vivado/2018.3/include"/>
                                 								
                                 <listOptionValue builtIn="false" value="C:/Xilinx/Vivado/2018.3/win64/tools/auto_cc/include"/>
@@ -212,6 +214,8 @@
                                 <listOptionValue builtIn="false" value="C:/Xilinx/Vivado/2018.3/include/ap_sysc"/>
                                 								
                                 <listOptionValue builtIn="false" value="C:/Xilinx/Vivado/2018.3/win64/tools/systemc/include"/>
+                                								
+                                <listOptionValue builtIn="false" value="C:/Temp/code_de_depart_partie2/architecture_impl_sol4_2"/>
                                 								
                                 <listOptionValue builtIn="false" value="C:/Xilinx/Vivado/2018.3/include/etc"/>
                                 							
@@ -295,6 +299,8 @@
                                     									
                                     <listOptionValue builtIn="false" value="C:/Xilinx/Vivado/2018.3/win64/tools/systemc/include"/>
                                     									
+                                    <listOptionValue builtIn="false" value="C:/Temp/code_de_depart_partie2/architecture_impl_sol4_2"/>
+                                    									
                                     <listOptionValue builtIn="false" value="C:/Xilinx/Vivado/2018.3/include/etc"/>
                                     								
                                 </option>
@@ -318,6 +324,8 @@
                                     <listOptionValue builtIn="false" value="C:/Xilinx/Vivado/2018.3/include/ap_sysc"/>
                                     									
                                     <listOptionValue builtIn="false" value="C:/Xilinx/Vivado/2018.3/win64/tools/systemc/include"/>
+                                    									
+                                    <listOptionValue builtIn="false" value="C:/Temp/code_de_depart_partie2/architecture_impl_sol4_2"/>
                                     									
                                     <listOptionValue builtIn="false" value="C:/Xilinx/Vivado/2018.3/include/etc"/>
                                     								
@@ -385,8 +393,6 @@
                             							
                             <option id="gnu.cpp.compiler.option.include.paths.1981355353" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" valueType="includePath">
                                 								
-                                <listOptionValue builtIn="false" value="C:/Temp/3610/2127936_2203907/Lab2/Lab2_p2/code_de_depart_partie2/architecture_impl_sol4_2"/>
-                                								
                                 <listOptionValue builtIn="false" value="C:/Xilinx/Vivado/2018.3/include"/>
                                 								
                                 <listOptionValue builtIn="false" value="C:/Xilinx/Vivado/2018.3/win64/tools/auto_cc/include"/>
@@ -394,6 +400,8 @@
                                 <listOptionValue builtIn="false" value="C:/Xilinx/Vivado/2018.3/include/ap_sysc"/>
                                 								
                                 <listOptionValue builtIn="false" value="C:/Xilinx/Vivado/2018.3/win64/tools/systemc/include"/>
+                                								
+                                <listOptionValue builtIn="false" value="C:/Temp/code_de_depart_partie2/architecture_impl_sol4_2"/>
                                 								
                                 <listOptionValue builtIn="false" value="C:/Xilinx/Vivado/2018.3/include/etc"/>
                                 							
@@ -419,8 +427,6 @@
                             							
                             <option id="gnu.cpp.compiler.option.include.paths.1713287667" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" valueType="includePath">
                                 								
-                                <listOptionValue builtIn="false" value="C:/Temp/3610/2127936_2203907/Lab2/Lab2_p2/code_de_depart_partie2/architecture_impl_sol4_2"/>
-                                								
                                 <listOptionValue builtIn="false" value="C:/Xilinx/Vivado/2018.3/include"/>
                                 								
                                 <listOptionValue builtIn="false" value="C:/Xilinx/Vivado/2018.3/win64/tools/auto_cc/include"/>
@@ -428,6 +434,8 @@
                                 <listOptionValue builtIn="false" value="C:/Xilinx/Vivado/2018.3/include/ap_sysc"/>
                                 								
                                 <listOptionValue builtIn="false" value="C:/Xilinx/Vivado/2018.3/win64/tools/systemc/include"/>
+                                								
+                                <listOptionValue builtIn="false" value="C:/Temp/code_de_depart_partie2/architecture_impl_sol4_2"/>
                                 								
                                 <listOptionValue builtIn="false" value="C:/Xilinx/Vivado/2018.3/include/etc"/>
                                 							

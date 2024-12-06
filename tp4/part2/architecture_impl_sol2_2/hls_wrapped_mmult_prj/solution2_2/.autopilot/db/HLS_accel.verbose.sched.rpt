@@ -3,7 +3,7 @@
 ================================================================
 == Vivado HLS Report for 'HLS_accel'
 ================================================================
-* Date:           Sun Dec  1 17:51:53 2024
+* Date:           Wed Dec  4 03:42:15 2024
 
 * Version:        2018.3 (Build 2405991 on Thu Dec 06 23:56:15 MST 2018)
 * Project:        hls_wrapped_mmult_prj
@@ -2731,8 +2731,8 @@ The critical path consists of the following:
 	'phi' operation ('i_0_i', ./mmult.h:140->mmult_accel.cpp:26) with incoming values : ('tmp_1_mid2_v', ./mmult.h:140->mmult_accel.cpp:26) [145]  (0 ns)
 	'add' operation ('i', ./mmult.h:135->mmult_accel.cpp:26) [151]  (1.83 ns)
 	'select' operation ('tmp_1_mid2_v', ./mmult.h:140->mmult_accel.cpp:26) [154]  (1.19 ns)
-	'getelementptr' operation ('a_48_addr', ./mmult.h:140->mmult_accel.cpp:26) [179]  (0 ns)
-	'store' operation (./mmult.h:140->mmult_accel.cpp:26) of variable 'ret', ./mmult.h:81->./mmult.h:140->mmult_accel.cpp:26 on array 'a[48]', ./mmult.h:128->mmult_accel.cpp:26 [180]  (2.32 ns)
+	'getelementptr' operation ('a_15_addr', ./mmult.h:140->mmult_accel.cpp:26) [311]  (0 ns)
+	'store' operation (./mmult.h:140->mmult_accel.cpp:26) of variable 'ret', ./mmult.h:81->./mmult.h:140->mmult_accel.cpp:26 on array 'a[15]', ./mmult.h:128->mmult_accel.cpp:26 [312]  (2.32 ns)
 
  <State 3>: 1.77ns
 The critical path consists of the following:
@@ -2743,8 +2743,8 @@ The critical path consists of the following:
 	'phi' operation ('j') with incoming values : ('j', ./mmult.h:146->mmult_accel.cpp:26) [387]  (0 ns)
 	'icmp' operation ('exitcond2_i', ./mmult.h:146->mmult_accel.cpp:26) [393]  (1.43 ns)
 	'select' operation ('j2_0_i_mid2', ./mmult.h:146->mmult_accel.cpp:26) [394]  (1.19 ns)
-	'getelementptr' operation ('b_28_addr', ./mmult.h:150->mmult_accel.cpp:26) [430]  (0 ns)
-	'store' operation (./mmult.h:150->mmult_accel.cpp:26) of variable 'ret', ./mmult.h:81->./mmult.h:150->mmult_accel.cpp:26 on array 'b[28]', ./mmult.h:129->mmult_accel.cpp:26 [530]  (2.32 ns)
+	'getelementptr' operation ('b_45_addr', ./mmult.h:150->mmult_accel.cpp:26) [447]  (0 ns)
+	'store' operation (./mmult.h:150->mmult_accel.cpp:26) of variable 'ret', ./mmult.h:81->./mmult.h:150->mmult_accel.cpp:26 on array 'b[45]', ./mmult.h:129->mmult_accel.cpp:26 [479]  (2.32 ns)
 
  <State 5>: 1.77ns
 The critical path consists of the following:

@@ -2,11 +2,11 @@
 # Vivado v2018.3 (64-bit)
 # SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
 # IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
-# Start of session at: Sun Dec  1 17:52:11 2024
-# Process ID: 14544
-# Current directory: C:/Temp/code_de_depart_partie2/architecture_impl_sol2_2/hls_wrapped_mmult_prj/solution2_2/impl/verilog
+# Start of session at: Wed Dec  4 03:42:53 2024
+# Process ID: 24296
+# Current directory: C:/part2/architecture_impl_sol2_2/hls_wrapped_mmult_prj/solution2_2/impl/verilog
 # Command line: vivado.exe -notrace -mode batch -source run_vivado.tcl
-# Log file: C:/Temp/code_de_depart_partie2/architecture_impl_sol2_2/hls_wrapped_mmult_prj/solution2_2/impl/verilog/vivado.log
-# Journal file: C:/Temp/code_de_depart_partie2/architecture_impl_sol2_2/hls_wrapped_mmult_prj/solution2_2/impl/verilog\vivado.jou
+# Log file: C:/part2/architecture_impl_sol2_2/hls_wrapped_mmult_prj/solution2_2/impl/verilog/vivado.log
+# Journal file: C:/part2/architecture_impl_sol2_2/hls_wrapped_mmult_prj/solution2_2/impl/verilog\vivado.jou
 #-----------------------------------------------------------
 source run_vivado.tcl -notrace

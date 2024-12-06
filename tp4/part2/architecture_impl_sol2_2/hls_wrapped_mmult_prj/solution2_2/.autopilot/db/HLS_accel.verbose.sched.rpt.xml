@@ -1,7 +1,7 @@
 <profile>
 
 <section name = "Vivado HLS Report for 'HLS_accel'" level="0">
-<item name = "Date">Sun Dec  1 17:51:53 2024
+<item name = "Date">Wed Dec  4 03:42:15 2024
 </item>
 <item name = "Version">2018.3 (Build 2405991 on Thu Dec 06 23:56:15 MST 2018)</item>
 <item name = "Project">hls_wrapped_mmult_prj</item>

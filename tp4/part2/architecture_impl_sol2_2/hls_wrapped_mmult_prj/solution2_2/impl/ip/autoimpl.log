@@ -5,8 +5,6 @@
     ** Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
 
 source run_ippack.tcl -notrace
-INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter.
-Current project path is 'C:/Temp/code_de_depart_partie2/architecture_impl_sol2_2/hls_wrapped_mmult_prj/solution2_2/impl/ip'
 INFO: [IP_Flow 19-234] Refreshing IP repositories
 INFO: [IP_Flow 19-1704] No user IP repositories specified
 INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.3/data/ip'.
@@ -19,4 +17,4 @@ INFO: [IP_Flow 19-1686] Generating 'Simulation' target for IP 'HLS_accel_ap_hmul
 INFO: [IP_Flow 19-234] Refreshing IP repositories
 INFO: [IP_Flow 19-1704] No user IP repositories specified
 INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.3/data/ip'.
-INFO: [Common 17-206] Exiting Vivado at Sun Dec  1 17:52:10 2024...
+INFO: [Common 17-206] Exiting Vivado at Wed Dec  4 03:42:50 2024...

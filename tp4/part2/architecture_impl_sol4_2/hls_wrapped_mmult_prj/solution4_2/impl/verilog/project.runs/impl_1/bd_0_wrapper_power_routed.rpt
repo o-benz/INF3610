@@ -1,7 +1,7 @@
 Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 | Tool Version     : Vivado v.2018.3 (win64) Build 2405991 Thu Dec  6 23:38:27 MST 2018
-| Date             : Sun Dec  1 21:41:18 2024
+| Date             : Tue Dec  3 19:08:09 2024
 | Host             : LAPTOP-G11L2QA5 running 64-bit major release  (build 9200)
 | Command          : report_power -file bd_0_wrapper_power_routed.rpt -pb bd_0_wrapper_power_summary_routed.pb -rpx bd_0_wrapper_power_routed.rpx
 | Design           : bd_0_wrapper
@@ -30,14 +30,14 @@ Table of Contents
 ----------
 
 +--------------------------+--------------+
-| Total On-Chip Power (W)  | 0.720        |
+| Total On-Chip Power (W)  | 0.628        |
 | Design Power Budget (W)  | Unspecified* |
 | Power Budget Margin (W)  | NA           |
-| Dynamic (W)              | 0.596        |
-| Device Static (W)        | 0.124        |
+| Dynamic (W)              | 0.506        |
+| Device Static (W)        | 0.121        |
 | Effective TJA (C/W)      | 11.5         |
-| Max Ambient (C)          | 76.7         |
-| Junction Temperature (C) | 33.3         |
+| Max Ambient (C)          | 77.8         |
+| Junction Temperature (C) | 32.2         |
 | Confidence Level         | Medium       |
 | Setting File             | ---          |
 | Simulation Activity File | ---          |
@@ -49,24 +49,23 @@ Table of Contents
 1.1 On-Chip Components
 ----------------------
 
-+--------------------------+-----------+----------+-----------+-----------------+
-| On-Chip                  | Power (W) | Used     | Available | Utilization (%) |
-+--------------------------+-----------+----------+-----------+-----------------+
-| Clocks                   |     0.030 |        3 |       --- |             --- |
-| Slice Logic              |     0.065 |    28228 |       --- |             --- |
-|   LUT as Distributed RAM |     0.032 |    11776 |     17400 |           67.68 |
-|   LUT as Logic           |     0.029 |     9640 |     53200 |           18.12 |
-|   CARRY4                 |     0.002 |      216 |     13300 |            1.62 |
-|   F7/F8 Muxes            |     0.002 |     2945 |     53200 |            5.54 |
-|   Register               |    <0.001 |     2380 |    106400 |            2.24 |
-|   LUT as Shift Register  |    <0.001 |        8 |     17400 |            0.05 |
-|   Others                 |     0.000 |      985 |       --- |             --- |
-| Signals                  |     0.134 |    31414 |       --- |             --- |
-| Block RAM                |     0.170 |      140 |       140 |          100.00 |
-| DSPs                     |     0.197 |      202 |       220 |           91.82 |
-| Static Power             |     0.124 |          |           |                 |
-| Total                    |     0.720 |          |           |                 |
-+--------------------------+-----------+----------+-----------+-----------------+
++-------------------------+-----------+----------+-----------+-----------------+
+| On-Chip                 | Power (W) | Used     | Available | Utilization (%) |
++-------------------------+-----------+----------+-----------+-----------------+
+| Clocks                  |     0.008 |        3 |       --- |             --- |
+| Slice Logic             |     0.016 |     3734 |       --- |             --- |
+|   LUT as Logic          |     0.014 |     1610 |     53200 |            3.03 |
+|   CARRY4                |     0.002 |      218 |     13300 |            1.64 |
+|   Register              |    <0.001 |      820 |    106400 |            0.77 |
+|   LUT as Shift Register |    <0.001 |        8 |     17400 |            0.05 |
+|   F7/F8 Muxes           |    <0.001 |        1 |     53200 |           <0.01 |
+|   Others                |     0.000 |      769 |       --- |             --- |
+| Signals                 |     0.052 |    16100 |       --- |             --- |
+| Block RAM               |     0.243 |      132 |       140 |           94.29 |
+| DSPs                    |     0.188 |      202 |       220 |           91.82 |
+| Static Power            |     0.121 |          |           |                 |
+| Total                   |     0.628 |          |           |                 |
++-------------------------+-----------+----------+-----------+-----------------+
 
 
 1.2 Power Supply Summary
@@ -75,7 +74,7 @@ Table of Contents
 +-----------+-------------+-----------+-------------+------------+
 | Source    | Voltage (V) | Total (A) | Dynamic (A) | Static (A) |
 +-----------+-------------+-----------+-------------+------------+
-| Vccint    |       1.000 |     0.600 |       0.584 |      0.015 |
+| Vccint    |       1.000 |     0.503 |       0.489 |      0.014 |
 | Vccaux    |       1.800 |     0.012 |       0.000 |      0.012 |
 | Vcco33    |       3.300 |     0.000 |       0.000 |      0.000 |
 | Vcco25    |       2.500 |     0.000 |       0.000 |      0.000 |
@@ -84,11 +83,11 @@ Table of Contents
 | Vcco135   |       1.350 |     0.000 |       0.000 |      0.000 |
 | Vcco12    |       1.200 |     0.000 |       0.000 |      0.000 |
 | Vccaux_io |       1.800 |     0.000 |       0.000 |      0.000 |
-| Vccbram   |       1.000 |     0.019 |       0.012 |      0.007 |
+| Vccbram   |       1.000 |     0.024 |       0.018 |      0.006 |
 | MGTAVcc   |       1.000 |     0.000 |       0.000 |      0.000 |
 | MGTAVtt   |       1.200 |     0.000 |       0.000 |      0.000 |
 | MGTVccaux |       1.800 |     0.000 |       0.000 |      0.000 |
-| Vccpint   |       1.000 |     0.021 |       0.000 |      0.021 |
+| Vccpint   |       1.000 |     0.020 |       0.000 |      0.020 |
 | Vccpaux   |       1.800 |     0.010 |       0.000 |      0.010 |
 | Vccpll    |       1.800 |     0.003 |       0.000 |      0.003 |
 | Vcco_ddr  |       1.500 |     0.000 |       0.000 |      0.000 |
@@ -151,10 +150,10 @@ Table of Contents
 +--------------+-----------+
 | Name         | Power (W) |
 +--------------+-----------+
-| bd_0_wrapper |     0.596 |
-|   bd_0_i     |     0.596 |
-|     hls_inst |     0.596 |
-|       inst   |     0.596 |
+| bd_0_wrapper |     0.506 |
+|   bd_0_i     |     0.506 |
+|     hls_inst |     0.506 |
+|       inst   |     0.506 |
 +--------------+-----------+
 
 

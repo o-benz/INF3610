@@ -7595,10 +7595,10 @@ void matrix_multiply_ref(T a[DIM][DIM], T b[DIM][DIM], T out[DIM][DIM])
 template <typename T, int DIM>
 void mmult_hw(T a[DIM][DIM], T b[DIM][DIM], T out[DIM][DIM])
 {
-#pragma HLS ARRAY_PARTITION variable=&a complete dim=2
+#pragma HLS ARRAY_PARTITION variable=&a block factor=100 dim=2
 # 47 "./mmult.h"
 
-#pragma HLS ARRAY_PARTITION variable=&b complete dim=1
+#pragma HLS ARRAY_PARTITION variable=&b block factor=100 dim=1
 # 47 "./mmult.h"
 
 #pragma HLS INLINE

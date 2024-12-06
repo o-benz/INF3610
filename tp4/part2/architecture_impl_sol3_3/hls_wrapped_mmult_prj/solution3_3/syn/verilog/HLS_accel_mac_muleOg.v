@@ -1,5 +1,5 @@
 // ==============================================================
-// File generated on Sun Dec 01 18:11:07 -0500 2024
+// File generated on Tue Dec 03 18:09:19 -0500 2024
 // Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2018.3 (64-bit)
 // SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
 // IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
@@ -7,7 +7,7 @@
 // ==============================================================
 `timescale 1 ns / 1 ps
 
-(* use_dsp = "yes" *) module HLS_accel_mac_muleOg_DSP48_0(
+(* use_dsp = "yes" *) module HLS_accel_mac_muleOg_DSP48_1(
     input  [6 - 1:0] in0,
     input  [7 - 1:0] in1,
     input  [6 - 1:0] in2,
@@ -49,7 +49,7 @@ output[dout_WIDTH - 1:0] dout;
 
 
 
-HLS_accel_mac_muleOg_DSP48_0 HLS_accel_mac_muleOg_DSP48_0_U(
+HLS_accel_mac_muleOg_DSP48_1 HLS_accel_mac_muleOg_DSP48_1_U(
     .in0( din0 ),
     .in1( din1 ),
     .in2( din2 ),

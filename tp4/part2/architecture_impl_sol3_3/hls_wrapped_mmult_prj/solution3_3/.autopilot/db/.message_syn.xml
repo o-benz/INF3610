@@ -2,33 +2,29 @@
 <Messages>
 	<Message severity="INFO" prefix="[SCHED 204-61]" key="SCHED_PIPELINING_STATUS_631" tag="SCHEDULE" content="Option &apos;relax_ii_for_timing&apos; is enabled, will increase II to preserve clock frequency constraints."/>
 	<Message severity="INFO" prefix="[HLS 200-10]" key="HLS_10_1312" tag="" content="Analyzing design file &apos;mmult_accel.cpp&apos; ..."/>
-	<Message severity="INFO" prefix="[HLS 200-111]" key="HLS_111_965" tag="" content="Finished Linking Time (s): cpu = 00:00:01 ; elapsed = 00:00:06 . Memory (MB): peak = 105.637 ; gain = 20.586"/>
-	<Message severity="INFO" prefix="[HLS 200-111]" key="HLS_111_965" tag="" content="Finished Checking Pragmas Time (s): cpu = 00:00:01 ; elapsed = 00:00:06 . Memory (MB): peak = 105.637 ; gain = 20.586"/>
+	<Message severity="INFO" prefix="[HLS 200-111]" key="HLS_111_965" tag="" content="Finished Linking Time (s): cpu = 00:00:01 ; elapsed = 00:00:08 . Memory (MB): peak = 106.344 ; gain = 21.426"/>
+	<Message severity="INFO" prefix="[HLS 200-111]" key="HLS_111_965" tag="" content="Finished Checking Pragmas Time (s): cpu = 00:00:01 ; elapsed = 00:00:08 . Memory (MB): peak = 106.344 ; gain = 21.426"/>
 	<Message severity="INFO" prefix="[HLS 200-10]" key="HLS_10_1467" tag="" content="Starting code transformations ..."/>
 	<Message severity="INFO" prefix="[XFORM 203-603]" key="XFORM_INLINE_STATUS_221" tag="" content="Inlining function &apos;pop_stream&lt;decimal16, 4, 5, 5&gt;&apos; into &apos;wrapped_mmult_hw&lt;decimal16, 54, 2916, 4, 5, 5&gt;&apos; (./mmult.h:154)."/>
 	<Message severity="INFO" prefix="[XFORM 203-603]" key="XFORM_INLINE_STATUS_221" tag="" content="Inlining function &apos;pop_stream&lt;decimal16, 4, 5, 5&gt;&apos; into &apos;wrapped_mmult_hw&lt;decimal16, 54, 2916, 4, 5, 5&gt;&apos; (./mmult.h:144)."/>
 	<Message severity="INFO" prefix="[XFORM 203-603]" key="XFORM_INLINE_STATUS_221" tag="" content="Inlining function &apos;mmult_hw&lt;decimal16, 54&gt;&apos; into &apos;wrapped_mmult_hw&lt;decimal16, 54, 2916, 4, 5, 5&gt;&apos; (./mmult.h:158)."/>
 	<Message severity="INFO" prefix="[XFORM 203-603]" key="XFORM_INLINE_STATUS_221" tag="" content="Inlining function &apos;push_stream&lt;decimal16, 4, 5, 5&gt;&apos; into &apos;wrapped_mmult_hw&lt;decimal16, 54, 2916, 4, 5, 5&gt;&apos; (./mmult.h:166)."/>
 	<Message severity="INFO" prefix="[XFORM 203-603]" key="XFORM_INLINE_STATUS_221" tag="" content="Inlining function &apos;wrapped_mmult_hw&lt;decimal16, 54, 2916, 4, 5, 5&gt;&apos; into &apos;HLS_accel&apos; (mmult_accel.cpp:26)."/>
-	<Message severity="INFO" prefix="[HLS 200-111]" key="HLS_111_965" tag="" content="Finished Standard Transforms Time (s): cpu = 00:00:06 ; elapsed = 00:00:12 . Memory (MB): peak = 111.594 ; gain = 26.543"/>
+	<Message severity="INFO" prefix="[HLS 200-111]" key="HLS_111_965" tag="" content="Finished Standard Transforms Time (s): cpu = 00:00:05 ; elapsed = 00:00:14 . Memory (MB): peak = 111.766 ; gain = 26.848"/>
 	<Message severity="INFO" prefix="[HLS 200-10]" key="HLS_10_1472" tag="" content="Checking synthesizability ..."/>
-	<Message severity="INFO" prefix="[HLS 200-111]" key="HLS_111_965" tag="" content="Finished Checking Synthesizability Time (s): cpu = 00:00:06 ; elapsed = 00:00:13 . Memory (MB): peak = 112.117 ; gain = 27.066"/>
+	<Message severity="INFO" prefix="[HLS 200-111]" key="HLS_111_965" tag="" content="Finished Checking Synthesizability Time (s): cpu = 00:00:06 ; elapsed = 00:00:15 . Memory (MB): peak = 112.488 ; gain = 27.570"/>
 	<Message severity="WARNING" prefix="[XFORM 203-1103]" key="XFORM_DATA_PACK_INVALID_346" tag="" content="Ignored data pack directive on non-struct variable &apos;OUTPUT_STREAM.data.V&apos; (mmult_accel.cpp:19)."/>
 	<Message severity="WARNING" prefix="[XFORM 203-1103]" key="XFORM_DATA_PACK_INVALID_346" tag="" content="Ignored data pack directive on non-struct variable &apos;INPUT_STREAM.data.V&apos; (mmult_accel.cpp:19)."/>
 	<Message severity="INFO" prefix="[XFORM 203-502]" key="XFORM_AUTO_UNROLL_STATUS_246" tag="" content="Unrolling all sub-loops inside loop &apos;L2&apos; (./mmult.h:57) in function &apos;HLS_accel&apos; for pipelining."/>
 	<Message severity="INFO" prefix="[HLS 200-489]" key="HLS 200-489" tag="" content="Unrolling loop &apos;L3&apos; (./mmult.h:59) in function &apos;HLS_accel&apos; completely with a factor of 54."/>
-	<Message severity="WARNING" prefix="[XFORM 203-105]" key="XFORM_PARTITION_INVALID_134" tag="ARRAY,SDX_ARRAY" content="Cannot partition array &apos;a&apos; (./mmult.h:132): indivisible factor 26 on dimension 2, which has 54 elements."/>
-	<Message severity="WARNING" prefix="[XFORM 203-105]" key="XFORM_PARTITION_INVALID_134" tag="ARRAY,SDX_ARRAY" content="Cannot partition array &apos;b&apos; (./mmult.h:133): indivisible factor 26 on dimension 1, which has 54 elements."/>
-	<Message severity="WARNING" prefix="[XFORM 203-105]" key="XFORM_PARTITION_INVALID_134" tag="ARRAY,SDX_ARRAY" content="Cannot partition array &apos;a&apos; (./mmult.h:132): indivisible factor 26 on dimension 2, which has 54 elements."/>
-	<Message severity="WARNING" prefix="[XFORM 203-105]" key="XFORM_PARTITION_INVALID_134" tag="ARRAY,SDX_ARRAY" content="Cannot partition array &apos;b&apos; (./mmult.h:133): indivisible factor 26 on dimension 1, which has 54 elements."/>
-	<Message severity="WARNING" prefix="[XFORM 203-104]" key="XFORM_PARTITION_VAR_INDEX_118" tag="ARRAY,SDX_ARRAY" content="Completely partitioning array &apos;out&apos; (./mmult.h:134) accessed through non-constant indices on dimension 1 (./mmult.h:166:22), which may result in long runtime and suboptimal QoR due to large multiplexers. Please consider wrapping the array access into a function or using a register file core instead."/>
-	<Message severity="INFO" prefix="[XFORM 203-101]" key="XFORM_PARTITION_STATUS_116" tag="" content="Partitioning array &apos;out&apos; (./mmult.h:134) in dimension 1 completely."/>
-	<Message severity="INFO" prefix="[HLS 200-111]" key="HLS_111_965" tag="" content="Finished Pre-synthesis Time (s): cpu = 00:00:08 ; elapsed = 00:00:15 . Memory (MB): peak = 137.883 ; gain = 52.832"/>
+	<Message severity="INFO" prefix="[XFORM 203-101]" key="XFORM_PARTITION_STATUS_111" tag="" content="Partitioning array &apos;a&apos; (./mmult.h:132) in dimension 2 with a block factor 14."/>
+	<Message severity="INFO" prefix="[XFORM 203-101]" key="XFORM_PARTITION_STATUS_111" tag="" content="Partitioning array &apos;b&apos; (./mmult.h:133) in dimension 1 with a block factor 14."/>
+	<Message severity="INFO" prefix="[HLS 200-111]" key="HLS_111_965" tag="" content="Finished Pre-synthesis Time (s): cpu = 00:00:07 ; elapsed = 00:00:17 . Memory (MB): peak = 137.156 ; gain = 52.238"/>
 	<Message severity="INFO" prefix="[XFORM 203-541]" key="XFORM_LOOPFLAT_STATUS_218" tag="" content="Flattening a loop nest &apos;Loop-1&apos; (./mmult.h:139:13) in function &apos;HLS_accel&apos;."/>
 	<Message severity="INFO" prefix="[XFORM 203-541]" key="XFORM_LOOPFLAT_STATUS_218" tag="" content="Flattening a loop nest &apos;Loop-2&apos; (./mmult.h:149:14) in function &apos;HLS_accel&apos;."/>
 	<Message severity="INFO" prefix="[XFORM 203-541]" key="XFORM_LOOPFLAT_STATUS_218" tag="" content="Flattening a loop nest &apos;L1&apos; (./mmult.h:56:3) in function &apos;HLS_accel&apos;."/>
 	<Message severity="INFO" prefix="[XFORM 203-541]" key="XFORM_LOOPFLAT_STATUS_218" tag="" content="Flattening a loop nest &apos;Loop-4&apos; (./mmult.h:161:15) in function &apos;HLS_accel&apos;."/>
-	<Message severity="INFO" prefix="[HLS 200-111]" key="HLS_111_965" tag="" content="Finished Architecture Synthesis Time (s): cpu = 00:00:18 ; elapsed = 00:00:25 . Memory (MB): peak = 141.887 ; gain = 56.836"/>
+	<Message severity="INFO" prefix="[HLS 200-111]" key="HLS_111_965" tag="" content="Finished Architecture Synthesis Time (s): cpu = 00:00:09 ; elapsed = 00:00:20 . Memory (MB): peak = 137.727 ; gain = 52.809"/>
 	<Message severity="INFO" prefix="[HLS 200-10]" key="HLS_10_1317" tag="" content="Starting hardware synthesis ..."/>
 	<Message severity="INFO" prefix="[HLS 200-10]" key="HLS_10_1385" tag="" content="Synthesizing &apos;HLS_accel&apos; ..."/>
 	<Message severity="INFO" prefix="[HLS 200-10]" key="HLS_10_1477" tag="" content="----------------------------------------------------------------"/>
@@ -36,28 +32,27 @@
 	<Message severity="INFO" prefix="[HLS 200-10]" key="HLS_10_1478" tag="" content="----------------------------------------------------------------"/>
 	<Message severity="INFO" prefix="[SCHED 204-11]" key="SCHED_SCHED_STATUS_597" tag="" content="Starting scheduling ..."/>
 	<Message severity="INFO" prefix="[SCHED 204-61]" key="SCHED_PIPELINING_STATUS_41" tag="" content="Pipelining loop &apos;Loop 1&apos;."/>
-	<Message severity="INFO" prefix="[SCHED 204-61]" key="SCHED_PIPELINING_STATUS_44" tag="" content="Pipelining result : Target II = 1, Final II = 1, Depth = 2."/>
+	<Message severity="INFO" prefix="[SCHED 204-61]" key="SCHED_PIPELINING_STATUS_44" tag="" content="Pipelining result : Target II = 1, Final II = 1, Depth = 1."/>
 	<Message severity="INFO" prefix="[SCHED 204-61]" key="SCHED_PIPELINING_STATUS_41" tag="" content="Pipelining loop &apos;Loop 2&apos;."/>
 	<Message severity="INFO" prefix="[SCHED 204-61]" key="SCHED_PIPELINING_STATUS_44" tag="" content="Pipelining result : Target II = 1, Final II = 1, Depth = 2."/>
 	<Message severity="INFO" prefix="[SCHED 204-61]" key="SCHED_PIPELINING_STATUS_41" tag="" content="Pipelining loop &apos;L1_L2&apos;."/>
-	<Message severity="WARNING" prefix="[SCHED 204-69]" key="SCHED_RESOURCE_CONSTRAINT_NOT_MET_38" tag="SDX_KERNEL,SCHEDULE" content="Unable to schedule &apos;load&apos; operation (&apos;b_load_4&apos;, ./mmult.h:60-&gt;./mmult.h:158-&gt;mmult_accel.cpp:26) on array &apos;b&apos;, ./mmult.h:133-&gt;mmult_accel.cpp:26 due to limited memory ports. Please consider using a memory core with more ports or partitioning the array &apos;b&apos;."/>
-	<Message severity="INFO" prefix="[SCHED 204-61]" key="SCHED_PIPELINING_STATUS_44" tag="" content="Pipelining result : Target II = 2, Final II = 27, Depth = 224."/>
+	<Message severity="INFO" prefix="[SCHED 204-61]" key="SCHED_PIPELINING_STATUS_44" tag="" content="Pipelining result : Target II = 2, Final II = 2, Depth = 224."/>
 	<Message severity="INFO" prefix="[SCHED 204-61]" key="SCHED_PIPELINING_STATUS_41" tag="" content="Pipelining loop &apos;Loop 4&apos;."/>
-	<Message severity="INFO" prefix="[SCHED 204-61]" key="SCHED_PIPELINING_STATUS_44" tag="" content="Pipelining result : Target II = 1, Final II = 1, Depth = 3."/>
+	<Message severity="INFO" prefix="[SCHED 204-61]" key="SCHED_PIPELINING_STATUS_44" tag="" content="Pipelining result : Target II = 1, Final II = 1, Depth = 4."/>
 	<Message severity="WARNING" prefix="[SCHED 204-21]" key="SCHED_DELAY_EXCEEDED_76" tag="SDX_KERNEL,SCHEDULE" content="Estimated clock period (9.634ns) exceeds the target (target clock period: 10ns, clock uncertainty: 1.25ns, effective delay budget: 8.75ns)."/>
 	<Message severity="WARNING" prefix="[SCHED 204-21]" key="SCHED_DELAY_EXCEEDED_74" tag="SDX_KERNEL,SCHEDULE" content="The critical path in module &apos;HLS_accel&apos; consists of the following:
-	&apos;mul&apos; operation of DSP[110] (&apos;tmp_1&apos;, ./mmult.h:144-&gt;mmult_accel.cpp:26) [103]  (3.36 ns)
-	&apos;add&apos; operation of DSP[110] (&apos;tmp_2&apos;, ./mmult.h:144-&gt;mmult_accel.cpp:26) [110]  (3.02 ns)
-	&apos;getelementptr&apos; operation (&apos;a_addr&apos;, ./mmult.h:144-&gt;mmult_accel.cpp:26) [112]  (0 ns)
-	&apos;store&apos; operation (./mmult.h:144-&gt;mmult_accel.cpp:26) of variable &apos;ret&apos;, ./mmult.h:85-&gt;./mmult.h:144-&gt;mmult_accel.cpp:26 on array &apos;a&apos;, ./mmult.h:132-&gt;mmult_accel.cpp:26 [113]  (3.25 ns)"/>
+	&apos;mul&apos; operation of DSP[174] (&apos;tmp_121&apos;, ./mmult.h:154-&gt;mmult_accel.cpp:26) [167]  (3.36 ns)
+	&apos;add&apos; operation of DSP[174] (&apos;tmp_122&apos;, ./mmult.h:154-&gt;mmult_accel.cpp:26) [174]  (3.02 ns)
+	&apos;getelementptr&apos; operation (&apos;b_12_addr&apos;, ./mmult.h:154-&gt;mmult_accel.cpp:26) [188]  (0 ns)
+	&apos;store&apos; operation (./mmult.h:154-&gt;mmult_accel.cpp:26) of variable &apos;ret&apos;, ./mmult.h:85-&gt;./mmult.h:154-&gt;mmult_accel.cpp:26 on array &apos;b[12]&apos;, ./mmult.h:133-&gt;mmult_accel.cpp:26 [192]  (3.25 ns)"/>
 	<Message severity="INFO" prefix="[SCHED 204-11]" key="SCHED_SCHED_STATUS_596" tag="" content="Finished scheduling."/>
-	<Message severity="INFO" prefix="[HLS 200-111]" key="HLS_111_966" tag="" content=" Elapsed time: 26.175 seconds; current allocated memory: 102.079 MB."/>
+	<Message severity="INFO" prefix="[HLS 200-111]" key="HLS_111_966" tag="" content=" Elapsed time: 20.223 seconds; current allocated memory: 95.241 MB."/>
 	<Message severity="INFO" prefix="[BIND 205-100]" key="BIND_100_926" tag="" content="Starting micro-architecture generation ..."/>
 	<Message severity="INFO" prefix="[BIND 205-101]" key="BIND_101_698" tag="" content="Performing variable lifetime analysis."/>
 	<Message severity="INFO" prefix="[BIND 205-101]" key="BIND_101_697" tag="" content="Exploring resource sharing."/>
 	<Message severity="INFO" prefix="[BIND 205-101]" key="BIND_101_693" tag="" content="Binding ..."/>
 	<Message severity="INFO" prefix="[BIND 205-100]" key="BIND_100_925" tag="" content="Finished micro-architecture generation."/>
-	<Message severity="INFO" prefix="[HLS 200-111]" key="HLS_111_966" tag="" content=" Elapsed time: 1.03 seconds; current allocated memory: 107.450 MB."/>
+	<Message severity="INFO" prefix="[HLS 200-111]" key="HLS_111_966" tag="" content=" Elapsed time: 1.084 seconds; current allocated memory: 99.985 MB."/>
 	<Message severity="INFO" prefix="[HLS 200-10]" key="HLS_10_1483" tag="" content="----------------------------------------------------------------"/>
 	<Message severity="INFO" prefix="[HLS 200-10]" key="HLS_10_1484" tag="" content="-- Generating RTL for module &apos;HLS_accel&apos;"/>
 	<Message severity="INFO" prefix="[HLS 200-10]" key="HLS_10_1485" tag="" content="----------------------------------------------------------------"/>
@@ -79,17 +74,19 @@
 	<Message severity="INFO" prefix="[RTGEN 206-100]" key="RTGEN_100_851" tag="" content="Bundling port &apos;return&apos; to AXI-Lite port CONTROL_BUS."/>
 	<Message severity="INFO" prefix="[SYN 201-210]" key="SYN_210_889" tag="" content="Renamed object name &apos;HLS_accel_hadd_16ns_16ns_16_4_no_dsp_1&apos; to &apos;HLS_accel_hadd_16bkb&apos; due to the length limit 20"/>
 	<Message severity="INFO" prefix="[SYN 201-210]" key="SYN_210_889" tag="" content="Renamed object name &apos;HLS_accel_hmul_16ns_16ns_16_4_no_dsp_1&apos; to &apos;HLS_accel_hmul_16cud&apos; due to the length limit 20"/>
-	<Message severity="INFO" prefix="[SYN 201-210]" key="SYN_210_889" tag="" content="Renamed object name &apos;HLS_accel_mux_546_16_1_1&apos; to &apos;HLS_accel_mux_546dEe&apos; due to the length limit 20"/>
+	<Message severity="INFO" prefix="[SYN 201-210]" key="SYN_210_889" tag="" content="Renamed object name &apos;HLS_accel_mac_muladd_7ns_2ns_6ns_8_1_1&apos; to &apos;HLS_accel_mac_muldEe&apos; due to the length limit 20"/>
 	<Message severity="INFO" prefix="[SYN 201-210]" key="SYN_210_889" tag="" content="Renamed object name &apos;HLS_accel_mac_muladd_6ns_7ns_6ns_12_1_1&apos; to &apos;HLS_accel_mac_muleOg&apos; due to the length limit 20"/>
-	<Message severity="INFO" prefix="[RTGEN 206-100]" key="RTGEN_100_855" tag="" content="Generating core module &apos;HLS_accel_hadd_16bkb&apos;: 2 instance(s)."/>
-	<Message severity="INFO" prefix="[RTGEN 206-100]" key="RTGEN_100_855" tag="" content="Generating core module &apos;HLS_accel_hmul_16cud&apos;: 2 instance(s)."/>
+	<Message severity="INFO" prefix="[RTGEN 206-104]" key="RTGEN_104_852" tag="" content="Estimated max fanout for &apos;HLS_accel&apos; is 24980 from HDL expression: ((1&apos;b1 == ap_CS_fsm_pp2_stage0) &amp; (1&apos;b0 == ap_block_pp2_stage0_11001))"/>
+	<Message severity="INFO" prefix="[RTGEN 206-100]" key="RTGEN_100_855" tag="" content="Generating core module &apos;HLS_accel_hadd_16bkb&apos;: 27 instance(s)."/>
+	<Message severity="INFO" prefix="[RTGEN 206-100]" key="RTGEN_100_855" tag="" content="Generating core module &apos;HLS_accel_hmul_16cud&apos;: 27 instance(s)."/>
+	<Message severity="INFO" prefix="[RTGEN 206-100]" key="RTGEN_100_855" tag="" content="Generating core module &apos;HLS_accel_mac_muldEe&apos;: 1 instance(s)."/>
 	<Message severity="INFO" prefix="[RTGEN 206-100]" key="RTGEN_100_855" tag="" content="Generating core module &apos;HLS_accel_mac_muleOg&apos;: 3 instance(s)."/>
-	<Message severity="INFO" prefix="[RTGEN 206-100]" key="RTGEN_100_855" tag="" content="Generating core module &apos;HLS_accel_mux_546dEe&apos;: 1 instance(s)."/>
 	<Message severity="INFO" prefix="[RTGEN 206-100]" key="RTGEN_100_856" tag="" content="Finished creating RTL model for &apos;HLS_accel&apos;."/>
-	<Message severity="INFO" prefix="[HLS 200-111]" key="HLS_111_966" tag="" content=" Elapsed time: 1.145 seconds; current allocated memory: 114.956 MB."/>
-	<Message severity="INFO" prefix="[RTMG 210-278]" key="RTMG_278_1790" tag="" content="Implementing memory &apos;HLS_accel_a_ram (RAM)&apos; using block RAMs."/>
-	<Message severity="INFO" prefix="[RTMG 210-278]" key="RTMG_278_1790" tag="" content="Implementing memory &apos;HLS_accel_out_0_ram (RAM)&apos; using distributed RAMs."/>
-	<Message severity="INFO" prefix="[HLS 200-111]" key="HLS_111_965" tag="" content="Finished generating all RTL models Time (s): cpu = 00:00:23 ; elapsed = 00:00:32 . Memory (MB): peak = 191.031 ; gain = 105.980"/>
+	<Message severity="INFO" prefix="[HLS 200-111]" key="HLS_111_966" tag="" content=" Elapsed time: 1.795 seconds; current allocated memory: 110.517 MB."/>
+	<Message severity="INFO" prefix="[RTMG 210-278]" key="RTMG_278_1790" tag="" content="Implementing memory &apos;HLS_accel_a_0_ram (RAM)&apos; using block RAMs."/>
+	<Message severity="INFO" prefix="[RTMG 210-278]" key="RTMG_278_1790" tag="" content="Implementing memory &apos;HLS_accel_a_13_ram (RAM)&apos; using block RAMs."/>
+	<Message severity="INFO" prefix="[RTMG 210-278]" key="RTMG_278_1790" tag="" content="Implementing memory &apos;HLS_accel_out_ram (RAM)&apos; using block RAMs."/>
+	<Message severity="INFO" prefix="[HLS 200-111]" key="HLS_111_965" tag="" content="Finished generating all RTL models Time (s): cpu = 00:00:13 ; elapsed = 00:00:27 . Memory (MB): peak = 180.758 ; gain = 95.840"/>
 	<Message severity="INFO" prefix="[SYSC 207-301]" key="SYSC_301_1065" tag="" content="Generating SystemC RTL for HLS_accel."/>
 	<Message severity="INFO" prefix="[VHDL 208-304]" key="VHDL_304_1066" tag="" content="Generating VHDL RTL for HLS_accel."/>
 	<Message severity="INFO" prefix="[VLOG 209-307]" key="VLOG_307_1067" tag="" content="Generating Verilog RTL for HLS_accel."/>

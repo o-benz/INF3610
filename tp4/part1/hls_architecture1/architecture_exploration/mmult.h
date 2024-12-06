@@ -5,7 +5,7 @@
 
 typedef float mat_type;
 
-int const DIM = 42;
+int const DIM = 21;
 int const SIZE = DIM*DIM;
 
 // function prototypes

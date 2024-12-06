@@ -1,5 +1,5 @@
 -- ==============================================================
--- File generated on Sun Dec 01 18:11:07 -0500 2024
+-- File generated on Tue Dec 03 18:09:19 -0500 2024
 -- Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2018.3 (64-bit)
 -- SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
 -- IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
@@ -9,7 +9,7 @@ library IEEE;
 use IEEE.std_logic_1164.all;
 use IEEE.numeric_std.all;
 
-entity HLS_accel_mac_muleOg_DSP48_0 is
+entity HLS_accel_mac_muleOg_DSP48_1 is
 port (
     in0:  in  std_logic_vector(6 - 1 downto 0);
     in1:  in  std_logic_vector(7 - 1 downto 0);
@@ -17,11 +17,11 @@ port (
     dout: out std_logic_vector(12 - 1 downto 0));
 
     attribute use_dsp : string;
-    attribute use_dsp of HLS_accel_mac_muleOg_DSP48_0 : entity is "yes";
+    attribute use_dsp of HLS_accel_mac_muleOg_DSP48_1 : entity is "yes";
 
 end entity;
 
-architecture behav of HLS_accel_mac_muleOg_DSP48_0 is
+architecture behav of HLS_accel_mac_muleOg_DSP48_1 is
     signal a       : signed(25-1 downto 0);
     signal b       : signed(18-1 downto 0);
     signal c       : signed(48-1 downto 0);
@@ -57,7 +57,7 @@ entity HLS_accel_mac_muleOg is
 end entity;
 
 architecture arch of HLS_accel_mac_muleOg is
-    component HLS_accel_mac_muleOg_DSP48_0 is
+    component HLS_accel_mac_muleOg_DSP48_1 is
         port (
             in0 : IN STD_LOGIC_VECTOR;
             in1 : IN STD_LOGIC_VECTOR;
@@ -68,7 +68,7 @@ architecture arch of HLS_accel_mac_muleOg is
 
 
 begin
-    HLS_accel_mac_muleOg_DSP48_0_U :  component HLS_accel_mac_muleOg_DSP48_0
+    HLS_accel_mac_muleOg_DSP48_1_U :  component HLS_accel_mac_muleOg_DSP48_1
     port map (
         in0 => din0,
         in1 => din1,

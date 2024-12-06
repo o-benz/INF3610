@@ -16,5 +16,5 @@
   <xd:arg xd:name="OUTPUT_STREAM[].id" xd:originalName="OUTPUT_STREAM" xd:direction="out" xd:interfaceRef="OUTPUT_STREAM" xd:busTypeRef="axis" xd:arraySize="40000" xd:dataWidth="5"/>
   <xd:arg xd:name="OUTPUT_STREAM[].dest" xd:originalName="OUTPUT_STREAM" xd:direction="out" xd:interfaceRef="OUTPUT_STREAM" xd:busTypeRef="axis" xd:arraySize="40000" xd:dataWidth="5"/>
   <xd:latencyEstimates xd:best-case="160016" xd:worst-case="160016" xd:average-case="160016"/>
-  <xd:resourceEstimates xd:LUT="8304" xd:FF="9323" xd:BRAM="464" xd:DSP="203"/>
+  <xd:resourceEstimates xd:LUT="5465" xd:FF="9413" xd:BRAM="264" xd:DSP="203"/>
 </xd:acceleratorMap>

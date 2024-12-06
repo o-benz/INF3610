@@ -1,0 +1,8 @@
+22:17:17 **** Incremental Build of configuration Debug for project test_sol4_2 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+
+22:17:17 Build Finished (took 236ms)
+

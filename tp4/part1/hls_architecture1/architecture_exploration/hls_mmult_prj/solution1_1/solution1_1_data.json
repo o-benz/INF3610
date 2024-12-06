@@ -52,7 +52,7 @@
       "impl\/misc\/mmult_hw_ap_fadd_3_full_dsp_32_ip.tcl",
       "impl\/misc\/mmult_hw_ap_fmul_2_max_dsp_32_ip.tcl"
     ],
-    "DesignXml": "C:\/Users\/ombenv\/Desktop\/INF3610\/tp4\/part1\/hls_architecture1\/architecture_exploration\/hls_mmult_prj\/solution1_1\/.autopilot\/db\/mmult_hw.design.xml"
+    "DesignXml": "C:\/Users\/lexoi\/OneDrive\/Bureau\/Automne2024\/INF3610\/lab2\/code_de_depart\/hls_architecture1\/architecture_exploration\/hls_mmult_prj\/solution1_1\/.autopilot\/db\/mmult_hw.design.xml"
   },
   "SubcoreInfo": {
     "HasXpmMemory": false,
@@ -297,7 +297,7 @@
   },
   "GenData": {
     "DataVersion": "0.1",
-    "Time": "2024-12-03 19:41:08 -0500",
+    "Time": "2024-11-28 02:01:02 -0500",
     "ToolName": "vivado_hls",
     "ToolVersion": "2018.3"
   }

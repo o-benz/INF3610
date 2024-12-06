@@ -1,4 +1,12 @@
 <AutoPilot:solution xmlns:AutoPilot="com.autoesl.autopilot.solution">
+    <config>
+        <config_compile blackbox=""/>
+        <schedule model="HLS_accel"/>
+        <config_export format="ip_catalog"/>
+    </config>
+    <ExportDesign askAgain="true" evaluate="true" rtl="vlog" formatName="ip_catalog">
+        <Format formatName="ip_catalog" description="" vendor="" library="" ipname="" version="1.0" driver_input_dir="" display_name="" taxonomy=""/>
+    </ExportDesign>
     <name>
         <value string="solution4_2"/>
     </name>
@@ -13,15 +21,7 @@
         <library value="xilinx/zynq/zynq_fpv6" name="DefaultPlatform"/>
     </libraryList>
     <clockList>
-        <clock default="false" name="default" period="10"/>
+        <clock name="default" default="false" period="10"/>
     </clockList>
-    <config>
-        <config_compile blackbox=""/>
-        <schedule model="HLS_accel"/>
-        <config_export format="ip_catalog"/>
-    </config>
-    <ExportDesign askAgain="true" evaluate="true" rtl="vlog" formatName="ip_catalog">
-        <Format formatName="ip_catalog" description="" vendor="" library="" ipname="" version="1.0" driver_input_dir="" display_name="" taxonomy=""/>
-    </ExportDesign>
 </AutoPilot:solution>
 

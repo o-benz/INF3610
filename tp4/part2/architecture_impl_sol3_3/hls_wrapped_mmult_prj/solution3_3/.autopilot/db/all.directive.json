@@ -38,7 +38,7 @@
               },
               {
                 "name": "factor",
-                "value": "26"
+                "value": "14"
               },
               {
                 "name": "dim",
@@ -66,31 +66,7 @@
               },
               {
                 "name": "factor",
-                "value": "26"
-              },
-              {
-                "name": "dim",
-                "value": "1"
-              }
-            ]
-          }
-        },
-        {
-          "functionName": "mmult_hw",
-          "label": "",
-          "functionLabel": "",
-          "pragma": {
-            "name": "ARRAY_PARTITION",
-            "option": [
-              {
-                "name": "variable",
-                "value": "out",
-                "positionalBoolean": "4"
-              },
-              {
-                "name": "complete",
-                "value": "",
-                "positionalBoolean": "type"
+                "value": "14"
               },
               {
                 "name": "dim",

@@ -1,5 +1,5 @@
 -- ==============================================================
--- File generated on Sun Dec 01 18:11:08 -0500 2024
+-- File generated on Tue Dec 03 18:09:20 -0500 2024
 -- Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2018.3 (64-bit)
 -- SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
 -- IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
@@ -10,7 +10,7 @@ use ieee.std_logic_1164.all;
 
 entity HLS_accel_hmul_16cud is
     generic (
-        ID         : integer := 3;
+        ID         : integer := 28;
         NUM_STAGE  : integer := 4;
         din0_WIDTH : integer := 16;
         din1_WIDTH : integer := 16;

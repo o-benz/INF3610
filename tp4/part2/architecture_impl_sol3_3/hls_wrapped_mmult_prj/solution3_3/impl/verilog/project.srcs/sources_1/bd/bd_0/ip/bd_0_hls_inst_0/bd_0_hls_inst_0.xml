@@ -1209,11 +1209,11 @@ um {}} value 4} bitoffset {attribs {resolve_type immediate dependency {} format 
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>GENtimestamp</spirit:name>
-            <spirit:value>Sun Dec 01 23:11:27 UTC 2024</spirit:value>
+            <spirit:value>Tue Dec 03 23:09:44 UTC 2024</spirit:value>
           </spirit:parameter>
           <spirit:parameter>
             <spirit:name>outputProductCRC</spirit:name>
-            <spirit:value>9:ed989f05</spirit:value>
+            <spirit:value>9:289c72a1</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -1224,7 +1224,7 @@ um {}} value 4} bitoffset {attribs {resolve_type immediate dependency {} format 
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>outputProductCRC</spirit:name>
-            <spirit:value>9:ed989f05</spirit:value>
+            <spirit:value>9:289c72a1</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -1240,11 +1240,11 @@ um {}} value 4} bitoffset {attribs {resolve_type immediate dependency {} format 
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>GENtimestamp</spirit:name>
-            <spirit:value>Sun Dec 01 23:11:27 UTC 2024</spirit:value>
+            <spirit:value>Tue Dec 03 23:09:44 UTC 2024</spirit:value>
           </spirit:parameter>
           <spirit:parameter>
             <spirit:name>outputProductCRC</spirit:name>
-            <spirit:value>9:ed989f05</spirit:value>
+            <spirit:value>9:289c72a1</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -1287,11 +1287,11 @@ um {}} value 4} bitoffset {attribs {resolve_type immediate dependency {} format 
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>GENtimestamp</spirit:name>
-            <spirit:value>Sun Dec 01 23:11:26 UTC 2024</spirit:value>
+            <spirit:value>Tue Dec 03 23:09:44 UTC 2024</spirit:value>
           </spirit:parameter>
           <spirit:parameter>
             <spirit:name>outputProductCRC</spirit:name>
-            <spirit:value>9:a56e2440</spirit:value>
+            <spirit:value>9:ca5898e5</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -1307,11 +1307,11 @@ um {}} value 4} bitoffset {attribs {resolve_type immediate dependency {} format 
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>GENtimestamp</spirit:name>
-            <spirit:value>Sun Dec 01 23:11:27 UTC 2024</spirit:value>
+            <spirit:value>Tue Dec 03 23:09:44 UTC 2024</spirit:value>
           </spirit:parameter>
           <spirit:parameter>
             <spirit:name>outputProductCRC</spirit:name>
-            <spirit:value>9:a56e2440</spirit:value>
+            <spirit:value>9:ca5898e5</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -1325,11 +1325,11 @@ um {}} value 4} bitoffset {attribs {resolve_type immediate dependency {} format 
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>GENtimestamp</spirit:name>
-            <spirit:value>Sun Dec 01 23:12:55 UTC 2024</spirit:value>
+            <spirit:value>Tue Dec 03 23:13:26 UTC 2024</spirit:value>
           </spirit:parameter>
           <spirit:parameter>
             <spirit:name>outputProductCRC</spirit:name>
-            <spirit:value>9:ed989f05</spirit:value>
+            <spirit:value>9:289c72a1</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -2082,11 +2082,11 @@ um {}} value 4} bitoffset {attribs {resolve_type immediate dependency {} format 
     <spirit:fileSet>
       <spirit:name>xilinx_verilogsynthesis_view_fileset</spirit:name>
       <spirit:file>
-        <spirit:name>../../ipshared/bff4/hdl/ip/HLS_accel_ap_hadd_2_no_dsp_16.vhd</spirit:name>
+        <spirit:name>../../ipshared/0704/hdl/ip/HLS_accel_ap_hadd_2_no_dsp_16.vhd</spirit:name>
         <spirit:fileType>vhdlSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>../../ipshared/bff4/hdl/ip/HLS_accel_ap_hmul_2_no_dsp_16.vhd</spirit:name>
+        <spirit:name>../../ipshared/0704/hdl/ip/HLS_accel_ap_hmul_2_no_dsp_16.vhd</spirit:name>
         <spirit:fileType>vhdlSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
@@ -2095,35 +2095,39 @@ um {}} value 4} bitoffset {attribs {resolve_type immediate dependency {} format 
         <spirit:userFileType>USED_IN_out_of_context</spirit:userFileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>../../ipshared/bff4/hdl/verilog/HLS_accel_a.v</spirit:name>
+        <spirit:name>../../ipshared/0704/hdl/verilog/HLS_accel_a_0.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>../../ipshared/bff4/hdl/verilog/HLS_accel_CONTROL_BUS_s_axi.v</spirit:name>
+        <spirit:name>../../ipshared/0704/hdl/verilog/HLS_accel_a_13.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>../../ipshared/bff4/hdl/verilog/HLS_accel_hadd_16bkb.v</spirit:name>
+        <spirit:name>../../ipshared/0704/hdl/verilog/HLS_accel_CONTROL_BUS_s_axi.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>../../ipshared/bff4/hdl/verilog/HLS_accel_hmul_16cud.v</spirit:name>
+        <spirit:name>../../ipshared/0704/hdl/verilog/HLS_accel_hadd_16bkb.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>../../ipshared/bff4/hdl/verilog/HLS_accel_mac_muleOg.v</spirit:name>
+        <spirit:name>../../ipshared/0704/hdl/verilog/HLS_accel_hmul_16cud.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>../../ipshared/bff4/hdl/verilog/HLS_accel_mux_546dEe.v</spirit:name>
+        <spirit:name>../../ipshared/0704/hdl/verilog/HLS_accel_mac_muldEe.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>../../ipshared/bff4/hdl/verilog/HLS_accel_out_0.v</spirit:name>
+        <spirit:name>../../ipshared/0704/hdl/verilog/HLS_accel_mac_muleOg.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>../../ipshared/bff4/hdl/verilog/HLS_accel.v</spirit:name>
+        <spirit:name>../../ipshared/0704/hdl/verilog/HLS_accel_out.v</spirit:name>
+        <spirit:fileType>verilogSource</spirit:fileType>
+      </spirit:file>
+      <spirit:file>
+        <spirit:name>../../ipshared/0704/hdl/verilog/HLS_accel.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
     </spirit:fileSet>
@@ -2282,52 +2286,57 @@ um {}} value 4} bitoffset {attribs {resolve_type immediate dependency {} format 
     <spirit:fileSet>
       <spirit:name>xilinx_verilogbehavioralsimulation_view_fileset</spirit:name>
       <spirit:file>
-        <spirit:name>../../ipshared/bff4/hdl/verilog/HLS_accel_a.v</spirit:name>
+        <spirit:name>../../ipshared/0704/hdl/verilog/HLS_accel_a_0.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>../../ipshared/bff4/hdl/verilog/HLS_accel_CONTROL_BUS_s_axi.v</spirit:name>
+        <spirit:name>../../ipshared/0704/hdl/verilog/HLS_accel_a_13.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>../../ipshared/bff4/hdl/verilog/HLS_accel_hadd_16bkb.v</spirit:name>
+        <spirit:name>../../ipshared/0704/hdl/verilog/HLS_accel_CONTROL_BUS_s_axi.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>../../ipshared/bff4/hdl/verilog/HLS_accel_hmul_16cud.v</spirit:name>
+        <spirit:name>../../ipshared/0704/hdl/verilog/HLS_accel_hadd_16bkb.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>../../ipshared/bff4/hdl/verilog/HLS_accel_mac_muleOg.v</spirit:name>
+        <spirit:name>../../ipshared/0704/hdl/verilog/HLS_accel_hmul_16cud.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>../../ipshared/bff4/hdl/verilog/HLS_accel_mux_546dEe.v</spirit:name>
+        <spirit:name>../../ipshared/0704/hdl/verilog/HLS_accel_mac_muldEe.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>../../ipshared/bff4/hdl/verilog/HLS_accel_out_0.v</spirit:name>
+        <spirit:name>../../ipshared/0704/hdl/verilog/HLS_accel_mac_muleOg.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>../../ipshared/bff4/hdl/verilog/HLS_accel.v</spirit:name>
+        <spirit:name>../../ipshared/0704/hdl/verilog/HLS_accel_out.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>../../ipshared/bff4/hdl/ip/HLS_accel_ap_hadd_2_no_dsp_16.vhd</spirit:name>
+        <spirit:name>../../ipshared/0704/hdl/verilog/HLS_accel.v</spirit:name>
+        <spirit:fileType>verilogSource</spirit:fileType>
+        <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
+      </spirit:file>
+      <spirit:file>
+        <spirit:name>../../ipshared/0704/hdl/ip/HLS_accel_ap_hadd_2_no_dsp_16.vhd</spirit:name>
         <spirit:fileType>vhdlSource</spirit:fileType>
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>../../ipshared/bff4/hdl/ip/HLS_accel_ap_hmul_2_no_dsp_16.vhd</spirit:name>
+        <spirit:name>../../ipshared/0704/hdl/ip/HLS_accel_ap_hmul_2_no_dsp_16.vhd</spirit:name>
         <spirit:fileType>vhdlSource</spirit:fileType>
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
@@ -2418,7 +2427,7 @@ um {}} value 4} bitoffset {attribs {resolve_type immediate dependency {} format 
     </spirit:parameter>
     <spirit:parameter>
       <spirit:name>latency</spirit:name>
-      <spirit:value spirit:id="PARAM_VALUE.latency" spirit:order="5">87685</spirit:value>
+      <spirit:value spirit:id="PARAM_VALUE.latency" spirit:order="5">14811</spirit:value>
       <spirit:vendorExtensions>
         <xilinx:parameterInfo>
           <xilinx:enablement>
@@ -2443,7 +2452,7 @@ um {}} value 4} bitoffset {attribs {resolve_type immediate dependency {} format 
     <xilinx:coreExtensions>
       <xilinx:displayName>Hls_accel</xilinx:displayName>
       <xilinx:definitionSource>HLS</xilinx:definitionSource>
-      <xilinx:coreRevision>2113847051</xilinx:coreRevision>
+      <xilinx:coreRevision>2113849929</xilinx:coreRevision>
       <xilinx:configElementInfos>
         <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.AP_CLK.CLK_DOMAIN" xilinx:valueSource="default_prop" xilinx:valuePermission="bd"/>
         <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.AP_CLK.FREQ_HZ" xilinx:valueSource="user_prop" xilinx:valuePermission="bd"/>
@@ -2498,10 +2507,10 @@ um {}} value 4} bitoffset {attribs {resolve_type immediate dependency {} format 
       <xilinx:xilinxVersion>2018.3</xilinx:xilinxVersion>
       <xilinx:checksum xilinx:scope="busInterfaces" xilinx:value="f7178e66"/>
       <xilinx:checksum xilinx:scope="memoryMaps" xilinx:value="df45e9ab"/>
-      <xilinx:checksum xilinx:scope="fileGroups" xilinx:value="03145be8"/>
+      <xilinx:checksum xilinx:scope="fileGroups" xilinx:value="fa3300cf"/>
       <xilinx:checksum xilinx:scope="ports" xilinx:value="664d353c"/>
       <xilinx:checksum xilinx:scope="hdlParameters" xilinx:value="29db3f49"/>
-      <xilinx:checksum xilinx:scope="parameters" xilinx:value="e8156a07"/>
+      <xilinx:checksum xilinx:scope="parameters" xilinx:value="9ebb98d5"/>
     </xilinx:packagingInfo>
   </spirit:vendorExtensions>
 </spirit:component>

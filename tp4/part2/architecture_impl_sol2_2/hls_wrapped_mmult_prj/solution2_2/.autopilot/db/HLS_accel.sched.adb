@@ -413,14 +413,14 @@
 						<id>29</id>
 						<name>a_0</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item class_id="10" tracking_level="0" version="0">
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second class_id="11" tracking_level="0" version="0">
 									<count>2</count>
 									<item_version>0</item_version>
@@ -468,14 +468,14 @@
 						<id>30</id>
 						<name>a_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -523,14 +523,14 @@
 						<id>31</id>
 						<name>a_2</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -578,14 +578,14 @@
 						<id>32</id>
 						<name>a_3</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -633,14 +633,14 @@
 						<id>33</id>
 						<name>a_4</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -688,14 +688,14 @@
 						<id>34</id>
 						<name>a_5</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -743,14 +743,14 @@
 						<id>35</id>
 						<name>a_6</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -798,14 +798,14 @@
 						<id>36</id>
 						<name>a_7</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -853,14 +853,14 @@
 						<id>37</id>
 						<name>a_8</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -908,14 +908,14 @@
 						<id>38</id>
 						<name>a_9</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -963,14 +963,14 @@
 						<id>39</id>
 						<name>a_10</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -1018,14 +1018,14 @@
 						<id>40</id>
 						<name>a_11</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -1073,14 +1073,14 @@
 						<id>41</id>
 						<name>a_12</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -1128,14 +1128,14 @@
 						<id>42</id>
 						<name>a_13</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -1183,14 +1183,14 @@
 						<id>43</id>
 						<name>a_14</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -1238,14 +1238,14 @@
 						<id>44</id>
 						<name>a_15</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -1293,14 +1293,14 @@
 						<id>45</id>
 						<name>a_16</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -1348,14 +1348,14 @@
 						<id>46</id>
 						<name>a_17</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -1403,14 +1403,14 @@
 						<id>47</id>
 						<name>a_18</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -1458,14 +1458,14 @@
 						<id>48</id>
 						<name>a_19</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -1513,14 +1513,14 @@
 						<id>49</id>
 						<name>a_20</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -1568,14 +1568,14 @@
 						<id>50</id>
 						<name>a_21</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -1623,14 +1623,14 @@
 						<id>51</id>
 						<name>a_22</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -1678,14 +1678,14 @@
 						<id>52</id>
 						<name>a_23</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -1733,14 +1733,14 @@
 						<id>53</id>
 						<name>a_24</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -1788,14 +1788,14 @@
 						<id>54</id>
 						<name>a_25</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -1843,14 +1843,14 @@
 						<id>55</id>
 						<name>a_26</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -1898,14 +1898,14 @@
 						<id>56</id>
 						<name>a_27</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -1953,14 +1953,14 @@
 						<id>57</id>
 						<name>a_28</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -2008,14 +2008,14 @@
 						<id>58</id>
 						<name>a_29</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -2063,14 +2063,14 @@
 						<id>59</id>
 						<name>a_30</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -2118,14 +2118,14 @@
 						<id>60</id>
 						<name>a_31</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -2173,14 +2173,14 @@
 						<id>61</id>
 						<name>a_32</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -2228,14 +2228,14 @@
 						<id>62</id>
 						<name>a_33</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -2283,14 +2283,14 @@
 						<id>63</id>
 						<name>a_34</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -2338,14 +2338,14 @@
 						<id>64</id>
 						<name>a_35</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -2393,14 +2393,14 @@
 						<id>65</id>
 						<name>a_36</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -2448,14 +2448,14 @@
 						<id>66</id>
 						<name>a_37</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -2503,14 +2503,14 @@
 						<id>67</id>
 						<name>a_38</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -2558,14 +2558,14 @@
 						<id>68</id>
 						<name>a_39</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -2613,14 +2613,14 @@
 						<id>69</id>
 						<name>a_40</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -2668,14 +2668,14 @@
 						<id>70</id>
 						<name>a_41</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -2723,14 +2723,14 @@
 						<id>71</id>
 						<name>a_42</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -2778,14 +2778,14 @@
 						<id>72</id>
 						<name>a_43</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -2833,14 +2833,14 @@
 						<id>73</id>
 						<name>a_44</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -2888,14 +2888,14 @@
 						<id>74</id>
 						<name>a_45</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -2943,14 +2943,14 @@
 						<id>75</id>
 						<name>a_46</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -2998,14 +2998,14 @@
 						<id>76</id>
 						<name>a_47</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -3053,14 +3053,14 @@
 						<id>77</id>
 						<name>a_48</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -3108,14 +3108,14 @@
 						<id>78</id>
 						<name>a_49</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -3163,14 +3163,14 @@
 						<id>79</id>
 						<name>a_50</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -3218,14 +3218,14 @@
 						<id>80</id>
 						<name>a_51</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -3273,14 +3273,14 @@
 						<id>81</id>
 						<name>a_52</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -3328,14 +3328,14 @@
 						<id>82</id>
 						<name>a_53</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>128</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -3383,14 +3383,14 @@
 						<id>83</id>
 						<name>b_0</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -3438,14 +3438,14 @@
 						<id>84</id>
 						<name>b_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -3493,14 +3493,14 @@
 						<id>85</id>
 						<name>b_2</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -3548,14 +3548,14 @@
 						<id>86</id>
 						<name>b_3</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -3603,14 +3603,14 @@
 						<id>87</id>
 						<name>b_4</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -3658,14 +3658,14 @@
 						<id>88</id>
 						<name>b_5</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -3713,14 +3713,14 @@
 						<id>89</id>
 						<name>b_6</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -3768,14 +3768,14 @@
 						<id>90</id>
 						<name>b_7</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -3823,14 +3823,14 @@
 						<id>91</id>
 						<name>b_8</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -3878,14 +3878,14 @@
 						<id>92</id>
 						<name>b_9</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -3933,14 +3933,14 @@
 						<id>93</id>
 						<name>b_10</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -3988,14 +3988,14 @@
 						<id>94</id>
 						<name>b_11</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -4043,14 +4043,14 @@
 						<id>95</id>
 						<name>b_12</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -4098,14 +4098,14 @@
 						<id>96</id>
 						<name>b_13</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -4153,14 +4153,14 @@
 						<id>97</id>
 						<name>b_14</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -4208,14 +4208,14 @@
 						<id>98</id>
 						<name>b_15</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -4263,14 +4263,14 @@
 						<id>99</id>
 						<name>b_16</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -4318,14 +4318,14 @@
 						<id>100</id>
 						<name>b_17</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -4373,14 +4373,14 @@
 						<id>101</id>
 						<name>b_18</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -4428,14 +4428,14 @@
 						<id>102</id>
 						<name>b_19</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -4483,14 +4483,14 @@
 						<id>103</id>
 						<name>b_20</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -4538,14 +4538,14 @@
 						<id>104</id>
 						<name>b_21</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -4593,14 +4593,14 @@
 						<id>105</id>
 						<name>b_22</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -4648,14 +4648,14 @@
 						<id>106</id>
 						<name>b_23</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -4703,14 +4703,14 @@
 						<id>107</id>
 						<name>b_24</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -4758,14 +4758,14 @@
 						<id>108</id>
 						<name>b_25</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -4813,14 +4813,14 @@
 						<id>109</id>
 						<name>b_26</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -4868,14 +4868,14 @@
 						<id>110</id>
 						<name>b_27</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -4923,14 +4923,14 @@
 						<id>111</id>
 						<name>b_28</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -4978,14 +4978,14 @@
 						<id>112</id>
 						<name>b_29</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -5033,14 +5033,14 @@
 						<id>113</id>
 						<name>b_30</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -5088,14 +5088,14 @@
 						<id>114</id>
 						<name>b_31</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -5143,14 +5143,14 @@
 						<id>115</id>
 						<name>b_32</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -5198,14 +5198,14 @@
 						<id>116</id>
 						<name>b_33</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -5253,14 +5253,14 @@
 						<id>117</id>
 						<name>b_34</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -5308,14 +5308,14 @@
 						<id>118</id>
 						<name>b_35</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -5363,14 +5363,14 @@
 						<id>119</id>
 						<name>b_36</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -5418,14 +5418,14 @@
 						<id>120</id>
 						<name>b_37</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -5473,14 +5473,14 @@
 						<id>121</id>
 						<name>b_38</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -5528,14 +5528,14 @@
 						<id>122</id>
 						<name>b_39</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -5583,14 +5583,14 @@
 						<id>123</id>
 						<name>b_40</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -5638,14 +5638,14 @@
 						<id>124</id>
 						<name>b_41</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -5693,14 +5693,14 @@
 						<id>125</id>
 						<name>b_42</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -5748,14 +5748,14 @@
 						<id>126</id>
 						<name>b_43</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -5803,14 +5803,14 @@
 						<id>127</id>
 						<name>b_44</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -5858,14 +5858,14 @@
 						<id>128</id>
 						<name>b_45</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -5913,14 +5913,14 @@
 						<id>129</id>
 						<name>b_46</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -5968,14 +5968,14 @@
 						<id>130</id>
 						<name>b_47</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -6023,14 +6023,14 @@
 						<id>131</id>
 						<name>b_48</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -6078,14 +6078,14 @@
 						<id>132</id>
 						<name>b_49</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -6133,14 +6133,14 @@
 						<id>133</id>
 						<name>b_50</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -6188,14 +6188,14 @@
 						<id>134</id>
 						<name>b_51</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -6243,14 +6243,14 @@
 						<id>135</id>
 						<name>b_52</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -6298,14 +6298,14 @@
 						<id>136</id>
 						<name>b_53</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>129</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -6353,14 +6353,14 @@
 						<id>137</id>
 						<name>out</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>130</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -6408,14 +6408,14 @@
 						<id>142</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>135</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -6500,14 +6500,14 @@
 						<id>145</id>
 						<name>i_0_i</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -6701,14 +6701,14 @@
 						<id>151</id>
 						<name>i</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>135</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -6757,14 +6757,14 @@
 						<id>152</id>
 						<name>exitcond4_i</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>136</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -6813,14 +6813,14 @@
 						<id>153</id>
 						<name>j_0_i_mid2</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>136</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -6870,14 +6870,14 @@
 						<id>154</id>
 						<name>tmp_1_mid2_v</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -6927,14 +6927,14 @@
 						<id>155</id>
 						<name>tmp_1_mid2</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -7057,14 +7057,14 @@
 						<id>160</id>
 						<name>ret</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>81</lineNumber>
 						<contextFuncName>pop_stream&amp;lt;half, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -7119,14 +7119,14 @@
 						<id>161</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -7281,14 +7281,14 @@
 						<id>163</id>
 						<name>a_52_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -7338,14 +7338,14 @@
 						<id>164</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -7394,14 +7394,14 @@
 						<id>165</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -7449,14 +7449,14 @@
 						<id>167</id>
 						<name>a_51_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -7506,14 +7506,14 @@
 						<id>168</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -7562,14 +7562,14 @@
 						<id>169</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -7617,14 +7617,14 @@
 						<id>171</id>
 						<name>a_50_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -7674,14 +7674,14 @@
 						<id>172</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -7730,14 +7730,14 @@
 						<id>173</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -7785,14 +7785,14 @@
 						<id>175</id>
 						<name>a_49_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -7842,14 +7842,14 @@
 						<id>176</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -7898,14 +7898,14 @@
 						<id>177</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -7953,14 +7953,14 @@
 						<id>179</id>
 						<name>a_48_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -8010,14 +8010,14 @@
 						<id>180</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -8066,14 +8066,14 @@
 						<id>181</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -8121,14 +8121,14 @@
 						<id>183</id>
 						<name>a_47_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -8178,14 +8178,14 @@
 						<id>184</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -8234,14 +8234,14 @@
 						<id>185</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -8289,14 +8289,14 @@
 						<id>187</id>
 						<name>a_46_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -8346,14 +8346,14 @@
 						<id>188</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -8402,14 +8402,14 @@
 						<id>189</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -8457,14 +8457,14 @@
 						<id>191</id>
 						<name>a_45_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -8514,14 +8514,14 @@
 						<id>192</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -8570,14 +8570,14 @@
 						<id>193</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -8625,14 +8625,14 @@
 						<id>195</id>
 						<name>a_44_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -8682,14 +8682,14 @@
 						<id>196</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -8738,14 +8738,14 @@
 						<id>197</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -8793,14 +8793,14 @@
 						<id>199</id>
 						<name>a_43_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -8850,14 +8850,14 @@
 						<id>200</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -8906,14 +8906,14 @@
 						<id>201</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -8961,14 +8961,14 @@
 						<id>203</id>
 						<name>a_42_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -9018,14 +9018,14 @@
 						<id>204</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -9074,14 +9074,14 @@
 						<id>205</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -9129,14 +9129,14 @@
 						<id>207</id>
 						<name>a_41_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -9186,14 +9186,14 @@
 						<id>208</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -9242,14 +9242,14 @@
 						<id>209</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -9297,14 +9297,14 @@
 						<id>211</id>
 						<name>a_40_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -9354,14 +9354,14 @@
 						<id>212</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -9410,14 +9410,14 @@
 						<id>213</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -9465,14 +9465,14 @@
 						<id>215</id>
 						<name>a_39_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -9522,14 +9522,14 @@
 						<id>216</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -9578,14 +9578,14 @@
 						<id>217</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -9633,14 +9633,14 @@
 						<id>219</id>
 						<name>a_38_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -9690,14 +9690,14 @@
 						<id>220</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -9746,14 +9746,14 @@
 						<id>221</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -9801,14 +9801,14 @@
 						<id>223</id>
 						<name>a_37_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -9858,14 +9858,14 @@
 						<id>224</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -9914,14 +9914,14 @@
 						<id>225</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -9969,14 +9969,14 @@
 						<id>227</id>
 						<name>a_36_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -10026,14 +10026,14 @@
 						<id>228</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -10082,14 +10082,14 @@
 						<id>229</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -10137,14 +10137,14 @@
 						<id>231</id>
 						<name>a_35_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -10194,14 +10194,14 @@
 						<id>232</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -10250,14 +10250,14 @@
 						<id>233</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -10305,14 +10305,14 @@
 						<id>235</id>
 						<name>a_34_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -10362,14 +10362,14 @@
 						<id>236</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -10418,14 +10418,14 @@
 						<id>237</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -10473,14 +10473,14 @@
 						<id>239</id>
 						<name>a_33_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -10530,14 +10530,14 @@
 						<id>240</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -10586,14 +10586,14 @@
 						<id>241</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -10641,14 +10641,14 @@
 						<id>243</id>
 						<name>a_32_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -10698,14 +10698,14 @@
 						<id>244</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -10754,14 +10754,14 @@
 						<id>245</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -10809,14 +10809,14 @@
 						<id>247</id>
 						<name>a_31_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -10866,14 +10866,14 @@
 						<id>248</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -10922,14 +10922,14 @@
 						<id>249</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -10977,14 +10977,14 @@
 						<id>251</id>
 						<name>a_30_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -11034,14 +11034,14 @@
 						<id>252</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -11090,14 +11090,14 @@
 						<id>253</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -11145,14 +11145,14 @@
 						<id>255</id>
 						<name>a_29_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -11202,14 +11202,14 @@
 						<id>256</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -11258,14 +11258,14 @@
 						<id>257</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -11313,14 +11313,14 @@
 						<id>259</id>
 						<name>a_28_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -11370,14 +11370,14 @@
 						<id>260</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -11426,14 +11426,14 @@
 						<id>261</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -11481,14 +11481,14 @@
 						<id>263</id>
 						<name>a_27_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -11538,14 +11538,14 @@
 						<id>264</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -11594,14 +11594,14 @@
 						<id>265</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -11649,14 +11649,14 @@
 						<id>267</id>
 						<name>a_26_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -11706,14 +11706,14 @@
 						<id>268</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -11762,14 +11762,14 @@
 						<id>269</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -11817,14 +11817,14 @@
 						<id>271</id>
 						<name>a_25_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -11874,14 +11874,14 @@
 						<id>272</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -11930,14 +11930,14 @@
 						<id>273</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -11985,14 +11985,14 @@
 						<id>275</id>
 						<name>a_24_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -12042,14 +12042,14 @@
 						<id>276</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -12098,14 +12098,14 @@
 						<id>277</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -12153,14 +12153,14 @@
 						<id>279</id>
 						<name>a_23_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -12210,14 +12210,14 @@
 						<id>280</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -12266,14 +12266,14 @@
 						<id>281</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -12321,14 +12321,14 @@
 						<id>283</id>
 						<name>a_22_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -12378,14 +12378,14 @@
 						<id>284</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -12434,14 +12434,14 @@
 						<id>285</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -12489,14 +12489,14 @@
 						<id>287</id>
 						<name>a_21_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -12546,14 +12546,14 @@
 						<id>288</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -12602,14 +12602,14 @@
 						<id>289</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -12657,14 +12657,14 @@
 						<id>291</id>
 						<name>a_20_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -12714,14 +12714,14 @@
 						<id>292</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -12770,14 +12770,14 @@
 						<id>293</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -12825,14 +12825,14 @@
 						<id>295</id>
 						<name>a_19_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -12882,14 +12882,14 @@
 						<id>296</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -12938,14 +12938,14 @@
 						<id>297</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -12993,14 +12993,14 @@
 						<id>299</id>
 						<name>a_18_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -13050,14 +13050,14 @@
 						<id>300</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -13106,14 +13106,14 @@
 						<id>301</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -13161,14 +13161,14 @@
 						<id>303</id>
 						<name>a_17_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -13218,14 +13218,14 @@
 						<id>304</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -13274,14 +13274,14 @@
 						<id>305</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -13329,14 +13329,14 @@
 						<id>307</id>
 						<name>a_16_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -13386,14 +13386,14 @@
 						<id>308</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -13442,14 +13442,14 @@
 						<id>309</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -13497,14 +13497,14 @@
 						<id>311</id>
 						<name>a_15_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -13554,14 +13554,14 @@
 						<id>312</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -13610,14 +13610,14 @@
 						<id>313</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -13665,14 +13665,14 @@
 						<id>315</id>
 						<name>a_14_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -13722,14 +13722,14 @@
 						<id>316</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -13778,14 +13778,14 @@
 						<id>317</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -13833,14 +13833,14 @@
 						<id>319</id>
 						<name>a_13_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -13890,14 +13890,14 @@
 						<id>320</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -13946,14 +13946,14 @@
 						<id>321</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -14001,14 +14001,14 @@
 						<id>323</id>
 						<name>a_12_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -14058,14 +14058,14 @@
 						<id>324</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -14114,14 +14114,14 @@
 						<id>325</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -14169,14 +14169,14 @@
 						<id>327</id>
 						<name>a_11_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -14226,14 +14226,14 @@
 						<id>328</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -14282,14 +14282,14 @@
 						<id>329</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -14337,14 +14337,14 @@
 						<id>331</id>
 						<name>a_10_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -14394,14 +14394,14 @@
 						<id>332</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -14450,14 +14450,14 @@
 						<id>333</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -14505,14 +14505,14 @@
 						<id>335</id>
 						<name>a_9_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -14562,14 +14562,14 @@
 						<id>336</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -14618,14 +14618,14 @@
 						<id>337</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -14673,14 +14673,14 @@
 						<id>339</id>
 						<name>a_8_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -14730,14 +14730,14 @@
 						<id>340</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -14786,14 +14786,14 @@
 						<id>341</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -14841,14 +14841,14 @@
 						<id>343</id>
 						<name>a_7_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -14898,14 +14898,14 @@
 						<id>344</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -14954,14 +14954,14 @@
 						<id>345</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -15009,14 +15009,14 @@
 						<id>347</id>
 						<name>a_6_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -15066,14 +15066,14 @@
 						<id>348</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -15122,14 +15122,14 @@
 						<id>349</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -15177,14 +15177,14 @@
 						<id>351</id>
 						<name>a_5_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -15234,14 +15234,14 @@
 						<id>352</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -15290,14 +15290,14 @@
 						<id>353</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -15345,14 +15345,14 @@
 						<id>355</id>
 						<name>a_4_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -15402,14 +15402,14 @@
 						<id>356</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -15458,14 +15458,14 @@
 						<id>357</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -15513,14 +15513,14 @@
 						<id>359</id>
 						<name>a_3_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -15570,14 +15570,14 @@
 						<id>360</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -15626,14 +15626,14 @@
 						<id>361</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -15681,14 +15681,14 @@
 						<id>363</id>
 						<name>a_2_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -15738,14 +15738,14 @@
 						<id>364</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -15794,14 +15794,14 @@
 						<id>365</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -15849,14 +15849,14 @@
 						<id>367</id>
 						<name>a_1_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -15906,14 +15906,14 @@
 						<id>368</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -15962,14 +15962,14 @@
 						<id>369</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -16017,14 +16017,14 @@
 						<id>371</id>
 						<name>a_0_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -16074,14 +16074,14 @@
 						<id>372</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -16130,14 +16130,14 @@
 						<id>373</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -16185,14 +16185,14 @@
 						<id>375</id>
 						<name>a_53_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -16242,14 +16242,14 @@
 						<id>376</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -16298,14 +16298,14 @@
 						<id>377</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>140</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -16353,14 +16353,14 @@
 						<id>380</id>
 						<name>j</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>136</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -16409,14 +16409,14 @@
 						<id>381</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>136</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -16464,14 +16464,14 @@
 						<id>383</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -16556,14 +16556,14 @@
 						<id>386</id>
 						<name>i1_0_i</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>146</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -16757,14 +16757,14 @@
 						<id>392</id>
 						<name>i_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>145</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -16813,14 +16813,14 @@
 						<id>393</id>
 						<name>exitcond2_i</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>146</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -16869,14 +16869,14 @@
 						<id>394</id>
 						<name>j2_0_i_mid2</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>146</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -16926,14 +16926,14 @@
 						<id>395</id>
 						<name>i1_0_i_mid2</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>146</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -17058,14 +17058,14 @@
 						<id>400</id>
 						<name>ret_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>81</lineNumber>
 						<contextFuncName>pop_stream&amp;lt;half, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -17120,14 +17120,14 @@
 						<id>401</id>
 						<name>tmp_6</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -17175,14 +17175,14 @@
 						<id>402</id>
 						<name>b_0_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -17232,14 +17232,14 @@
 						<id>403</id>
 						<name>b_1_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -17289,14 +17289,14 @@
 						<id>404</id>
 						<name>b_2_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -17346,14 +17346,14 @@
 						<id>405</id>
 						<name>b_3_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -17403,14 +17403,14 @@
 						<id>406</id>
 						<name>b_4_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -17460,14 +17460,14 @@
 						<id>407</id>
 						<name>b_5_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -17517,14 +17517,14 @@
 						<id>408</id>
 						<name>b_6_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -17574,14 +17574,14 @@
 						<id>409</id>
 						<name>b_7_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -17631,14 +17631,14 @@
 						<id>410</id>
 						<name>b_8_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -17688,14 +17688,14 @@
 						<id>411</id>
 						<name>b_9_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -17745,14 +17745,14 @@
 						<id>412</id>
 						<name>b_10_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -17802,14 +17802,14 @@
 						<id>413</id>
 						<name>b_11_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -17859,14 +17859,14 @@
 						<id>414</id>
 						<name>b_12_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -17916,14 +17916,14 @@
 						<id>415</id>
 						<name>b_13_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -17973,14 +17973,14 @@
 						<id>416</id>
 						<name>b_14_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -18030,14 +18030,14 @@
 						<id>417</id>
 						<name>b_15_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -18087,14 +18087,14 @@
 						<id>418</id>
 						<name>b_16_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -18144,14 +18144,14 @@
 						<id>419</id>
 						<name>b_17_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -18201,14 +18201,14 @@
 						<id>420</id>
 						<name>b_18_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -18258,14 +18258,14 @@
 						<id>421</id>
 						<name>b_19_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -18315,14 +18315,14 @@
 						<id>422</id>
 						<name>b_20_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -18372,14 +18372,14 @@
 						<id>423</id>
 						<name>b_21_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -18429,14 +18429,14 @@
 						<id>424</id>
 						<name>b_22_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -18486,14 +18486,14 @@
 						<id>425</id>
 						<name>b_23_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -18543,14 +18543,14 @@
 						<id>426</id>
 						<name>b_24_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -18600,14 +18600,14 @@
 						<id>427</id>
 						<name>b_25_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -18657,14 +18657,14 @@
 						<id>428</id>
 						<name>b_26_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -18714,14 +18714,14 @@
 						<id>429</id>
 						<name>b_27_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -18771,14 +18771,14 @@
 						<id>430</id>
 						<name>b_28_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -18828,14 +18828,14 @@
 						<id>431</id>
 						<name>b_29_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -18885,14 +18885,14 @@
 						<id>432</id>
 						<name>b_30_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -18942,14 +18942,14 @@
 						<id>433</id>
 						<name>b_31_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -18999,14 +18999,14 @@
 						<id>434</id>
 						<name>b_32_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -19056,14 +19056,14 @@
 						<id>435</id>
 						<name>b_33_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -19113,14 +19113,14 @@
 						<id>436</id>
 						<name>b_34_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -19170,14 +19170,14 @@
 						<id>437</id>
 						<name>b_35_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -19227,14 +19227,14 @@
 						<id>438</id>
 						<name>b_36_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -19284,14 +19284,14 @@
 						<id>439</id>
 						<name>b_37_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -19341,14 +19341,14 @@
 						<id>440</id>
 						<name>b_38_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -19398,14 +19398,14 @@
 						<id>441</id>
 						<name>b_39_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -19455,14 +19455,14 @@
 						<id>442</id>
 						<name>b_40_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -19512,14 +19512,14 @@
 						<id>443</id>
 						<name>b_41_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -19569,14 +19569,14 @@
 						<id>444</id>
 						<name>b_42_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -19626,14 +19626,14 @@
 						<id>445</id>
 						<name>b_43_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -19683,14 +19683,14 @@
 						<id>446</id>
 						<name>b_44_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -19740,14 +19740,14 @@
 						<id>447</id>
 						<name>b_45_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -19797,14 +19797,14 @@
 						<id>448</id>
 						<name>b_46_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -19854,14 +19854,14 @@
 						<id>449</id>
 						<name>b_47_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -19911,14 +19911,14 @@
 						<id>450</id>
 						<name>b_48_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -19968,14 +19968,14 @@
 						<id>451</id>
 						<name>b_49_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -20025,14 +20025,14 @@
 						<id>452</id>
 						<name>b_50_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -20082,14 +20082,14 @@
 						<id>453</id>
 						<name>b_51_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -20139,14 +20139,14 @@
 						<id>454</id>
 						<name>b_52_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -20196,14 +20196,14 @@
 						<id>455</id>
 						<name>b_53_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -20253,14 +20253,14 @@
 						<id>456</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -20415,14 +20415,14 @@
 						<id>458</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -20471,14 +20471,14 @@
 						<id>459</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -20526,14 +20526,14 @@
 						<id>461</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -20582,14 +20582,14 @@
 						<id>462</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -20637,14 +20637,14 @@
 						<id>464</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -20693,14 +20693,14 @@
 						<id>465</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -20748,14 +20748,14 @@
 						<id>467</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -20804,14 +20804,14 @@
 						<id>468</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -20859,14 +20859,14 @@
 						<id>470</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -20915,14 +20915,14 @@
 						<id>471</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -20970,14 +20970,14 @@
 						<id>473</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -21026,14 +21026,14 @@
 						<id>474</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -21081,14 +21081,14 @@
 						<id>476</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -21137,14 +21137,14 @@
 						<id>477</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -21192,14 +21192,14 @@
 						<id>479</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -21248,14 +21248,14 @@
 						<id>480</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -21303,14 +21303,14 @@
 						<id>482</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -21359,14 +21359,14 @@
 						<id>483</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -21414,14 +21414,14 @@
 						<id>485</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -21470,14 +21470,14 @@
 						<id>486</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -21525,14 +21525,14 @@
 						<id>488</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -21581,14 +21581,14 @@
 						<id>489</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -21636,14 +21636,14 @@
 						<id>491</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -21692,14 +21692,14 @@
 						<id>492</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -21747,14 +21747,14 @@
 						<id>494</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -21803,14 +21803,14 @@
 						<id>495</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -21858,14 +21858,14 @@
 						<id>497</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -21914,14 +21914,14 @@
 						<id>498</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -21969,14 +21969,14 @@
 						<id>500</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -22025,14 +22025,14 @@
 						<id>501</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -22080,14 +22080,14 @@
 						<id>503</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -22136,14 +22136,14 @@
 						<id>504</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -22191,14 +22191,14 @@
 						<id>506</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -22247,14 +22247,14 @@
 						<id>507</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -22302,14 +22302,14 @@
 						<id>509</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -22358,14 +22358,14 @@
 						<id>510</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -22413,14 +22413,14 @@
 						<id>512</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -22469,14 +22469,14 @@
 						<id>513</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -22524,14 +22524,14 @@
 						<id>515</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -22580,14 +22580,14 @@
 						<id>516</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -22635,14 +22635,14 @@
 						<id>518</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -22691,14 +22691,14 @@
 						<id>519</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -22746,14 +22746,14 @@
 						<id>521</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -22802,14 +22802,14 @@
 						<id>522</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -22857,14 +22857,14 @@
 						<id>524</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -22913,14 +22913,14 @@
 						<id>525</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -22968,14 +22968,14 @@
 						<id>527</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -23024,14 +23024,14 @@
 						<id>528</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -23079,14 +23079,14 @@
 						<id>530</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -23135,14 +23135,14 @@
 						<id>531</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -23190,14 +23190,14 @@
 						<id>533</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -23246,14 +23246,14 @@
 						<id>534</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -23301,14 +23301,14 @@
 						<id>536</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -23357,14 +23357,14 @@
 						<id>537</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -23412,14 +23412,14 @@
 						<id>539</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -23468,14 +23468,14 @@
 						<id>540</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -23523,14 +23523,14 @@
 						<id>542</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -23579,14 +23579,14 @@
 						<id>543</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -23634,14 +23634,14 @@
 						<id>545</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -23690,14 +23690,14 @@
 						<id>546</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -23745,14 +23745,14 @@
 						<id>548</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -23801,14 +23801,14 @@
 						<id>549</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -23856,14 +23856,14 @@
 						<id>551</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -23912,14 +23912,14 @@
 						<id>552</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -23967,14 +23967,14 @@
 						<id>554</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -24023,14 +24023,14 @@
 						<id>555</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -24078,14 +24078,14 @@
 						<id>557</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -24134,14 +24134,14 @@
 						<id>558</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -24189,14 +24189,14 @@
 						<id>560</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -24245,14 +24245,14 @@
 						<id>561</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -24300,14 +24300,14 @@
 						<id>563</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -24356,14 +24356,14 @@
 						<id>564</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -24411,14 +24411,14 @@
 						<id>566</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -24467,14 +24467,14 @@
 						<id>567</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -24522,14 +24522,14 @@
 						<id>569</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -24578,14 +24578,14 @@
 						<id>570</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -24633,14 +24633,14 @@
 						<id>572</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -24689,14 +24689,14 @@
 						<id>573</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -24744,14 +24744,14 @@
 						<id>575</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -24800,14 +24800,14 @@
 						<id>576</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -24855,14 +24855,14 @@
 						<id>578</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -24911,14 +24911,14 @@
 						<id>579</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -24966,14 +24966,14 @@
 						<id>581</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -25022,14 +25022,14 @@
 						<id>582</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -25077,14 +25077,14 @@
 						<id>584</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -25133,14 +25133,14 @@
 						<id>585</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -25188,14 +25188,14 @@
 						<id>587</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -25244,14 +25244,14 @@
 						<id>588</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -25299,14 +25299,14 @@
 						<id>590</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -25355,14 +25355,14 @@
 						<id>591</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -25410,14 +25410,14 @@
 						<id>593</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -25466,14 +25466,14 @@
 						<id>594</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -25521,14 +25521,14 @@
 						<id>596</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -25577,14 +25577,14 @@
 						<id>597</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -25632,14 +25632,14 @@
 						<id>599</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -25688,14 +25688,14 @@
 						<id>600</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -25743,14 +25743,14 @@
 						<id>602</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -25799,14 +25799,14 @@
 						<id>603</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -25854,14 +25854,14 @@
 						<id>605</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -25910,14 +25910,14 @@
 						<id>606</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -25965,14 +25965,14 @@
 						<id>608</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -26021,14 +26021,14 @@
 						<id>609</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -26076,14 +26076,14 @@
 						<id>611</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -26132,14 +26132,14 @@
 						<id>612</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -26187,14 +26187,14 @@
 						<id>614</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -26243,14 +26243,14 @@
 						<id>615</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -26298,14 +26298,14 @@
 						<id>617</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -26354,14 +26354,14 @@
 						<id>618</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>150</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -26409,14 +26409,14 @@
 						<id>621</id>
 						<name>j_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>146</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -26465,14 +26465,14 @@
 						<id>622</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>146</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -26591,14 +26591,14 @@
 						<id>627</id>
 						<name>ia_0_i_i</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -26799,14 +26799,14 @@
 						<id>633</id>
 						<name>ia</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>53</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -26862,14 +26862,14 @@
 						<id>635</id>
 						<name>exitcond1_i_i</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>54</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -26925,14 +26925,14 @@
 						<id>636</id>
 						<name>ib_0_i_i_mid2</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>54</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -26989,14 +26989,14 @@
 						<id>637</id>
 						<name>tmp_9_mid2_v</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -27053,14 +27053,14 @@
 						<id>638</id>
 						<name>tmp_9_mid2</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -27115,14 +27115,14 @@
 						<id>639</id>
 						<name>tmp_9_mid2_cast</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>60</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -27177,14 +27177,14 @@
 						<id>640</id>
 						<name>tmp</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>60</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -27240,14 +27240,14 @@
 						<id>641</id>
 						<name>a_0_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -27304,14 +27304,14 @@
 						<id>642</id>
 						<name>a_0_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -27366,14 +27366,14 @@
 						<id>643</id>
 						<name>a_1_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -27430,14 +27430,14 @@
 						<id>644</id>
 						<name>a_1_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -27492,14 +27492,14 @@
 						<id>645</id>
 						<name>a_2_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -27556,14 +27556,14 @@
 						<id>646</id>
 						<name>a_2_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -27618,14 +27618,14 @@
 						<id>647</id>
 						<name>a_3_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -27682,14 +27682,14 @@
 						<id>648</id>
 						<name>a_3_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -27744,14 +27744,14 @@
 						<id>649</id>
 						<name>a_4_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -27808,14 +27808,14 @@
 						<id>650</id>
 						<name>a_4_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -27870,14 +27870,14 @@
 						<id>651</id>
 						<name>a_5_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -27934,14 +27934,14 @@
 						<id>652</id>
 						<name>a_5_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -27996,14 +27996,14 @@
 						<id>653</id>
 						<name>a_6_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -28060,14 +28060,14 @@
 						<id>654</id>
 						<name>a_6_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -28122,14 +28122,14 @@
 						<id>655</id>
 						<name>a_7_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -28186,14 +28186,14 @@
 						<id>656</id>
 						<name>a_7_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -28248,14 +28248,14 @@
 						<id>657</id>
 						<name>a_8_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -28312,14 +28312,14 @@
 						<id>658</id>
 						<name>a_8_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -28374,14 +28374,14 @@
 						<id>659</id>
 						<name>a_9_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -28438,14 +28438,14 @@
 						<id>660</id>
 						<name>a_9_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -28500,14 +28500,14 @@
 						<id>661</id>
 						<name>a_10_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -28564,14 +28564,14 @@
 						<id>662</id>
 						<name>a_10_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -28626,14 +28626,14 @@
 						<id>663</id>
 						<name>a_11_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -28690,14 +28690,14 @@
 						<id>664</id>
 						<name>a_11_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -28752,14 +28752,14 @@
 						<id>665</id>
 						<name>a_12_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -28816,14 +28816,14 @@
 						<id>666</id>
 						<name>a_12_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -28878,14 +28878,14 @@
 						<id>667</id>
 						<name>a_13_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -28942,14 +28942,14 @@
 						<id>668</id>
 						<name>a_13_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -29004,14 +29004,14 @@
 						<id>669</id>
 						<name>a_14_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -29068,14 +29068,14 @@
 						<id>670</id>
 						<name>a_14_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -29130,14 +29130,14 @@
 						<id>671</id>
 						<name>a_15_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -29194,14 +29194,14 @@
 						<id>672</id>
 						<name>a_15_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -29256,14 +29256,14 @@
 						<id>673</id>
 						<name>a_16_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -29320,14 +29320,14 @@
 						<id>674</id>
 						<name>a_16_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -29382,14 +29382,14 @@
 						<id>675</id>
 						<name>a_17_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -29446,14 +29446,14 @@
 						<id>676</id>
 						<name>a_17_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -29508,14 +29508,14 @@
 						<id>677</id>
 						<name>a_18_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -29572,14 +29572,14 @@
 						<id>678</id>
 						<name>a_18_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -29634,14 +29634,14 @@
 						<id>679</id>
 						<name>a_19_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -29698,14 +29698,14 @@
 						<id>680</id>
 						<name>a_19_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -29760,14 +29760,14 @@
 						<id>681</id>
 						<name>a_20_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -29824,14 +29824,14 @@
 						<id>682</id>
 						<name>a_20_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -29886,14 +29886,14 @@
 						<id>683</id>
 						<name>a_21_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -29950,14 +29950,14 @@
 						<id>684</id>
 						<name>a_21_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -30012,14 +30012,14 @@
 						<id>685</id>
 						<name>a_22_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -30076,14 +30076,14 @@
 						<id>686</id>
 						<name>a_22_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -30138,14 +30138,14 @@
 						<id>687</id>
 						<name>a_23_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -30202,14 +30202,14 @@
 						<id>688</id>
 						<name>a_23_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -30264,14 +30264,14 @@
 						<id>689</id>
 						<name>a_24_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -30328,14 +30328,14 @@
 						<id>690</id>
 						<name>a_24_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -30390,14 +30390,14 @@
 						<id>691</id>
 						<name>a_25_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -30454,14 +30454,14 @@
 						<id>692</id>
 						<name>a_25_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -30516,14 +30516,14 @@
 						<id>693</id>
 						<name>a_26_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -30580,14 +30580,14 @@
 						<id>694</id>
 						<name>a_26_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -30642,14 +30642,14 @@
 						<id>695</id>
 						<name>a_27_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -30706,14 +30706,14 @@
 						<id>696</id>
 						<name>a_27_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -30768,14 +30768,14 @@
 						<id>697</id>
 						<name>a_28_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -30832,14 +30832,14 @@
 						<id>698</id>
 						<name>a_28_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -30894,14 +30894,14 @@
 						<id>699</id>
 						<name>a_29_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -30958,14 +30958,14 @@
 						<id>700</id>
 						<name>a_29_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -31020,14 +31020,14 @@
 						<id>701</id>
 						<name>a_30_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -31084,14 +31084,14 @@
 						<id>702</id>
 						<name>a_30_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -31146,14 +31146,14 @@
 						<id>703</id>
 						<name>a_31_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -31210,14 +31210,14 @@
 						<id>704</id>
 						<name>a_31_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -31272,14 +31272,14 @@
 						<id>705</id>
 						<name>a_32_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -31336,14 +31336,14 @@
 						<id>706</id>
 						<name>a_32_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -31398,14 +31398,14 @@
 						<id>707</id>
 						<name>a_33_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -31462,14 +31462,14 @@
 						<id>708</id>
 						<name>a_33_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -31524,14 +31524,14 @@
 						<id>709</id>
 						<name>a_34_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -31588,14 +31588,14 @@
 						<id>710</id>
 						<name>a_34_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -31650,14 +31650,14 @@
 						<id>711</id>
 						<name>a_35_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -31714,14 +31714,14 @@
 						<id>712</id>
 						<name>a_35_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -31776,14 +31776,14 @@
 						<id>713</id>
 						<name>a_36_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -31840,14 +31840,14 @@
 						<id>714</id>
 						<name>a_36_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -31902,14 +31902,14 @@
 						<id>715</id>
 						<name>a_37_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -31966,14 +31966,14 @@
 						<id>716</id>
 						<name>a_37_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -32028,14 +32028,14 @@
 						<id>717</id>
 						<name>a_38_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -32092,14 +32092,14 @@
 						<id>718</id>
 						<name>a_38_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -32154,14 +32154,14 @@
 						<id>719</id>
 						<name>a_39_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -32218,14 +32218,14 @@
 						<id>720</id>
 						<name>a_39_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -32280,14 +32280,14 @@
 						<id>721</id>
 						<name>a_40_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -32344,14 +32344,14 @@
 						<id>722</id>
 						<name>a_40_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -32406,14 +32406,14 @@
 						<id>723</id>
 						<name>a_41_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -32470,14 +32470,14 @@
 						<id>724</id>
 						<name>a_41_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -32532,14 +32532,14 @@
 						<id>725</id>
 						<name>a_42_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -32596,14 +32596,14 @@
 						<id>726</id>
 						<name>a_42_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -32658,14 +32658,14 @@
 						<id>727</id>
 						<name>a_43_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -32722,14 +32722,14 @@
 						<id>728</id>
 						<name>a_43_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -32784,14 +32784,14 @@
 						<id>729</id>
 						<name>a_44_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -32848,14 +32848,14 @@
 						<id>730</id>
 						<name>a_44_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -32910,14 +32910,14 @@
 						<id>731</id>
 						<name>a_45_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -32974,14 +32974,14 @@
 						<id>732</id>
 						<name>a_45_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -33036,14 +33036,14 @@
 						<id>733</id>
 						<name>a_46_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -33100,14 +33100,14 @@
 						<id>734</id>
 						<name>a_46_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -33162,14 +33162,14 @@
 						<id>735</id>
 						<name>a_47_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -33226,14 +33226,14 @@
 						<id>736</id>
 						<name>a_47_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -33288,14 +33288,14 @@
 						<id>737</id>
 						<name>a_48_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -33352,14 +33352,14 @@
 						<id>738</id>
 						<name>a_48_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -33414,14 +33414,14 @@
 						<id>739</id>
 						<name>a_49_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -33478,14 +33478,14 @@
 						<id>740</id>
 						<name>a_49_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -33540,14 +33540,14 @@
 						<id>741</id>
 						<name>a_50_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -33604,14 +33604,14 @@
 						<id>742</id>
 						<name>a_50_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -33666,14 +33666,14 @@
 						<id>743</id>
 						<name>a_51_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -33730,14 +33730,14 @@
 						<id>744</id>
 						<name>a_51_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -33792,14 +33792,14 @@
 						<id>745</id>
 						<name>a_52_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -33856,14 +33856,14 @@
 						<id>746</id>
 						<name>a_52_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -33918,14 +33918,14 @@
 						<id>747</id>
 						<name>a_53_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -33982,14 +33982,14 @@
 						<id>748</id>
 						<name>a_53_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -34044,14 +34044,14 @@
 						<id>752</id>
 						<name>tmp_5</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -34106,14 +34106,14 @@
 						<id>753</id>
 						<name>tmp_5_cast</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>60</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -34168,14 +34168,14 @@
 						<id>754</id>
 						<name>tmp_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>60</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -34231,14 +34231,14 @@
 						<id>755</id>
 						<name>tmp_1_cast</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>60</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -34293,14 +34293,14 @@
 						<id>756</id>
 						<name>out_addr</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>60</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -34357,14 +34357,14 @@
 						<id>757</id>
 						<name>b_0_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -34421,14 +34421,14 @@
 						<id>758</id>
 						<name>b_0_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -34483,14 +34483,14 @@
 						<id>759</id>
 						<name>tmp_2</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -34546,14 +34546,14 @@
 						<id>760</id>
 						<name>sum</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -34609,14 +34609,14 @@
 						<id>761</id>
 						<name>b_1_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -34673,14 +34673,14 @@
 						<id>762</id>
 						<name>b_1_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -34735,14 +34735,14 @@
 						<id>763</id>
 						<name>tmp_16_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -34798,14 +34798,14 @@
 						<id>764</id>
 						<name>sum_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -34861,14 +34861,14 @@
 						<id>765</id>
 						<name>b_2_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -34925,14 +34925,14 @@
 						<id>766</id>
 						<name>b_2_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -34987,14 +34987,14 @@
 						<id>767</id>
 						<name>tmp_16_2</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -35050,14 +35050,14 @@
 						<id>768</id>
 						<name>sum_2</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -35113,14 +35113,14 @@
 						<id>769</id>
 						<name>b_3_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -35177,14 +35177,14 @@
 						<id>770</id>
 						<name>b_3_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -35239,14 +35239,14 @@
 						<id>771</id>
 						<name>tmp_16_3</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -35302,14 +35302,14 @@
 						<id>772</id>
 						<name>sum_3</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -35365,14 +35365,14 @@
 						<id>773</id>
 						<name>b_4_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -35429,14 +35429,14 @@
 						<id>774</id>
 						<name>b_4_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -35491,14 +35491,14 @@
 						<id>775</id>
 						<name>tmp_16_4</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -35554,14 +35554,14 @@
 						<id>776</id>
 						<name>sum_4</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -35617,14 +35617,14 @@
 						<id>777</id>
 						<name>b_5_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -35681,14 +35681,14 @@
 						<id>778</id>
 						<name>b_5_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -35743,14 +35743,14 @@
 						<id>779</id>
 						<name>tmp_16_5</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -35806,14 +35806,14 @@
 						<id>780</id>
 						<name>sum_5</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -35869,14 +35869,14 @@
 						<id>781</id>
 						<name>b_6_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -35933,14 +35933,14 @@
 						<id>782</id>
 						<name>b_6_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -35995,14 +35995,14 @@
 						<id>783</id>
 						<name>tmp_16_6</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -36058,14 +36058,14 @@
 						<id>784</id>
 						<name>sum_6</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -36121,14 +36121,14 @@
 						<id>785</id>
 						<name>b_7_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -36185,14 +36185,14 @@
 						<id>786</id>
 						<name>b_7_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -36247,14 +36247,14 @@
 						<id>787</id>
 						<name>tmp_16_7</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -36310,14 +36310,14 @@
 						<id>788</id>
 						<name>sum_7</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -36373,14 +36373,14 @@
 						<id>789</id>
 						<name>b_8_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -36437,14 +36437,14 @@
 						<id>790</id>
 						<name>b_8_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -36499,14 +36499,14 @@
 						<id>791</id>
 						<name>tmp_16_8</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -36562,14 +36562,14 @@
 						<id>792</id>
 						<name>sum_8</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -36625,14 +36625,14 @@
 						<id>793</id>
 						<name>b_9_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -36689,14 +36689,14 @@
 						<id>794</id>
 						<name>b_9_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -36751,14 +36751,14 @@
 						<id>795</id>
 						<name>tmp_16_9</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -36814,14 +36814,14 @@
 						<id>796</id>
 						<name>sum_9</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -36877,14 +36877,14 @@
 						<id>797</id>
 						<name>b_10_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -36941,14 +36941,14 @@
 						<id>798</id>
 						<name>b_10_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -37003,14 +37003,14 @@
 						<id>799</id>
 						<name>tmp_16_s</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -37066,14 +37066,14 @@
 						<id>800</id>
 						<name>sum_s</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -37129,14 +37129,14 @@
 						<id>801</id>
 						<name>b_11_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -37193,14 +37193,14 @@
 						<id>802</id>
 						<name>b_11_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -37255,14 +37255,14 @@
 						<id>803</id>
 						<name>tmp_16_10</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -37318,14 +37318,14 @@
 						<id>804</id>
 						<name>sum_10</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -37381,14 +37381,14 @@
 						<id>805</id>
 						<name>b_12_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -37445,14 +37445,14 @@
 						<id>806</id>
 						<name>b_12_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -37507,14 +37507,14 @@
 						<id>807</id>
 						<name>tmp_16_11</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -37570,14 +37570,14 @@
 						<id>808</id>
 						<name>sum_11</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -37633,14 +37633,14 @@
 						<id>809</id>
 						<name>b_13_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -37697,14 +37697,14 @@
 						<id>810</id>
 						<name>b_13_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -37759,14 +37759,14 @@
 						<id>811</id>
 						<name>tmp_16_12</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -37822,14 +37822,14 @@
 						<id>812</id>
 						<name>sum_12</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -37885,14 +37885,14 @@
 						<id>813</id>
 						<name>b_14_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -37949,14 +37949,14 @@
 						<id>814</id>
 						<name>b_14_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -38011,14 +38011,14 @@
 						<id>815</id>
 						<name>tmp_16_13</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -38074,14 +38074,14 @@
 						<id>816</id>
 						<name>sum_13</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -38137,14 +38137,14 @@
 						<id>817</id>
 						<name>b_15_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -38201,14 +38201,14 @@
 						<id>818</id>
 						<name>b_15_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -38263,14 +38263,14 @@
 						<id>819</id>
 						<name>tmp_16_14</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -38326,14 +38326,14 @@
 						<id>820</id>
 						<name>sum_14</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -38389,14 +38389,14 @@
 						<id>821</id>
 						<name>b_16_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -38453,14 +38453,14 @@
 						<id>822</id>
 						<name>b_16_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -38515,14 +38515,14 @@
 						<id>823</id>
 						<name>tmp_16_15</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -38578,14 +38578,14 @@
 						<id>824</id>
 						<name>sum_15</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -38641,14 +38641,14 @@
 						<id>825</id>
 						<name>b_17_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -38705,14 +38705,14 @@
 						<id>826</id>
 						<name>b_17_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -38767,14 +38767,14 @@
 						<id>827</id>
 						<name>tmp_16_16</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -38830,14 +38830,14 @@
 						<id>828</id>
 						<name>sum_16</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -38893,14 +38893,14 @@
 						<id>829</id>
 						<name>b_18_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -38957,14 +38957,14 @@
 						<id>830</id>
 						<name>b_18_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -39019,14 +39019,14 @@
 						<id>831</id>
 						<name>tmp_16_17</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -39082,14 +39082,14 @@
 						<id>832</id>
 						<name>sum_17</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -39145,14 +39145,14 @@
 						<id>833</id>
 						<name>b_19_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -39209,14 +39209,14 @@
 						<id>834</id>
 						<name>b_19_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -39271,14 +39271,14 @@
 						<id>835</id>
 						<name>tmp_16_18</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -39334,14 +39334,14 @@
 						<id>836</id>
 						<name>sum_18</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -39397,14 +39397,14 @@
 						<id>837</id>
 						<name>b_20_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -39461,14 +39461,14 @@
 						<id>838</id>
 						<name>b_20_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -39523,14 +39523,14 @@
 						<id>839</id>
 						<name>tmp_16_19</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -39586,14 +39586,14 @@
 						<id>840</id>
 						<name>sum_19</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -39649,14 +39649,14 @@
 						<id>841</id>
 						<name>b_21_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -39713,14 +39713,14 @@
 						<id>842</id>
 						<name>b_21_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -39775,14 +39775,14 @@
 						<id>843</id>
 						<name>tmp_16_20</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -39838,14 +39838,14 @@
 						<id>844</id>
 						<name>sum_20</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -39901,14 +39901,14 @@
 						<id>845</id>
 						<name>b_22_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -39965,14 +39965,14 @@
 						<id>846</id>
 						<name>b_22_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -40027,14 +40027,14 @@
 						<id>847</id>
 						<name>tmp_16_21</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -40090,14 +40090,14 @@
 						<id>848</id>
 						<name>sum_21</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -40153,14 +40153,14 @@
 						<id>849</id>
 						<name>b_23_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -40217,14 +40217,14 @@
 						<id>850</id>
 						<name>b_23_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -40279,14 +40279,14 @@
 						<id>851</id>
 						<name>tmp_16_22</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -40342,14 +40342,14 @@
 						<id>852</id>
 						<name>sum_22</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -40405,14 +40405,14 @@
 						<id>853</id>
 						<name>b_24_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -40469,14 +40469,14 @@
 						<id>854</id>
 						<name>b_24_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -40531,14 +40531,14 @@
 						<id>855</id>
 						<name>tmp_16_23</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -40594,14 +40594,14 @@
 						<id>856</id>
 						<name>sum_23</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -40657,14 +40657,14 @@
 						<id>857</id>
 						<name>b_25_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -40721,14 +40721,14 @@
 						<id>858</id>
 						<name>b_25_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -40783,14 +40783,14 @@
 						<id>859</id>
 						<name>tmp_16_24</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -40846,14 +40846,14 @@
 						<id>860</id>
 						<name>sum_24</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -40909,14 +40909,14 @@
 						<id>861</id>
 						<name>b_26_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -40973,14 +40973,14 @@
 						<id>862</id>
 						<name>b_26_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -41035,14 +41035,14 @@
 						<id>863</id>
 						<name>tmp_16_25</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -41098,14 +41098,14 @@
 						<id>864</id>
 						<name>sum_25</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -41161,14 +41161,14 @@
 						<id>865</id>
 						<name>b_27_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -41225,14 +41225,14 @@
 						<id>866</id>
 						<name>b_27_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -41287,14 +41287,14 @@
 						<id>867</id>
 						<name>tmp_16_26</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -41350,14 +41350,14 @@
 						<id>868</id>
 						<name>sum_26</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -41413,14 +41413,14 @@
 						<id>869</id>
 						<name>b_28_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -41477,14 +41477,14 @@
 						<id>870</id>
 						<name>b_28_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -41539,14 +41539,14 @@
 						<id>871</id>
 						<name>tmp_16_27</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -41602,14 +41602,14 @@
 						<id>872</id>
 						<name>sum_27</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -41665,14 +41665,14 @@
 						<id>873</id>
 						<name>b_29_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -41729,14 +41729,14 @@
 						<id>874</id>
 						<name>b_29_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -41791,14 +41791,14 @@
 						<id>875</id>
 						<name>tmp_16_28</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -41854,14 +41854,14 @@
 						<id>876</id>
 						<name>sum_28</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -41917,14 +41917,14 @@
 						<id>877</id>
 						<name>b_30_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -41981,14 +41981,14 @@
 						<id>878</id>
 						<name>b_30_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -42043,14 +42043,14 @@
 						<id>879</id>
 						<name>tmp_16_29</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -42106,14 +42106,14 @@
 						<id>880</id>
 						<name>sum_29</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -42169,14 +42169,14 @@
 						<id>881</id>
 						<name>b_31_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -42233,14 +42233,14 @@
 						<id>882</id>
 						<name>b_31_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -42295,14 +42295,14 @@
 						<id>883</id>
 						<name>tmp_16_30</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -42358,14 +42358,14 @@
 						<id>884</id>
 						<name>sum_30</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -42421,14 +42421,14 @@
 						<id>885</id>
 						<name>b_32_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -42485,14 +42485,14 @@
 						<id>886</id>
 						<name>b_32_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -42547,14 +42547,14 @@
 						<id>887</id>
 						<name>tmp_16_31</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -42610,14 +42610,14 @@
 						<id>888</id>
 						<name>sum_31</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -42673,14 +42673,14 @@
 						<id>889</id>
 						<name>b_33_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -42737,14 +42737,14 @@
 						<id>890</id>
 						<name>b_33_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -42799,14 +42799,14 @@
 						<id>891</id>
 						<name>tmp_16_32</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -42862,14 +42862,14 @@
 						<id>892</id>
 						<name>sum_32</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -42925,14 +42925,14 @@
 						<id>893</id>
 						<name>b_34_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -42989,14 +42989,14 @@
 						<id>894</id>
 						<name>b_34_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -43051,14 +43051,14 @@
 						<id>895</id>
 						<name>tmp_16_33</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -43114,14 +43114,14 @@
 						<id>896</id>
 						<name>sum_33</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -43177,14 +43177,14 @@
 						<id>897</id>
 						<name>b_35_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -43241,14 +43241,14 @@
 						<id>898</id>
 						<name>b_35_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -43303,14 +43303,14 @@
 						<id>899</id>
 						<name>tmp_16_34</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -43366,14 +43366,14 @@
 						<id>900</id>
 						<name>sum_34</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -43429,14 +43429,14 @@
 						<id>901</id>
 						<name>b_36_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -43493,14 +43493,14 @@
 						<id>902</id>
 						<name>b_36_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -43555,14 +43555,14 @@
 						<id>903</id>
 						<name>tmp_16_35</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -43618,14 +43618,14 @@
 						<id>904</id>
 						<name>sum_35</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -43681,14 +43681,14 @@
 						<id>905</id>
 						<name>b_37_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -43745,14 +43745,14 @@
 						<id>906</id>
 						<name>b_37_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -43807,14 +43807,14 @@
 						<id>907</id>
 						<name>tmp_16_36</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -43870,14 +43870,14 @@
 						<id>908</id>
 						<name>sum_36</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -43933,14 +43933,14 @@
 						<id>909</id>
 						<name>b_38_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -43997,14 +43997,14 @@
 						<id>910</id>
 						<name>b_38_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -44059,14 +44059,14 @@
 						<id>911</id>
 						<name>tmp_16_37</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -44122,14 +44122,14 @@
 						<id>912</id>
 						<name>sum_37</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -44185,14 +44185,14 @@
 						<id>913</id>
 						<name>b_39_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -44249,14 +44249,14 @@
 						<id>914</id>
 						<name>b_39_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -44311,14 +44311,14 @@
 						<id>915</id>
 						<name>tmp_16_38</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -44374,14 +44374,14 @@
 						<id>916</id>
 						<name>sum_38</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -44437,14 +44437,14 @@
 						<id>917</id>
 						<name>b_40_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -44501,14 +44501,14 @@
 						<id>918</id>
 						<name>b_40_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -44563,14 +44563,14 @@
 						<id>919</id>
 						<name>tmp_16_39</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -44626,14 +44626,14 @@
 						<id>920</id>
 						<name>sum_39</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -44689,14 +44689,14 @@
 						<id>921</id>
 						<name>b_41_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -44753,14 +44753,14 @@
 						<id>922</id>
 						<name>b_41_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -44815,14 +44815,14 @@
 						<id>923</id>
 						<name>tmp_16_40</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -44878,14 +44878,14 @@
 						<id>924</id>
 						<name>sum_40</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -44941,14 +44941,14 @@
 						<id>925</id>
 						<name>b_42_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -45005,14 +45005,14 @@
 						<id>926</id>
 						<name>b_42_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -45067,14 +45067,14 @@
 						<id>927</id>
 						<name>tmp_16_41</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -45130,14 +45130,14 @@
 						<id>928</id>
 						<name>sum_41</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -45193,14 +45193,14 @@
 						<id>929</id>
 						<name>b_43_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -45257,14 +45257,14 @@
 						<id>930</id>
 						<name>b_43_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -45319,14 +45319,14 @@
 						<id>931</id>
 						<name>tmp_16_42</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -45382,14 +45382,14 @@
 						<id>932</id>
 						<name>sum_42</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -45445,14 +45445,14 @@
 						<id>933</id>
 						<name>b_44_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -45509,14 +45509,14 @@
 						<id>934</id>
 						<name>b_44_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -45571,14 +45571,14 @@
 						<id>935</id>
 						<name>tmp_16_43</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -45634,14 +45634,14 @@
 						<id>936</id>
 						<name>sum_43</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -45697,14 +45697,14 @@
 						<id>937</id>
 						<name>b_45_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -45761,14 +45761,14 @@
 						<id>938</id>
 						<name>b_45_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -45823,14 +45823,14 @@
 						<id>939</id>
 						<name>tmp_16_44</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -45886,14 +45886,14 @@
 						<id>940</id>
 						<name>sum_44</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -45949,14 +45949,14 @@
 						<id>941</id>
 						<name>b_46_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -46013,14 +46013,14 @@
 						<id>942</id>
 						<name>b_46_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -46075,14 +46075,14 @@
 						<id>943</id>
 						<name>tmp_16_45</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -46138,14 +46138,14 @@
 						<id>944</id>
 						<name>sum_45</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -46201,14 +46201,14 @@
 						<id>945</id>
 						<name>b_47_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -46265,14 +46265,14 @@
 						<id>946</id>
 						<name>b_47_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -46327,14 +46327,14 @@
 						<id>947</id>
 						<name>tmp_16_46</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -46390,14 +46390,14 @@
 						<id>948</id>
 						<name>sum_46</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -46453,14 +46453,14 @@
 						<id>949</id>
 						<name>b_48_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -46517,14 +46517,14 @@
 						<id>950</id>
 						<name>b_48_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -46579,14 +46579,14 @@
 						<id>951</id>
 						<name>tmp_16_47</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -46642,14 +46642,14 @@
 						<id>952</id>
 						<name>sum_47</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -46705,14 +46705,14 @@
 						<id>953</id>
 						<name>b_49_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -46769,14 +46769,14 @@
 						<id>954</id>
 						<name>b_49_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -46831,14 +46831,14 @@
 						<id>955</id>
 						<name>tmp_16_48</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -46894,14 +46894,14 @@
 						<id>956</id>
 						<name>sum_48</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -46957,14 +46957,14 @@
 						<id>957</id>
 						<name>b_50_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -47021,14 +47021,14 @@
 						<id>958</id>
 						<name>b_50_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -47083,14 +47083,14 @@
 						<id>959</id>
 						<name>tmp_16_49</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -47146,14 +47146,14 @@
 						<id>960</id>
 						<name>sum_49</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -47209,14 +47209,14 @@
 						<id>961</id>
 						<name>b_51_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -47273,14 +47273,14 @@
 						<id>962</id>
 						<name>b_51_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -47335,14 +47335,14 @@
 						<id>963</id>
 						<name>tmp_16_50</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -47398,14 +47398,14 @@
 						<id>964</id>
 						<name>sum_50</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -47461,14 +47461,14 @@
 						<id>965</id>
 						<name>b_52_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -47525,14 +47525,14 @@
 						<id>966</id>
 						<name>b_52_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -47587,14 +47587,14 @@
 						<id>967</id>
 						<name>tmp_16_51</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -47650,14 +47650,14 @@
 						<id>968</id>
 						<name>sum_51</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -47713,14 +47713,14 @@
 						<id>969</id>
 						<name>b_53_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -47777,14 +47777,14 @@
 						<id>970</id>
 						<name>b_53_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -47839,14 +47839,14 @@
 						<id>971</id>
 						<name>tmp_16_52</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -47902,14 +47902,14 @@
 						<id>972</id>
 						<name>sum_52</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>59</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -47965,14 +47965,14 @@
 						<id>973</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>60</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -48028,14 +48028,14 @@
 						<id>975</id>
 						<name>ib</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>54</lineNumber>
 						<contextFuncName>mmult_hw&amp;lt;half, 54&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -48125,14 +48125,14 @@
 						<id>978</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>157</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -48217,14 +48217,14 @@
 						<id>981</id>
 						<name>i4_0_i</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>161</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -48418,14 +48418,14 @@
 						<id>987</id>
 						<name>i_2</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>157</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -48474,14 +48474,14 @@
 						<id>988</id>
 						<name>exitcond_i</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>158</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -48530,14 +48530,14 @@
 						<id>989</id>
 						<name>j5_0_i_mid2</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>158</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -48587,14 +48587,14 @@
 						<id>990</id>
 						<name>tmp_8_mid2_v_v</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>161</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -48644,14 +48644,14 @@
 						<id>991</id>
 						<name>tmp_8_mid2_v</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>161</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -48699,14 +48699,14 @@
 						<id>992</id>
 						<name>tmp_8_mid2</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>161</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -48755,14 +48755,14 @@
 						<id>993</id>
 						<name>tmp_2_mid2_cast</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>162</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -48810,14 +48810,14 @@
 						<id>994</id>
 						<name>tmp_3</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>162</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -48866,14 +48866,14 @@
 						<id>995</id>
 						<name>j5_0_i_cast2</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>158</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -48921,14 +48921,14 @@
 						<id>998</id>
 						<name>k</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>161</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -48977,14 +48977,14 @@
 						<id>999</id>
 						<name>tmp_9</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>162</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -49033,14 +49033,14 @@
 						<id>1000</id>
 						<name>tmp_11_cast</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>162</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -49088,14 +49088,14 @@
 						<id>1001</id>
 						<name>out_addr_1</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>162</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -49145,14 +49145,14 @@
 						<id>1002</id>
 						<name>last_assign</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>162</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -49201,14 +49201,14 @@
 						<id>1003</id>
 						<name>out_load</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>104</lineNumber>
 						<contextFuncName>push_stream&amp;lt;half, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -49263,14 +49263,14 @@
 						<id>1004</id>
 						<name>tmp_10</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>104</lineNumber>
 						<contextFuncName>push_stream&amp;lt;half, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -49325,14 +49325,14 @@
 						<id>1005</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>104</lineNumber>
 						<contextFuncName>push_stream&amp;lt;half, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>3</count>
 									<item_version>0</item_version>
@@ -49401,14 +49401,14 @@
 						<id>1007</id>
 						<name>j_2</name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>158</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -49457,14 +49457,14 @@
 						<id>1008</id>
 						<name></name>
 						<fileName>./mmult.h</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>158</lineNumber>
 						<contextFuncName>wrapped_mmult_hw&amp;lt;half, 54, 2916, 4, 5, 5&amp;gt;</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>2</count>
 									<item_version>0</item_version>
@@ -49512,14 +49512,14 @@
 						<id>1010</id>
 						<name></name>
 						<fileName>mmult_accel.cpp</fileName>
-						<fileDirectory>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</fileDirectory>
+						<fileDirectory>C:\part2\architecture_impl_sol2_2</fileDirectory>
 						<lineNumber>28</lineNumber>
 						<contextFuncName>HLS_accel</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>C:\Temp\code_de_depart_partie2\architecture_impl_sol2_2</first>
+								<first>C:\part2\architecture_impl_sol2_2</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>

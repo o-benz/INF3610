@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vivadoHLSLog:LogRoot xmlns:vivadoHLSLog="www.xilinx.com/vivadoHLSLog">
+  <errorLogs>
+    <logs>
+      <synLog/>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </errorLogs>
+  <warningLogs>
+    <logs>
+      <synLog>
+        <logs message="WARNING: [SCHED 204-21] The critical path in module 'HLS_accel' consists of the following:&#xD;&#xA;&#x9;'mul' operation of DSP[754] ('tmp', ./mmult.h:60->./mmult.h:154->mmult_accel.cpp:26) [640]  (3.36 ns)&#xD;&#xA;&#x9;'add' operation of DSP[754] ('tmp_1', ./mmult.h:60->./mmult.h:154->mmult_accel.cpp:26) [754]  (3.02 ns)&#xD;&#xA;&#x9;'getelementptr' operation ('out_addr', ./mmult.h:60->./mmult.h:154->mmult_accel.cpp:26) [756]  (0 ns)&#xD;&#xA;&#x9;'store' operation (./mmult.h:60->./mmult.h:154->mmult_accel.cpp:26) of variable 'sum_52', ./mmult.h:59->./mmult.h:154->mmult_accel.cpp:26 on array 'out', ./mmult.h:130->mmult_accel.cpp:26 [973]  (3.25 ns)" projectName="hls_wrapped_mmult_prj" solutionName="solution2_2" date="2024-12-04T03:24:46.537-0500" type="Warning"/>
+        <logs message="WARNING: [SCHED 204-21] Estimated clock period (9.634ns) exceeds the target (target clock period: 10ns, clock uncertainty: 1.25ns, effective delay budget: 8.75ns)." projectName="hls_wrapped_mmult_prj" solutionName="solution2_2" date="2024-12-04T03:24:46.510-0500" type="Warning"/>
+        <logs message="WARNING: [XFORM 203-104] Completely partitioning array 'b' (./mmult.h:129) accessed through non-constant indices on dimension 1 (./mmult.h:150:15), which may result in long runtime and suboptimal QoR due to large multiplexers. Please consider wrapping the array access into a function or using a register file core instead." projectName="hls_wrapped_mmult_prj" solutionName="solution2_2" date="2024-12-04T03:24:43.804-0500" type="Warning"/>
+        <logs message="WARNING: [XFORM 203-104] Completely partitioning array 'a' (./mmult.h:128) accessed through non-constant indices on dimension 2 (./mmult.h:140:14), which may result in long runtime and suboptimal QoR due to large multiplexers. Please consider wrapping the array access into a function or using a register file core instead." projectName="hls_wrapped_mmult_prj" solutionName="solution2_2" date="2024-12-04T03:24:43.744-0500" type="Warning"/>
+        <logs message="WARNING: [XFORM 203-1103] Ignored data pack directive on non-struct variable 'INPUT_STREAM.data.V' (mmult_accel.cpp:19)." projectName="hls_wrapped_mmult_prj" solutionName="solution2_2" date="2024-12-04T03:24:43.593-0500" type="Warning"/>
+        <logs message="WARNING: [XFORM 203-1103] Ignored data pack directive on non-struct variable 'OUTPUT_STREAM.data.V' (mmult_accel.cpp:19)." projectName="hls_wrapped_mmult_prj" solutionName="solution2_2" date="2024-12-04T03:24:43.554-0500" type="Warning"/>
+      </synLog>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </warningLogs>
+</vivadoHLSLog:LogRoot>
